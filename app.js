@@ -128,15 +128,6 @@ function renderSchedule(data) {
 
     renderRecentlyAdded(newEvents, months, weekdays);
 
-    // Initial scroll to today
-    setTimeout(() => {
-        const todayTarget = document.getElementById('today-item');
-        if (todayTarget) {
-            const yOffset = -140;
-            const y = todayTarget.getBoundingClientRect().top + window.pageYOffset + yOffset;
-            window.scrollTo({ top: y, behavior: 'smooth' });
-        }
-    }, 100);
 }
 
 function createEventCard(venueCode, eventInfo, dateObj = null, isToday = false) {
