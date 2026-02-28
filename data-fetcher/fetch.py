@@ -73,10 +73,14 @@ def fetch_bluenote():
     m3 = next_m + 1 if next_m < 12 else 1
     y3 = next_y if next_m < 12 else next_y + 1
     
+    m4 = m3 + 1 if m3 < 12 else 1
+    y4 = y3 if m3 < 12 else y3 + 1
+    
     urls_to_fetch = [
         url_base,
         f"https://reserve.bluenote.co.jp/reserve/schedule/move/{next_y}{next_m:02d}/",
-        f"https://reserve.bluenote.co.jp/reserve/schedule/move/{y3}{m3:02d}/"
+        f"https://reserve.bluenote.co.jp/reserve/schedule/move/{y3}{m3:02d}/",
+        f"https://reserve.bluenote.co.jp/reserve/schedule/move/{y4}{m4:02d}/"
     ]
     
     for url in urls_to_fetch:
@@ -230,12 +234,16 @@ def fetch_cottonclub():
         m3 = next_m + 1 if next_m < 12 else 1
         y3 = next_y if next_m < 12 else next_y + 1
         
+        m4 = m3 + 1 if m3 < 12 else 1
+        y4 = y3 if m3 < 12 else y3 + 1
+        
         # 1. Build image to URL map from the main site schedules
         img_to_url = {}
         schedule_pages = [
             url_base,
             f"https://www.cottonclubjapan.co.jp/jp/schedule/{next_y}{next_m:02d}/",
-            f"https://www.cottonclubjapan.co.jp/jp/schedule/{y3}{m3:02d}/"
+            f"https://www.cottonclubjapan.co.jp/jp/schedule/{y3}{m3:02d}/",
+            f"https://www.cottonclubjapan.co.jp/jp/schedule/{y4}{m4:02d}/"
         ]
         for url in schedule_pages:
             try:
@@ -293,7 +301,8 @@ def fetch_cottonclub():
         urls_to_fetch = [
             f"https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/{real_y}{real_m:02d}/",
             f"https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/{next_y}{next_m:02d}/",
-            f"https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/{y3}{m3:02d}/"
+            f"https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/{y3}{m3:02d}/",
+            f"https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/{y4}{m4:02d}/"
         ]
         
         for url in urls_to_fetch:
