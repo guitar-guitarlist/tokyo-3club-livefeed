@@ -506,12 +506,41 @@ h1 {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--glass-border);
-    padding: 1rem 0;
+    padding: 1rem;
     margin-bottom: 2rem;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     gap: 1rem;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    transition: padding 0.3s ease;
+}
+
+.nav-brand {
+    font-family: 'Playfair Display', 'Noto Serif JP', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    display: none;
+    letter-spacing: -0.02em;
+    transition: opacity 0.3s ease;
+}
+
+.month-nav.scrolled .nav-brand {
+    display: block;
+    animation: fadeIn 0.3s ease forwards;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
 .month-nav-btn {
@@ -547,4 +576,35 @@ h1 {
     font-weight: 700;
     color: var(--text-primary);
     letter-spacing: 0.05em;
+}
+
+@media (max-width: 768px) {
+    .month-nav {
+        padding: 0.75rem 0.5rem;
+        gap: 0.5rem;
+    }
+    
+    .nav-buttons {
+        justify-content: flex-start;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none; /* Firefox */
+        gap: 0.5rem;
+    }
+    
+    .nav-buttons::-webkit-scrollbar {
+        display: none; /* Safari/Chrome */
+    }
+
+    .month-nav-btn {
+        white-space: nowrap;
+        flex-shrink: 0;
+        padding: 0.4rem 1rem;
+        font-size: 0.9rem;
+    }
+    
+    .nav-brand {
+        font-size: 1.2rem;
+    }
 }

@@ -1,3 +1,14 @@
+window.addEventListener('scroll', () => {
+    const nav = document.getElementById('month-nav');
+    if (nav) {
+        if (window.scrollY > 80) {
+            nav.classList.add('scrolled');
+        } else {
+            nav.classList.remove('scrolled');
+        }
+    }
+});
+
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const response = await fetch('schedule.json');
@@ -39,7 +50,16 @@ function isNewEvent(firstSeenStr) {
 function renderSchedule(data) {
     const grid = document.getElementById('schedule-container');
     const nav = document.getElementById('month-nav');
-    nav.innerHTML = ''; // Start empty for re-rendering
+    nav.innerHTML = `
+        <div class="nav-brand" id="nav-brand" style="cursor: pointer;">Tokyo 3-Club LiveFeed</div>
+        <div class="nav-buttons" id="nav-buttons"></div>
+    `;
+
+    document.getElementById('nav-brand').addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    const navButtons = document.getElementById('nav-buttons');
 
     // Create Today Button
     const todayBtn = document.createElement('button');
@@ -48,12 +68,12 @@ function renderSchedule(data) {
     todayBtn.addEventListener('click', () => {
         const todayTarget = document.getElementById('today-item');
         if (todayTarget) {
-            const yOffset = -140; // offset for sticky nav and headers
-            const y = todayTarget.getBoundingClientRect().top + window.pageYOffset + yOffset;
+            const yOffset = -150; // offset for sticky nav and headers
+            const y = todayTarget.getBoundingClientRect().top + window.scrollY + yOffset;
             window.scrollTo({ top: y, behavior: 'smooth' });
         }
     });
-    nav.appendChild(todayBtn);
+    navButtons.appendChild(todayBtn);
 
     const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -97,12 +117,12 @@ function renderSchedule(data) {
             navBtn.addEventListener('click', () => {
                 const target = document.getElementById(headerId);
                 if (target) {
-                    const yOffset = -80; // offset for sticky nav
-                    const y = target.getBoundingClientRect().top + window.pageYOffset + yOffset;
+                    const yOffset = -110; // offset for sticky nav
+                    const y = target.getBoundingClientRect().top + window.scrollY + yOffset;
                     window.scrollTo({ top: y, behavior: 'smooth' });
                 }
             });
-            nav.appendChild(navBtn);
+            navButtons.appendChild(navBtn);
         }
 
         const wk = d.getDay();
