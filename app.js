@@ -39,6 +39,22 @@ function isNewEvent(firstSeenStr) {
 function renderSchedule(data) {
     const grid = document.getElementById('schedule-container');
     const nav = document.getElementById('month-nav');
+    nav.innerHTML = ''; // Start empty for re-rendering
+
+    // Create Today Button
+    const todayBtn = document.createElement('button');
+    todayBtn.className = 'month-nav-btn today-btn';
+    todayBtn.innerText = 'Today';
+    todayBtn.addEventListener('click', () => {
+        const todayTarget = document.getElementById('today-item');
+        if (todayTarget) {
+            const yOffset = -140; // offset for sticky nav and headers
+            const y = todayTarget.getBoundingClientRect().top + window.pageYOffset + yOffset;
+            window.scrollTo({ top: y, behavior: 'smooth' });
+        }
+    });
+    nav.appendChild(todayBtn);
+
     const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -91,10 +107,12 @@ function renderSchedule(data) {
 
         const wk = d.getDay();
         const wkClass = wk === 0 ? 'weekday-sun' : wk === 6 ? 'weekday-sat' : '';
+        const isToday = d.getFullYear() === todayDate.getFullYear() && d.getMonth() === todayDate.getMonth() && d.getDate() === todayDate.getDate();
 
         // Date Column
         const dateCol = document.createElement('div');
-        dateCol.className = 'date-column';
+        dateCol.className = `date-column ${isToday ? 'date-today' : ''}`;
+        if (isToday) dateCol.id = 'today-item';
         dateCol.innerHTML = `
             <span class="date-month">${months[monthIndex]}</span>
             <span class="date-day">${String(d.getDate()).padStart(2, '0')}</span>
@@ -103,21 +121,33 @@ function renderSchedule(data) {
         grid.appendChild(dateCol);
 
         // Venues
-        grid.appendChild(createEventCard('bn', dayInfo.bluenote, d));
-        grid.appendChild(createEventCard('bb', dayInfo.billboard, d));
-        grid.appendChild(createEventCard('cc', dayInfo.cotton, d));
+        grid.appendChild(createEventCard('bn', dayInfo.bluenote, d, isToday));
+        grid.appendChild(createEventCard('bb', dayInfo.billboard, d, isToday));
+        grid.appendChild(createEventCard('cc', dayInfo.cotton, d, isToday));
     });
 
     renderRecentlyAdded(newEvents, months, weekdays);
+
+    // Initial scroll to today
+    setTimeout(() => {
+        const todayTarget = document.getElementById('today-item');
+        if (todayTarget) {
+            const yOffset = -140;
+            const y = todayTarget.getBoundingClientRect().top + window.pageYOffset + yOffset;
+            window.scrollTo({ top: y, behavior: 'smooth' });
+        }
+    }, 100);
 }
 
-function createEventCard(venueCode, eventInfo, dateObj = null) {
+function createEventCard(venueCode, eventInfo, dateObj = null, isToday = false) {
     const wrapper = document.createElement('div');
     const venueMap = { bn: 'Blue Note Tokyo', bb: 'Billboard Live', cc: 'Cotton Club' };
     const venueName = venueMap[venueCode];
 
+    let baseClass = isToday ? 'is-today ' : '';
+
     if (!eventInfo) {
-        wrapper.className = `empty-slot card-${venueCode}`;
+        wrapper.className = `${baseClass}empty-slot card-${venueCode}`;
         wrapper.innerHTML = `
             <div class="mobile-venue-label">${venueName}</div>
             <div class="empty-text">No Schedule</div>
@@ -125,7 +155,7 @@ function createEventCard(venueCode, eventInfo, dateObj = null) {
         return wrapper;
     }
 
-    wrapper.className = `event-card card-${venueCode}`;
+    wrapper.className = `${baseClass}event-card card-${venueCode}`;
 
     if (eventInfo.url) {
         wrapper.addEventListener('click', () => {

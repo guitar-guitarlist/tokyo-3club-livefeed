@@ -206,6 +206,29 @@ h1 {
     color: #93c5fd;
 }
 
+/* Today Highlight Styles */
+.date-today {
+    background: rgba(139, 115, 85, 0.1);
+    border-radius: 16px;
+    border: 2px solid rgba(139, 115, 85, 0.3);
+    box-shadow: 0 0 15px rgba(139, 115, 85, 0.15);
+}
+
+.date-today .date-day {
+    color: var(--accent-cc);
+}
+
+.today-btn {
+    background: var(--text-primary) !important;
+    color: var(--bg-light) !important;
+    border-color: var(--text-primary) !important;
+}
+
+.today-btn:hover {
+    background: var(--text-secondary) !important;
+    border-color: var(--text-secondary) !important;
+}
+
 /* Event Cards */
 .event-card {
     background: rgba(255, 255, 255, 0.6);
@@ -221,6 +244,13 @@ h1 {
     min-height: 120px;
     display: flex;
     flex-direction: column;
+}
+
+.event-card.is-today,
+.empty-slot.is-today {
+    border: 2px solid rgba(200, 106, 88, 0.4);
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0 4px 15px rgba(200, 106, 88, 0.1);
 }
 
 .event-card:hover {
