@@ -24,6 +24,18 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
+const todayDate = new Date();
+todayDate.setHours(0, 0, 0, 0);
+
+function isNewEvent(firstSeenStr) {
+    if (!firstSeenStr) return false;
+    const fsDate = new Date(firstSeenStr);
+    fsDate.setHours(0, 0, 0, 0);
+    const diffTime = todayDate.getTime() - fsDate.getTime();
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    return diffDays >= 0 && diffDays <= 3;
+}
+
 function renderSchedule(data) {
     const grid = document.getElementById('schedule-container');
     const nav = document.getElementById('month-nav');
@@ -31,12 +43,22 @@ function renderSchedule(data) {
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
     let currentMonthKey = '';
+    const newEvents = [];
 
     data.forEach(dayInfo => {
         const d = dayInfo.date;
         const year = d.getFullYear();
         const monthIndex = d.getMonth();
         const monthKey = `${year}-${monthIndex}`;
+
+        // Collect new events
+        ['bn', 'bb', 'cc'].forEach(venueCode => {
+            const venueKey = venueCode === 'bn' ? 'bluenote' : venueCode === 'bb' ? 'billboard' : 'cotton';
+            const eventInfo = dayInfo[venueKey];
+            if (eventInfo && eventInfo.artist && isNewEvent(eventInfo.first_seen)) {
+                newEvents.push({ date: d, venueCode, eventInfo });
+            }
+        });
 
         // Month Divider and Nav Button
         if (monthKey !== currentMonthKey) {
@@ -81,13 +103,15 @@ function renderSchedule(data) {
         grid.appendChild(dateCol);
 
         // Venues
-        grid.appendChild(createEventCard('bn', dayInfo.bluenote));
-        grid.appendChild(createEventCard('bb', dayInfo.billboard));
-        grid.appendChild(createEventCard('cc', dayInfo.cotton));
+        grid.appendChild(createEventCard('bn', dayInfo.bluenote, d));
+        grid.appendChild(createEventCard('bb', dayInfo.billboard, d));
+        grid.appendChild(createEventCard('cc', dayInfo.cotton, d));
     });
+
+    renderRecentlyAdded(newEvents, months, weekdays);
 }
 
-function createEventCard(venueCode, eventInfo) {
+function createEventCard(venueCode, eventInfo, dateObj = null) {
     const wrapper = document.createElement('div');
     const venueMap = { bn: 'Blue Note Tokyo', bb: 'Billboard Live', cc: 'Cotton Club' };
     const venueName = venueMap[venueCode];
@@ -112,13 +136,43 @@ function createEventCard(venueCode, eventInfo) {
         wrapper.style.cursor = 'default';
     }
 
+    const isNew = isNewEvent(eventInfo.first_seen);
+    const newBadgeHtml = isNew ? `<span class="new-badge">NEW</span>` : '';
+
+    let dateDisplayHtml = '';
+    if (dateObj) {
+        const dStr = `${dateObj.getMonth() + 1}/${dateObj.getDate()}`;
+        dateDisplayHtml = `<div class="event-date-mini">${dStr}</div>`;
+    }
+
     wrapper.innerHTML = `
         <div class="event-content">
             <div class="mobile-venue-label">${venueName}</div>
+            ${dateDisplayHtml}
+            ${newBadgeHtml}
             <div class="event-artist">${eventInfo.artist}</div>
             <div class="event-time">${eventInfo.time}</div>
         </div>
     `;
 
     return wrapper;
+}
+
+function renderRecentlyAdded(newEvents, months, weekdays) {
+    const section = document.getElementById('recently-added-section');
+    const container = document.getElementById('recently-added-container');
+
+    if (newEvents.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    section.style.display = 'block';
+    container.innerHTML = ''; // Clear
+
+    // Sort new events by date (earliest first or keep order)
+    newEvents.forEach(item => {
+        const card = createEventCard(item.venueCode, item.eventInfo, item.date);
+        container.appendChild(card);
+    });
 }

@@ -417,6 +417,21 @@ def main():
     cc_data = fetch_cottonclub()
     print(f"Fetched {len(cc_data)} days from Cotton Club.")
     
+    output_path = os.path.join(os.path.dirname(__file__), '..', 'schedule.json')
+    history_map = {}
+    if os.path.exists(output_path):
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                for day in old_data:
+                    d_str = day['date'][:10]
+                    for venue in ['bluenote', 'billboard', 'cotton']:
+                        if day.get(venue) and day[venue].get('artist'):
+                            key = f"{d_str}_{venue}_{day[venue]['artist']}"
+                            history_map[key] = day[venue].get('first_seen')
+        except Exception as e:
+            print("Could not load history:", e)
+            
     # マージするためにすべてのユニークな日付を取得
     all_dates = set(bn_data.keys()) | set(bb_data.keys()) | set(cc_data.keys())
     
@@ -424,19 +439,24 @@ def main():
     sorted_dates = sorted(list(all_dates))
     
     final_data = []
+    today_str = datetime.now().strftime('%Y-%m-%d')
     
     # 全未来日分を出力
     for date_str in sorted_dates:
         js_date_str = f"{date_str}T00:00:00.000Z"
+        day_output = {"date": js_date_str}
         
-        final_data.append({
-            "date": js_date_str,
-            "bluenote": bn_data.get(date_str),
-            "billboard": bb_data.get(date_str),
-            "cotton": cc_data.get(date_str)
-        })
-    
-    output_path = os.path.join(os.path.dirname(__file__), '..', 'schedule.json')
+        for venue_code, venue_data_dict in [('bluenote', bn_data), ('billboard', bb_data), ('cotton', cc_data)]:
+            event = venue_data_dict.get(date_str)
+            if event and event.get('artist'):
+                key = f"{date_str}_{venue_code}_{event['artist']}"
+                first_seen = history_map.get(key)
+                if not first_seen:
+                    first_seen = today_str
+                event['first_seen'] = first_seen
+            day_output[venue_code] = event
+            
+        final_data.append(day_output)
     
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)

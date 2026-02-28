@@ -282,23 +282,83 @@ h1 {
 
 .event-artist {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     margin-bottom: 0.5rem;
     line-height: 1.4;
 }
 
 .event-time {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--text-secondary);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-top: auto;
+    background: rgba(0, 0, 0, 0.03);
+    padding: 0.4rem 0.8rem;
+    border-radius: 12px;
+    display: inline-block;
 }
 
-.event-time::before {
-    content: '•';
-    color: rgba(255, 255, 255, 0.3);
+/* New Badge and Date Mini */
+.new-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #fbbf24, #f59e0b);
+    color: #fff;
+    font-size: 0.65rem;
+    font-weight: 800;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+    box-shadow: 0 2px 5px rgba(245, 158, 11, 0.3);
+    text-transform: uppercase;
+    animation: pulse-badge 2s infinite;
+}
+
+@keyframes pulse-badge {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.event-date-mini {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+/* Recently Added Section */
+.recently-added-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+}
+
+.recently-added-grid {
+    display: flex;
+    gap: 1.5rem;
+    overflow-x: auto;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    scroll-snap-type: x mandatory;
+}
+
+.recently-added-grid .event-card {
+    min-width: 250px;
+    max-width: 250px;
+    scroll-snap-align: start;
+    flex-shrink: 0;
 }
 
 .empty-slot {
