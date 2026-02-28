@@ -1,0 +1,1092 @@
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5569.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Jazz / sax ]</span> -->
+  <span class="title">
+   ACTION TRIO :
+   <br/>
+   DAVID BINNEY, LOUIS COLE, PERA KRSTAJIC
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   ãã´ã£ããã»ããã¼ãã«ã¤ã¹ã»ã³ã¼ã«ããã©ã»ã¯ã«ã¹ã¿ã¤ãã
+   <br/>
+   é¬¼æ3äººãäº¤é¯ããæ¬¡åãè¶ãããµã¦ã³ãä½é¨
+   <br/>
+  </span>
+  <span class="text">
+   ã¢ã¯ã·ã§ã³ã»ããªãªï¼
+   <br/>
+   ãã´ã£ããã»ããã¼, ã«ã¤ã¹ã»ã³ã¼ã«, ãã©ã»ã¯ã«ã¹ã¿ã¤ãã
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 1.30 fri. - 2.1 sun.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼12/3(æ°´) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼12/5(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   â 1.30 fri.
+   <br/>
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+   <br/>
+   â 1.31 sat., 2.1 sun.
+   <br/>
+   [1st.show] open 3:30pm / start 4:30pm
+   <br/>
+   [2nd.show] open 6:30pm / start 7:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/action-trio/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5552.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- -->
+  <span class="title">
+   ã¡ããã¾ãã¿
+   <br/>
+   Solo Debut 40th Anniversary &amp; Birthday Live
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   ã½ã­ã»ããã¥ã¼40å¨å¹´ãè¿ããå¥³æ§ã·ã³ã¬ã¼
+   <br/>
+   è±ªè¯ã¡ã³ãã¼ã¨ç¹ããªãã¹ãã·ã£ã«ã»ãã¼ã¹ãã¼ã»ã©ã¤ã´
+   <br/>
+  </span>
+  <span class="text">
+   MAYUMI CHIWAKI
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.2 mon.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼11/12(æ°´) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼11/14(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/mayumi-chiwaki/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5578.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ R&B / vocal ]</span> -->
+  <span class="title">
+   ï¼æ¯æ¿å¬æ¼ï¼K 20th Anniversary LIVE
+   <br/>
+   Winter Wonderland! with é»æ²¢ è«
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   âå¤©å½ã®æ­å£°âã§æãããKãç»å ´ï¼
+   <br/>
+   é»æ²¢ è«ãè¿ãã¦è´ã20å¨å¹´ã¢ããã¼ãµãªã¼ã©ã¤ã´
+   <br/>
+  </span>
+  <span class="text">
+   ã±ã¤
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.3 tue.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼12/17(æ°´) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼12/19(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+  <span class="notes2">
+   ãé»è©±ã§ã®ã¿ãäºç´ãæ¿ã£ã¦ããå¸­ç¨®ããããã¾ãã
+   <br/>
+   å¸­ç¨®ã®è©³ç´°ãç©ºå¸­ç¶æ³ã¯ãé»è©±ã«ã¦ãåãåãããã ããã
+   <br/>
+   TELï¼03-3215-1555
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/k-260203/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5590.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Pops / vocal ]</span> -->
+  <span class="title">
+   TANQUA WATER deux troisï¼
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   è¡å¿ æµ©ãçããæ°ãã³ããTANQUA WATERã
+   <br/>
+   ã³ããã³ã¯ã©ãåç»å ´ã¨ãªãæ³¨ç®ã®ã¹ãã¼ã¸
+   <br/>
+  </span>
+  <span class="text">
+   ã¿ã³ã«ã¦ã©ã¼ã¿ã¼
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.4 wed.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼1/10(å) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼1/12(æ) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/tanqua-water-260204/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5580.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Jazz / Big Band ]</span> -->
+  <span class="title">
+   æ£®ç°çå¥ç¾ããã°ãã³ã
+   <br/>
+   feat. ãã¬ã·ããã¢ã³ (orange pekoe) a.k.a. Tomoko Nia
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   æ£®ç°çå¥ç¾ããã°ãã³ããç»å ´ï¼
+   <br/>
+   ãã¬ã·ããã¢ã³ãè¿ãã¦è´ãã¹ãã·ã£ã«ã©ã¤ã´
+   <br/>
+  </span>
+  <span class="text">
+   MANAMI MORITA BIG BAND
+   <br/>
+   feat. TOMOKO NAGASHIMA (orange pekoe) a.k.a. Tomoko Nia
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.5 thu.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼12/16(ç«) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼12/18(æ¨) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/manami-morita-big-band-260205/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5586.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ ä¼çµ±è¸è½ / è½èª ]</span> -->
+  <span class="title">
+   ä¸¸ã®åå¯å¸­ vol.4 è½èªÃJAZZ
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   è½èªã¨ã¸ã£ãºãåºä¼ããç¬ãã¨ã¹ã¦ã£ã³ã°ã®å¤
+   <br/>
+   ç¬ã£ã¦è´ãã¦æ¥½ãããä¸¸ã®åå¯å¸­ã»ç¬¬4å¼¾ï¼
+   <br/>
+  </span>
+  <span class="text">
+   Marunouchi Vaudeville Show
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.6 fri.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼1/6(ç«) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼1/8(æ¨) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/marunouchi-vaudeville-show-260206/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5581.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- -->
+  <span class="title">
+   åç°å± SOLO
+   <br>
+    -COVERS vol.3-
+   </br>
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   åç°å±ãäººæ°ã«ãã¼ã·ãªã¼ãºã§ã³ããã³ã¯ã©ãã«ç»å ´
+   <br/>
+   å¼¾ãèªãã§å±ãããè¦ªå¯ãªãã¬ãã¢ã ã»ã¹ãã¼ã¸
+   <br/>
+  </span>
+  <span class="text">
+   SHO WADA
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.8 sun.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼12/17(æ°´) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼12/19(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 3:30pm / start 4:30pm
+   <br/>
+   [2nd.show] open 6:30pm / start 7:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/sho-wada-260208/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5573.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Jazz / Large Ensemble ]</span> -->
+  <span class="title">
+   æ­¦æ¬åå¤§ THE REAL Veleria
+   <br/>
+   "BIRTH" Release Live at COTTON CLUB
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   ãã¢ãã¹ãï¼ã³ã³ãã¼ã¶ã¼ã»æ­¦æ¬åå¤§ãåç»å ´ï¼
+   <br/>
+   è±ªè¯ç·¨æã§å±ãããåãã«ã¢ã«ãã çºå£²è¨å¿µã©ã¤ã´
+   <br/>
+  </span>
+  <span class="text">
+   KAZUHIRO TAKEMOTO
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.9 mon.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼12/10(æ°´) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼12/12(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/kazuhiro-takemoto/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5565.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Jazz / drums ]</span> -->
+  <span class="title">
+   TOMOHIRO MORI NY TRIO
+   <br/>
+   featuring ESTEBAN CASTRO &amp; BAR FILIPOWICZ
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   NYãæ ç¹ã«æ´»åããæ°é­ãã©ãã¼
+   <br/>
+   è©±é¡ã®ç¾å°ãã¬ã¤ã¤ã¼ã¨ã¨ãã«ããªãªç·¨æã§ç»å ´ï¼
+   <br/>
+  </span>
+  <span class="text">
+   æ£®æºå¤§ ãã¥ã¼ã¨ã¼ã¯ã»ããªãª
+   <br/>
+   featuring ã¨ã¹ããã³ã»ã«ã¹ãã­ &amp; ãã¼ã»ãã£ãªãã¦ã£ã¯ãº
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.10 tue.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼11/25(ç«) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼11/27(æ¨) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/tomohiro-mori/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5545.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- -->
+  <span class="title">
+   OLE BØRUD
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   åæ¬§AORã·ã¼ã³ã®æé«å³°ãåã³éè¨
+   <br/>
+   ææ°ä½ãæºãã¦è´ããæ¥µä¸ã®ã¡ã­ã¦ã»ã°ã«ã¼ã´
+   <br/>
+  </span>
+  <span class="text">
+   ãªã¼ã¬ã»ãã¼ã«ã¼ã
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.11 wed. - 2.13 fri.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼10/29(æ°´) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼10/31(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   â 2.11 wed.
+   <br/>
+   [1st.show] open 3:30pm / start 4:30pm
+   <br/>
+   [2nd.show] open 6:30pm / start 7:30pm
+   <br/>
+   <br/>
+   â 2.12 thu., 2.13 fri.
+   <br/>
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/ole-borud/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5587.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ A Cappella / vocal ]</span> -->
+  <span class="title">
+   BROAD6
+   <br/>
+   City Serenade
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   5ãªã¯ã¿ã¼ãã®é³åãç¹ããªãå§å·»ã®ãã¼ã¢ãã¼
+   <br/>
+   äººæ°ã¢ã«ãã©ã»ã¦ãããããã¬ã³ã¿ã¤ã³ã«ç»å ´ï¼
+   <br/>
+  </span>
+  <span class="text">
+   ãã­ã¼ãã·ãã¯ã¹
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.14 sat.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼1/6(ç«) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼1/8(æ¨) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 3:30pm / start 4:30pm
+   <br/>
+   [2nd.show] open 6:30pm / start 7:30pm
+   <br/>
+  </span>
+  <span class="notes2">
+   ãé»è©±ã§ã®ã¿ãäºç´ãæ¿ã£ã¦ããå¸­ç¨®ããããã¾ãã
+   <br/>
+   å¸­ç¨®ã®è©³ç´°ãç©ºå¸­ç¶æ³ã¯ãé»è©±ã«ã¦ãåãåãããã ããã
+   <br/>
+   TELï¼03-3215-1555
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/broad6-260214/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5526.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- -->
+  <span class="title">
+   å£®ä¸å¸ 30th Anniversary Live Tour 2026
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   åå®å¡æ­åå£éªçµãããã¹ã¿ã¼ã2å¹´ã¶ãã®ç»å ´
+   <br/>
+   è¸è½æ´»å30å¨å¹´ãè¨å¿µããã¹ãã·ã£ã«ã»ã©ã¤ã´
+   <br/>
+  </span>
+  <span class="text">
+   KAZUHO SO
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.15 sun.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼11/22(å) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼11/24(æ) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 2:00pm / start 3:00pm
+   <br/>
+   [2nd.show] open 5:00pm / start 6:00pm
+   <br/>
+  </span>
+  <span class="notes2">
+   ãé»è©±ã§ã®ã¿ãäºç´ãæ¿ã£ã¦ããå¸­ç¨®ããããã¾ãã
+   <br/>
+   å¸­ç¨®ã®è©³ç´°ãç©ºå¸­ç¶æ³ã¯ãé»è©±ã«ã¦ãåãåãããã ããã
+   <br/>
+   TELï¼03-3215-1555
+  </span>
+  <span class="notes">
+   â»éå¸­ã«ãã£ã¦ã¯ãä»ã®ãå®¢æ§ã¨ç¸å¸­ã®å ´åããããã¾ãã
+   <br/>
+   â»æ¬å¬æ¼ã¯ãã¡ã³ã¯ã©ãåè¡äºç´ã®å¸­ããããã¾ããäºããäºæ¿ãã ããã
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/kazuho-so/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5572.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ EVENT / Talk ]</span> -->
+  <span class="title">
+   å¤èã¨å®¢äººã¨ vol.32
+   <br>
+    å¤èä¼ç¥é ãããã»ãã³ã°ã­ã¼ã
+   </br>
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   å¤èä¼ç¥éã"ä»"è©±ãããäººã¨ä¸å¯¾ä¸ã§èªãåã
+   <br/>
+   è¦ªå¯ãªã¯ã©ãç©ºéã§å ªè½ãããã¬ãã¢ã ã¹ãã¼ã¸ï¼
+   <br/>
+  </span>
+  <span class="text">
+   FURUTACHI WITH THE SPECIAL GUEST
+   <br/>
+   ICHIRO FURUTACHI MITZ MANGROVE
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.20 fri.
+  </span>
+  <span class="text">
+   â»æ¬å¬æ¼ã¯æ½é¸äºç´åä»ã«ãªãã¾ãã
+   <br/>
+   ãå¿ååä»æéã
+   <br/>
+   12/15(æ)12:00 ã 12/19(é)23:59
+   <br/>
+   ãå½é¸çºè¡¨ã
+   <br/>
+   12/26(é)ä»¥éã«ãç»é²ã®ã¡ã¼ã«ã¢ãã¬ã¹ã¸ãé£çµ¡ããããã¾ãã
+   <br/>
+   (è½é¸ã®ãé£çµ¡ã¯ãããã¾ããã®ã§ãäºæ¿ãã ããã)
+   <br/>
+   <br/>
+  </span>
+  <span class="text">
+   open 6:30pm / start 8:00pm
+   <br/>
+   â»1æ¥1showã«ãªãã¾ãã
+   <br/>
+   â»æ¬å¬æ¼ã§ã¯ãä¸æ¼æéä¸­ãé¤ãã¦ããé£²é£ããæ¥½ãã¿ããã ãã¾ãã
+   <br/>
+  </span>
+  <span class="notes2">
+   ãé»è©±ã§ã®ã¿ãäºç´ãæ¿ã£ã¦ããå¸­ç¨®ããããã¾ãã
+   <br/>
+   å¸­ç¨®ã®è©³ç´°ãç©ºå¸­ç¶æ³ã¯ãé»è©±ã«ã¦ãåãåãããã ããã
+   <br/>
+   TELï¼03-3215-1555
+  </span>
+  <span class="notes">
+   â»éå¸¸ã®å¬æ¼ã¨è²©å£²/äºç´åä»æ¹æ³ãç°ãªãã¾ãã
+   <br/>
+   ã»æ½é¸å¶ï¼å¿å/äºç´åä»ã¯ã¦ã§ããµã¤ãããã®ã¿æ¿ãã¾ãã(ãé»è©±ã§ã¯æ¿ãã¾ããã)
+   <br/>
+   ã»å¨å¸­æå®å¸­ï¼ã¨ãªã¢åã§ã©ã¡ãã®åº§å¸­ã«ãªããã¯ããäºç´äººæ°ãªã©ã«ããå½æ¹ã§èª¿æ´/æ±ºå®ããã¦ããã ãã¾ãã
+   <br/>
+   ã»ãå¿åã¯1åæ§ã«ã¤ã1ä»¶ã®ã¿æ¿ãã¾ãã
+   <br/>
+   ã(ãç³ãè¾¼ã¿å¾ããå¸æåå®¹ã®å¤æ´ã¯æ¿ããã­ã¾ãã)
+   <br/>
+   ã»äººæ°ã¯1ï½4åæ§ã§ãç³ãè¾¼ã¿ãã ããã
+   <br/>
+   ã5åæ§ä»¥ä¸ã®ãç³ãè¾¼ã¿ããã£ãå ´åã¯ç¡å¹ã¨ãªãã¾ãã®ã§ãæ³¨æãã ããã
+   <br/>
+   ã»ã­ã£ã³ã»ã«å¾ã¡ã¯æ¿ãã¾ããã
+   <br/>
+   ã»æ½é¸äºç´çµäºå¾ãã­ã£ã³ã»ã«ãªã©ãã£ãå ´åä¸è¬è²©å£²ããå ´åããããã¾ãã
+   <br/>
+   ã»ä¸è¬è²©å£²ã®æç¡ãã¿ã¤ãã³ã°ã«ã¤ãã¦ã¯ãåãåããããã ãã¦ããç­ãã§ãã¾ããã®ã§ãäºæ¿ãã ããã
+   <br/>
+   <br/>
+   â»ãå½é¸å¾ããå¥éæéåã«ã¯ã¬ã¸ããã«ã¼ãã§ã®äºåæ±ºæ¸ãå¿è¦ã¨ãªãã¾ãã
+   <br/>
+   â»è»ããã§ãæ¥å ´ããã ããå®¢æ§ã¯ãå½é¸é£çµ¡ã®å¾ãé»è©±ã«ã¦ãç³ãåºããã ãã¾ããããé¡ãç³ãä¸ãã¾ãã
+   <br/>
+   â»å¬æ¼å½æ¥ãäºç´ããããæ¬äººã§ãããã¨ãç¢ºèªããçºã«èº«åè¨¼ææ¸ã®ãæç¤ºããé¡ãããå ´åããããã¾ãã
+   <br/>
+   â»ãäºç´ç¢ºå®å¾ããäºç´åç¾©ã®å¤æ´ã¯æ¿ãã¾ããã
+   <br/>
+   â»å½é¸ããããæ¬äººããæ¥åºãã ããã
+   <br/>
+   (äºç´æ¨©å©ã®è­²æ¸¡ãå½é¸èãæ¬äººãå«ã¾ãªãå ´åããå¥å ´ããã ãã¾ããã)
+   <br/>
+   â»å¬æ¼ã®ãäºç´ãå¶å©ç®çã¨ãã¦ç¬¬ä¸èã«è»¢å£²ãã¾ãã¯è»¢å£²ã®çºã«ç¬¬ä¸èã«æä¾ããäºãç¦æ­¢ãããã¾ãããæ²ç¤ºæ¿ã»ãªã¼ã¯ã·ã§ã³ããéãã¦å¥æããã¾ãããäºç´ã®ãã©ãã«ã«ã¤ãã¦ã¯ä¸åã®è²¬ä»»ãè² ãã¾ããã
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260220/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5570.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Fusion / sax ]</span> -->
+  <span class="title">
+   ä¼æ±ããã ã¡ã­ã¦ã»ããããã¹ã»ã»ãããã
+   <br/>
+   "Luxury Night 2026"
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   æ¥æ¬ã®ãã¥ã¼ã¸ã§ã³çããªã¼ããç¶ãããµãã¯ã¹å¥è
+   <br/>
+   æ°ããªå¸é£ã§æãã¹ãã·ã£ã«ãª2æ¥é
+   <br/>
+  </span>
+  <span class="text">
+   TAKESHI ITO MELLOW MADNESS SEPTET
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.21 sat. - 2.22 sun.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼12/20(å) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼12/22(æ) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 3:30pm / start 4:30pm
+   <br/>
+   [2nd.show] open 6:30pm / start 7:30pm
+   <br/>
+  </span>
+  <span class="notes2">
+   ãé»è©±ã§ã®ã¿ãäºç´ãæ¿ã£ã¦ããå¸­ç¨®ããããã¾ãã
+   <br/>
+   å¸­ç¨®ã®è©³ç´°ãç©ºå¸­ç¶æ³ã¯ãé»è©±ã«ã¦ãåãåãããã ããã
+   <br/>
+   TELï¼03-3215-1555
+  </span>
+  <span class="notes">
+   â»æ¬å¬æ¼ã¯ãã¡ã³ã¯ã©ãåè¡äºç´ã®å¸­ããããã¾ããäºããäºæ¿ãã ããã
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/takeshi-ito/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5566.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Jazz / guitar ]</span> -->
+  <span class="title">
+   GILAD HEKSELMAN TRIO
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   ç¾ä»£ã¸ã£ãºãç½å¼ããæ³¨ç®ã®ã¿ãªã¹ã
+   <br/>
+   å®åæ´¾ãæããããªãªã§é­ããææ°ã¹ãã¼ã¸
+   <br/>
+  </span>
+  <span class="text">
+   ã®ã©ããã»ãã¯ã»ã«ãã³ã»ããªãª
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.23 mon. - 2.25 wed.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼11/25(ç«) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼11/28(é) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   â 2.23 mon.
+   <br/>
+   [1st.show] open 3:30pm / start 4:30pm
+   <br/>
+   [2nd.show] open 6:30pm / start 7:30pm
+   <br/>
+   <br/>
+   â 2.24 tue., 2.25 wed.
+   <br/>
+   [1st.show] open 5:00pm / start 6:00pm
+   <br/>
+   [2nd.show] open 7:45pm / start 8:30pm
+   <br/>
+  </span>
+  <span class="notes2">
+   ãé»è©±ã§ã®ã¿ãäºç´ãæ¿ã£ã¦ããå¸­ç¨®ããããã¾ãã
+   <br/>
+   å¸­ç¨®ã®è©³ç´°ãç©ºå¸­ç¶æ³ã¯ãé»è©±ã«ã¦ãåãåãããã ããã
+   <br/>
+   TELï¼03-3215-1555
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/gilad-hekselman/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="columnImg">
+  <img alt="" height="98" src="/web_mainte/img/event/5593.jpg?20260228" width="98"/>
+ </span>
+ <span class="columnTxt">
+  <!-- <span class="genre">[ Pops / vocal ]</span> -->
+  <span class="title">
+   ç«¹åå°äºº &amp; å²©æ©å¤§
+   <br>
+    ãCircle of Faith 2ã
+   </br>
+  </span>
+  <!-- /columnTxt -->
+ </span>
+ <!-- /twoColumnsType -->
+</span>
+
+----------------------------------------
+<span class="twoColumnsType clearfix">
+ <span class="column">
+  <span class="intro">
+   ãã¥ã¼ã¸ã«ã«çãæãå®åæ´¾ãµãããåã³å±æ¼
+   <br>
+    ç«¹åå°äººï¼å²©æ©å¤§ãè´ãè³ç¦ã®ã¹ãã¼ã¸
+    <br/>
+   </br>
+  </span>
+  <span class="text">
+   MASATO TAKEUCHI &amp; DAI IWAHASHI
+   <br/>
+  </span>
+  <!-- æ¥ç¨ ä¼æ¼æ³¨è¨ -->
+  <span class="text">
+   2026 2.28 sat.
+  </span>
+  <span class="text">
+   ï¼äºç´åä»éå§æ¥ï¼
+   <br/>
+   Webåè¡åä»ï¼2/1(æ¥) 12:00pmãã
+   <br/>
+   é»è©±åä»ï¼2/5(æ¨) 12:00pmãã
+   <br/>
+   â»é»è©±åä»éå§åã«æºå¸­ã¨ãªãå ´åããããã¾ãã
+   <br/>
+  </span>
+  <span class="text">
+   [1st.show] open 3:00pm / start 4:00pm
+   <br/>
+   [2nd.show] open 6:00pm / start 7:00pm
+   <br/>
+  </span>
+  <span class="notes">
+   â»æ¬å¬æ¼ã¯ãã¡ã³ã¯ã©ãåè¡äºç´ã®å¸­ããããã¾ããäºããäºæ¿ãã ããã
+   <br/>
+   â»éå¸­ã«ãã£ã¦ã¯ãä»ã®ãå®¢æ§ã¨ç¸å¸­ã®å ´åããããã¾ãã
+  </span>
+ </span>
+ <span class="btnBox">
+  <span class="btn">
+   <a href="/reserve/schedule/exec/5593">
+    <img alt="" height="55" src="/schedule/images/btn_010.gif" width="160"/>
+   </a>
+  </span>
+  <span class="btn">
+   <a href="https://www.cottonclubjapan.co.jp/jp/sp/artists/masato-takeuchi-dai-iwahashi-260228/" target="_blank">
+    <img alt="" class="ahover" height="33" src="/schedule/images/btn_020.gif" width="160"/>
+   </a>
+  </span>
+ </span>
+</span>
+
+----------------------------------------

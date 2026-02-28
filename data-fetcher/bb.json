@@ -1,0 +1,3965 @@
+[
+  {
+    "location": "tokyo",
+    "schedules": [
+      {
+        "dates": [
+          "2026-01-27"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "start_date": "2026-01-27",
+          "announce": "",
+          "document_id": "X8KcW9WKzSc8knNkVDP6",
+          "end_date": "2026-01-27",
+          "detailed_info_flag": 2,
+          "created": "2025-11-20T11:58:04.682074+09:00",
+          "status": 2,
+          "image": null,
+          "detailed_info_url": null,
+          "updated": "2025-11-20T11:58:04.682057+09:00",
+          "caption": "",
+          "content": "Private"
+        }
+      },
+      {
+        "dates": [
+          "2026-01-29"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "start_date": "2026-01-29",
+          "announce": "",
+          "document_id": "7BUrgwdDKmRlZNVOM3hc",
+          "end_date": "2026-01-29",
+          "detailed_info_flag": 2,
+          "created": "2025-11-20T11:58:18.158996+09:00",
+          "status": 2,
+          "image": null,
+          "detailed_info_url": null,
+          "updated": "2025-11-20T11:58:18.158981+09:00",
+          "caption": "",
+          "content": "Private"
+        }
+      },
+      {
+        "dates": [
+          "2026-01-30"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "announce": "",
+          "document_id": "WC68MAW0zA4jUNi2GnQI",
+          "end_date": "2026-01-30",
+          "detailed_info_flag": 2,
+          "start_date": "2026-01-30",
+          "created": "2025-12-04T15:38:10.405300+09:00",
+          "status": 2,
+          "image": null,
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2025-12-04T15:38:10.405285+09:00",
+          "content": "Off"
+        }
+      },
+      {
+        "dates": [
+          "2026-02-01"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "announce": "",
+          "start_date": "2026-02-01",
+          "document_id": "L9O1RjXIsQngmQYFRdrz",
+          "end_date": "2026-02-01",
+          "detailed_info_flag": 2,
+          "created": "2025-12-23T11:49:32.566443+09:00",
+          "status": 2,
+          "content": "Off\n\n【電話お問い合わせセンター休業のお知らせ】\nビルボードライブ東京 電話お問い合わせセンターは、2/1（日）は休業日となります。\nなお、WEBからのお申込みは24時間ご利用可能です。\nあらかじめご了承いただきますようお願いいたします。",
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2026-01-23T11:20:26.638944+09:00",
+          "image": null
+        }
+      },
+      {
+        "dates": [
+          "2026-02-02",
+          "2026-02-03"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "start_date": "2026-02-02",
+          "document_id": "5c3m9q9g8ontYfOcKgH8",
+          "end_date": "2026-02-03",
+          "detailed_info_flag": 2,
+          "created": "2025-11-20T11:58:46.673112+09:00",
+          "image": null,
+          "status": 2,
+          "announce": "",
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2025-11-20T11:58:46.673064+09:00",
+          "content": "Private"
+        }
+      },
+      {
+        "dates": [
+          "2026-02-04"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21093",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62509",
+              "event_names": [
+                "ハラミちゃん",
+                "",
+                "HARAMI Premium Night 2026 ～昭和の名曲をたっぷりお届け！～",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-04T13:38:12.920393+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21092_1_1763085678.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21092_1_1763085678.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21092_2_1763085678.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21092_1_1763085678.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-04",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "ハラミちゃん HARAMI Premium Night 2026 ～昭和の名曲をたっぷりお届け！～",
+              "block_settings": [
+                {
+                  "price": 22000,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 20900,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11000,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 9900,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8800,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8300,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-14",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21093",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62510",
+              "event_names": [
+                "ハラミちゃん",
+                "",
+                "HARAMI Premium Night 2026 ～昭和の名曲をたっぷりお届け！～",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-04T13:38:12.920393+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21092_1_1763085678.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21092_1_1763085678.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21092_2_1763085678.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21092_1_1763085678.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-04",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "ハラミちゃん HARAMI Premium Night 2026 ～昭和の名曲をたっぷりお届け！～",
+              "block_settings": [
+                {
+                  "price": 22000,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 20900,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11000,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 9900,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8800,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8300,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-14",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-05"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "17:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21125",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62593",
+              "event_names": [
+                "Ghost-Note",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-12-12T16:44:00.891500+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21125_1_1765246669.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21125_1_1765246669.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21125_2_1765246669.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21125_1_1765246669.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-05",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "Ghost-Note",
+              "block_settings": [
+                {
+                  "price": 23200,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 22100,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11600,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 10500,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 9400,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-12-10",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "17:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21125",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62594",
+              "event_names": [
+                "Ghost-Note",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-12-12T16:44:00.891500+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21125_1_1765246669.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21125_1_1765246669.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21125_2_1765246669.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21125_1_1765246669.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-05",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "Ghost-Note",
+              "block_settings": [
+                {
+                  "price": 23200,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 22100,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11600,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 10500,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 9400,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-12-10",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-06"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21107",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62537",
+              "event_names": [
+                "PYRAMID",
+                "",
+                "-Gracenotes Vol.2-",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-12-22T20:00:26.973429+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21107_1_1763649185.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21107_1_1763649185.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21107_2_1763649185.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21107_1_1763649185.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-06",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "PYRAMID -Gracenotes Vol.2-",
+              "block_settings": [
+                {
+                  "price": 19600,
+                  "ticket_number_limit": 8,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 18500,
+                  "ticket_number_limit": 7,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 9800,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 8700,
+                  "ticket_number_limit": 3,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 7600,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 7100,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-21",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21107",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62538",
+              "event_names": [
+                "PYRAMID",
+                "",
+                "-Gracenotes Vol.2-",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-12-22T20:00:26.973429+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21107_1_1763649185.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21107_1_1763649185.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21107_2_1763649185.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21107_1_1763649185.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-06",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "PYRAMID -Gracenotes Vol.2-",
+              "block_settings": [
+                {
+                  "price": 19600,
+                  "ticket_number_limit": 8,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 18500,
+                  "ticket_number_limit": 7,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 9800,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 8700,
+                  "ticket_number_limit": 3,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 7600,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 7100,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-21",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-07"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "17:00",
+              "event_names_en": [
+                "Yohito Teraoka",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "16:00",
+              "play_run": 2,
+              "event_id": "ev-21103",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62529",
+              "event_names": [
+                "寺岡呼人 BIRTHDAY LIVE~Road to 60th~",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-11-21T15:30:14.141985+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21103_1_1763617958.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21103_1_1763617958.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21103_2_1763617958.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21103_1_1763617958.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-07",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "15:00",
+              "title_name": "寺岡呼人 BIRTHDAY LIVE~Road to 60th~",
+              "block_settings": [
+                {
+                  "price": 22200,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 21100,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8400,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-21",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "17:00",
+              "event_names_en": [
+                "Yohito Teraoka",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "19:00",
+              "play_run": 2,
+              "event_id": "ev-21103",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62530",
+              "event_names": [
+                "寺岡呼人 BIRTHDAY LIVE~Road to 60th~",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-11-21T15:30:14.141985+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21103_1_1763617958.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21103_1_1763617958.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21103_2_1763617958.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21103_1_1763617958.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-07",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "18:00",
+              "title_name": "寺岡呼人 BIRTHDAY LIVE~Road to 60th~",
+              "block_settings": [
+                {
+                  "price": 22200,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 21100,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8400,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-21",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-08",
+          "2026-02-09"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "16:00",
+              "play_run": 2,
+              "event_id": "ev-21052",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62425",
+              "event_names": [
+                "ASIA IN ASIA",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21052_2_1761725126.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21052_1_1761725126.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-08",
+              "event_genre": "※曜日により開演時間が異なります。",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "15:00",
+              "title_name": "ASIA IN ASIA",
+              "block_settings": [
+                {
+                  "price": 36400,
+                  "ticket_number_limit": 15,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 35300,
+                  "ticket_number_limit": 15,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 18200,
+                  "ticket_number_limit": 7,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 17100,
+                  "ticket_number_limit": 7,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 16000,
+                  "ticket_number_limit": 6,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 15500,
+                  "ticket_number_limit": 6,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-29",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "19:00",
+              "play_run": 2,
+              "event_id": "ev-21052",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62426",
+              "event_names": [
+                "ASIA IN ASIA",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21052_2_1761725126.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21052_1_1761725126.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-08",
+              "event_genre": "※曜日により開演時間が異なります。",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "18:00",
+              "title_name": "ASIA IN ASIA",
+              "block_settings": [
+                {
+                  "price": 36400,
+                  "ticket_number_limit": 15,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 35300,
+                  "ticket_number_limit": 15,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 18200,
+                  "ticket_number_limit": 7,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 17100,
+                  "ticket_number_limit": 7,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 16000,
+                  "ticket_number_limit": 6,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 15500,
+                  "ticket_number_limit": 6,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-29",
+              "result_status": "sale_end"
+            }
+          ],
+          [
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21052",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62427",
+              "event_names": [
+                "ASIA IN ASIA",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21052_2_1761725126.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21052_1_1761725126.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-09",
+              "event_genre": "※曜日により開演時間が異なります。",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "ASIA IN ASIA",
+              "block_settings": [
+                {
+                  "price": 36400,
+                  "ticket_number_limit": 15,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 35300,
+                  "ticket_number_limit": 15,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 18200,
+                  "ticket_number_limit": 7,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 17100,
+                  "ticket_number_limit": 7,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 16000,
+                  "ticket_number_limit": 6,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 15500,
+                  "ticket_number_limit": 6,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-29",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21052",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62428",
+              "event_names": [
+                "ASIA IN ASIA",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21052_1_1761725126.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21052_2_1761725126.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21052_1_1761725126.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-09",
+              "event_genre": "※曜日により開演時間が異なります。",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "ASIA IN ASIA",
+              "block_settings": [
+                {
+                  "price": 36400,
+                  "ticket_number_limit": 15,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 35300,
+                  "ticket_number_limit": 15,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 18200,
+                  "ticket_number_limit": 7,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 17100,
+                  "ticket_number_limit": 7,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 16000,
+                  "ticket_number_limit": 6,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 15500,
+                  "ticket_number_limit": 6,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-29",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-10"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "インフィニティ・ソング",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "18:00",
+              "play_run": 2,
+              "event_id": "ev-20993",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62301",
+              "event_names": [
+                "Infinity Song",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20993_1_1759465667.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20993_1_1759465667.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20993_2_1759465667.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20993_1_1759465667.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-10",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "17:00",
+              "title_name": "Infinity Song",
+              "block_settings": [
+                {
+                  "price": 27800,
+                  "ticket_number_limit": 12,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 26700,
+                  "ticket_number_limit": 11,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 13900,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 12800,
+                  "ticket_number_limit": 5,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 11700,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 11200,
+                  "ticket_number_limit": 4,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-14",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "インフィニティ・ソング",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "21:00",
+              "play_run": 2,
+              "event_id": "ev-20993",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62302",
+              "event_names": [
+                "Infinity Song",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20993_1_1759465667.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20993_1_1759465667.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20993_2_1759465667.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20993_1_1759465667.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-10",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "20:00",
+              "title_name": "Infinity Song",
+              "block_settings": [
+                {
+                  "price": 27800,
+                  "ticket_number_limit": 12,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 26700,
+                  "ticket_number_limit": 11,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 13900,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 12800,
+                  "ticket_number_limit": 5,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 11700,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 11200,
+                  "ticket_number_limit": 4,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-14",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-11"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "created": "2025-11-20T11:59:21.863808+09:00",
+          "document_id": "kIByQKke0IrfgTUcqcc4",
+          "end_date": "2026-02-11",
+          "detailed_info_flag": 2,
+          "announce": "",
+          "start_date": "2026-02-11",
+          "status": 2,
+          "content": "Private\n\n【電話お問い合わせセンター休業のお知らせ】\nビルボードライブ東京 電話お問い合わせセンターは、2/11（水・祝）は休業日となります。\nなお、WEBからのお申込みは24時間ご利用可能です。\nあらかじめご了承いただきますようお願いいたします。",
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2026-01-23T11:20:51.228851+09:00",
+          "image": null
+        }
+      },
+      {
+        "dates": [
+          "2026-02-12"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "created": "2025-11-20T11:59:41.680065+09:00",
+          "announce": "",
+          "document_id": "5RPfmJtJHd2vbqpada55",
+          "end_date": "2026-02-12",
+          "detailed_info_flag": 2,
+          "content": "Private",
+          "start_date": "2026-02-12",
+          "status": 2,
+          "detailed_info_url": null,
+          "updated": "2025-11-20T11:59:41.680051+09:00",
+          "caption": "",
+          "image": null
+        }
+      },
+      {
+        "dates": [
+          "2026-02-13"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "21:00",
+              "event_names_en": [
+                "Shota Okuno",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21132",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62613",
+              "event_names": [
+                "奥野翔太 Billboard Live 2026",
+                "",
+                "with special guest 由薫(1st), 山本彩(2nd)",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-12T18:31:58.144142+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21132_1_1765272348.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21132_1_1765272348.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21132_2_1765272348.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_1_1765272348.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_2_1765272363.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_3_1765272371.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_4_1765272382.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-13",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "奥野翔太 Billboard Live 2026 with special guest 由薫（1st）, 山本彩（2nd）",
+              "block_settings": [
+                {
+                  "price": 24400,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12200,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9500,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-12-09",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "21:00",
+              "event_names_en": [
+                "Shota Okuno",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21132",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62614",
+              "event_names": [
+                "奥野翔太 Billboard Live 2026",
+                "",
+                "with special guest 由薫(1st), 山本彩(2nd)",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-12T18:31:58.144142+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21132_1_1765272348.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21132_1_1765272348.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21132_2_1765272348.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_1_1765272348.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_2_1765272363.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_3_1765272371.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_4_1765272382.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21132_3_1765246966.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-13",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "奥野翔太 Billboard Live 2026 with special guest 由薫（1st）, 山本彩（2nd）",
+              "block_settings": [
+                {
+                  "price": 24400,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12200,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9500,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-12-09",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-14"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "17:45",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "16:00",
+              "play_run": 2,
+              "event_id": "ev-20967",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62232",
+              "event_names": [
+                "EPO",
+                "",
+                "EPO Loveful Valentine Special Party",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20967_1_1758010893.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20967_1_1758010893.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20967_2_1758010893.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20967_1_1758010893.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/fooddrink/t_plan.html#gp",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-14",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "15:00",
+              "title_name": "EPO EPO Loveful Valentine Special Party",
+              "block_settings": [
+                {
+                  "price": 22000,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 20900,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11000,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 9900,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8800,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8300,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-09-19",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "17:45",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "19:00",
+              "play_run": 2,
+              "event_id": "ev-20967",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62233",
+              "event_names": [
+                "EPO",
+                "",
+                "EPO Loveful Valentine Special Party",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20967_1_1758010893.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20967_1_1758010893.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20967_2_1758010893.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20967_1_1758010893.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/fooddrink/t_plan.html#gp",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-14",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "18:00",
+              "title_name": "EPO EPO Loveful Valentine Special Party",
+              "block_settings": [
+                {
+                  "price": 22000,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 20900,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11000,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 9900,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8800,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8300,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-09-19",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-15"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "Miho Fukuhara",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "15:00",
+              "play_run": 2,
+              "event_id": "ev-21086",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62495",
+              "event_names": [
+                "福原みほ",
+                "",
+                "MIHO FUKUHARA “Get down Tour 2026”",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-12-05T15:58:47.774829+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21086_1_1763094200.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21086_1_1763094200.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21086_2_1763094200.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21086_1_1763094200.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/membersarea/special_topics/t_sp_corporate.html",
+                  "message": "法人JUST1キャンペーン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 2
+                },
+                {
+                  "link_url": "https://www.billboard-live.com/fooddrink/t_plan.html#gp",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-15",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "14:00",
+              "title_name": "福原みほ",
+              "block_settings": [
+                {
+                  "price": 19400,
+                  "ticket_number_limit": 2,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 18300,
+                  "ticket_number_limit": 2,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 9700,
+                  "ticket_number_limit": 1,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 8600,
+                  "ticket_number_limit": 1,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 7500,
+                  "ticket_number_limit": 1,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 7000,
+                  "ticket_number_limit": 1,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-14",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "18:00",
+              "event_names_en": [
+                "Miho Fukuhara",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "18:00",
+              "play_run": 2,
+              "event_id": "ev-21086",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62496",
+              "event_names": [
+                "福原みほ",
+                "",
+                "MIHO FUKUHARA “Get down Tour 2026”",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2025-12-05T15:58:47.774829+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21086_1_1763094200.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21086_1_1763094200.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21086_2_1763094200.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21086_1_1763094200.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/membersarea/special_topics/t_sp_corporate.html",
+                  "message": "法人JUST1キャンペーン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 2
+                },
+                {
+                  "link_url": "https://www.billboard-live.com/fooddrink/t_plan.html#gp",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-15",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "17:00",
+              "title_name": "福原みほ",
+              "block_settings": [
+                {
+                  "price": 19400,
+                  "ticket_number_limit": 2,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 18300,
+                  "ticket_number_limit": 2,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 9700,
+                  "ticket_number_limit": 1,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 8600,
+                  "ticket_number_limit": 1,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 7500,
+                  "ticket_number_limit": 1,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 7000,
+                  "ticket_number_limit": 1,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-14",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-16"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "12:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21007",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62329",
+              "event_names": [
+                "相川七瀬 30th Anniversary Billboard Live Tour 2026 ～MOON DANCE～",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-10T19:00:28.192085+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21007_1_1768451003.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21007_1_1768451003.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21007_2_1768451003.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21007_1_1768451003.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/fooddrink/t_plan.html#gp",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-16",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "相川七瀬 30th Anniversary Billboard Live Tour 2026 ～MOON DANCE～",
+              "block_settings": [
+                {
+                  "price": 24200,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23100,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12100,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11000,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 9900,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9400,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-09",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "12:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21007",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62330",
+              "event_names": [
+                "相川七瀬 30th Anniversary Billboard Live Tour 2026 ～MOON DANCE～",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-10T19:00:28.192085+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21007_1_1768451003.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21007_1_1768451003.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21007_2_1768451003.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21007_1_1768451003.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/fooddrink/t_plan.html#gp",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-16",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "相川七瀬 30th Anniversary Billboard Live Tour 2026 ～MOON DANCE～",
+              "block_settings": [
+                {
+                  "price": 24200,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23100,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12100,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11000,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 9900,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9400,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-09",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-17"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "announce": "",
+          "document_id": "qYswsvMJuO163TvsY2SI",
+          "end_date": "2026-02-17",
+          "detailed_info_flag": 2,
+          "start_date": "2026-02-17",
+          "created": "2026-01-19T14:09:58.424157+09:00",
+          "status": 2,
+          "content": "Off\n\n【電話お問い合わせセンター休業のお知らせ】\nビルボードライブ東京 電話お問い合わせセンターおよびClub BBL事務局は、2/17（火）は休業日となります。\nなお、WEBからのお申込みは24時間ご利用可能です。\nあらかじめご了承いただきますようお願いいたします。",
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2026-01-23T11:25:29.617243+09:00",
+          "image": null
+        }
+      },
+      {
+        "dates": [
+          "2026-02-18"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "11:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21079",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62481",
+              "event_names": [
+                "菊池桃子",
+                "",
+                "MOMOKO KIKUCHI Live Tour 2026 “Peachful Days Extra” in TOKYO",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T06:11:55.872487+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21079_1_1762765194.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21079_1_1762765194.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21079_2_1762765194.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21079_1_1762765194.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-18",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "菊池桃子 MOMOKO KIKUCHI Live Tour 2026 “Peachful Days Extra” in TOKYO",
+              "block_settings": [
+                {
+                  "price": 24400,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12200,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9500,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-15",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "11:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21079",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62482",
+              "event_names": [
+                "菊池桃子",
+                "",
+                "MOMOKO KIKUCHI Live Tour 2026 “Peachful Days Extra” in TOKYO",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T06:11:55.872487+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21079_1_1762765194.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21079_1_1762765194.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21079_2_1762765194.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21079_1_1762765194.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-18",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "菊池桃子 MOMOKO KIKUCHI Live Tour 2026 “Peachful Days Extra” in TOKYO",
+              "block_settings": [
+                {
+                  "price": 24400,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12200,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9500,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-15",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-19"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "マーティン・マクアルーン",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21030",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62379",
+              "event_names": [
+                "Martin McAloon of Prefab Sprout",
+                "",
+                "the Two Wheels Good",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T21:15:30.222478+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21029_1_1760518833.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21029_1_1760518833.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21029_2_1760518833.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21029_1_1760518833.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-19",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "Martin McAloon of Prefab Sprout the Two Wheels Good",
+              "block_settings": [
+                {
+                  "price": 23200,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 22100,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11600,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 10500,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 9400,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-31",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "マーティン・マクアルーン",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21030",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62380",
+              "event_names": [
+                "Martin McAloon of Prefab Sprout",
+                "",
+                "the Two Wheels Good",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T21:15:30.222478+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21029_1_1760518833.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21029_1_1760518833.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21029_2_1760518833.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21029_1_1760518833.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-19",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "Martin McAloon of Prefab Sprout the Two Wheels Good",
+              "block_settings": [
+                {
+                  "price": 23200,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 22100,
+                  "ticket_number_limit": 9,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 11600,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 10500,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 9400,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-31",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-20"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "12:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21078",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62479",
+              "event_names": [
+                "織田哲郎 ",
+                "",
+                "『幻奏夜Ⅹ』",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-19T13:03:46.804134+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21076_1_1762487015.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21076_1_1762487015.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21076_2_1762487015.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21076_1_1762487015.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-20",
+              "event_genre": "※全席チケット型アクリルキーホルダー付き",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "織田哲郎 『幻奏夜Ⅹ』",
+              "block_settings": [
+                {
+                  "price": 24400,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12200,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9500,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-07",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "12:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21078",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62480",
+              "event_names": [
+                "織田哲郎 ",
+                "",
+                "『幻奏夜Ⅹ』",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-19T13:03:46.804134+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21076_1_1762487015.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21076_1_1762487015.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21076_2_1762487015.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21076_1_1762487015.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-20",
+              "event_genre": "※全席チケット型アクリルキーホルダー付き",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "織田哲郎 『幻奏夜Ⅹ』",
+              "block_settings": [
+                {
+                  "price": 24400,
+                  "ticket_number_limit": 10,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 23300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12200,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11100,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 9500,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-07",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-21"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "21:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "15:00",
+              "play_run": 2,
+              "event_id": "ev-20981",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62275",
+              "event_names": [
+                "tricot Billboard Live\"Room service\"",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:35:03.728005+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20981_1_1759205097.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20981_1_1759205097.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20981_2_1759205097.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20981_1_1759205097.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-21",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "14:00",
+              "title_name": "tricot Billboard Live\"Room service\"",
+              "block_settings": [
+                {
+                  "price": 17400,
+                  "ticket_number_limit": 7,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 16300,
+                  "ticket_number_limit": 7,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 8700,
+                  "ticket_number_limit": 3,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 7600,
+                  "ticket_number_limit": 3,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 6500,
+                  "ticket_number_limit": 2,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 6000,
+                  "ticket_number_limit": 2,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-09-30",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "21:00",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "18:00",
+              "play_run": 2,
+              "event_id": "ev-20981",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62276",
+              "event_names": [
+                "tricot Billboard Live\"Room service\"",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:35:03.728005+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20981_1_1759205097.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20981_1_1759205097.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20981_2_1759205097.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20981_1_1759205097.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-21",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "17:00",
+              "title_name": "tricot Billboard Live\"Room service\"",
+              "block_settings": [
+                {
+                  "price": 17400,
+                  "ticket_number_limit": 7,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 16300,
+                  "ticket_number_limit": 7,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 8700,
+                  "ticket_number_limit": 3,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 7600,
+                  "ticket_number_limit": 3,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 6500,
+                  "ticket_number_limit": 2,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 6000,
+                  "ticket_number_limit": 2,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-09-30",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-22"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "start_date": "2026-02-22",
+          "document_id": "miT3EtybVI4S756og3zq",
+          "end_date": "2026-02-22",
+          "detailed_info_flag": 2,
+          "announce": "",
+          "created": "2025-11-20T12:00:19.325025+09:00",
+          "status": 2,
+          "content": "Private\n\n【電話お問い合わせセンター休業のお知らせ】\nビルボードライブ東京 電話お問い合わせセンターは、2/22（日）は休業日となります。\nなお、WEBからのお申込みは24時間ご利用可能です。\nあらかじめご了承いただきますようお願いいたします。",
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2026-01-23T11:21:30.087981+09:00",
+          "image": null
+        }
+      },
+      {
+        "dates": [
+          "2026-02-23"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "19:30",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "16:30",
+              "play_run": 2,
+              "event_id": "ev-20926",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62124",
+              "event_names": [
+                "大塚 愛 AIO ACO.",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": "天皇誕生日",
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:35:22.696097+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20926_1_1757487596.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20926_1_1757487596.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20926_2_1757487596.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20926_1_1757487596.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-23",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": true,
+              "play_open": "15:30",
+              "title_name": "大塚 愛 AIO ACO.",
+              "block_settings": [
+                {
+                  "price": 25400,
+                  "ticket_number_limit": 11,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 24300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12700,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11600,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10500,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-09-07",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "19:30",
+              "event_names_en": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "19:30",
+              "play_run": 2,
+              "event_id": "ev-20926",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62125",
+              "event_names": [
+                "大塚 愛 AIO ACO.",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": "天皇誕生日",
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:35:22.696097+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-20926_1_1757487596.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-20926_1_1757487596.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-20926_2_1757487596.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-20926_1_1757487596.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-23",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": true,
+              "play_open": "18:30",
+              "title_name": "大塚 愛 AIO ACO.",
+              "block_settings": [
+                {
+                  "price": 25400,
+                  "ticket_number_limit": 11,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 24300,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 12700,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11600,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10500,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-09-07",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-24"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "エディ・ジョブソン",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21018",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62351",
+              "event_names": [
+                "Eddie Jobson U.K. Revisited",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T21:21:35.966617+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21018_1_1759999465.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21018_1_1759999465.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21018_2_1759999465.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21018_1_1759999465.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-24",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "Eddie Jobson U.K. Revisited",
+              "block_settings": [
+                {
+                  "price": 26000,
+                  "ticket_number_limit": 11,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 24900,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 13000,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11900,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10800,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 10300,
+                  "ticket_number_limit": 4,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-24",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "エディ・ジョブソン",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21018",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62352",
+              "event_names": [
+                "Eddie Jobson U.K. Revisited",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T21:21:35.966617+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21018_1_1759999465.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21018_1_1759999465.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21018_2_1759999465.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21018_1_1759999465.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-24",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "Eddie Jobson U.K. Revisited",
+              "block_settings": [
+                {
+                  "price": 26000,
+                  "ticket_number_limit": 11,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 24900,
+                  "ticket_number_limit": 10,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 13000,
+                  "ticket_number_limit": 5,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11900,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10800,
+                  "ticket_number_limit": 4,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 10300,
+                  "ticket_number_limit": 4,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-24",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-25"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "image": null,
+          "document_id": "mO5W15i63QoiPAEothsx",
+          "end_date": "2026-02-25",
+          "detailed_info_flag": 2,
+          "announce": "",
+          "created": "2026-01-19T14:10:12.383041+09:00",
+          "status": 2,
+          "start_date": "2026-02-25",
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2026-01-19T14:10:12.383025+09:00",
+          "content": "Off"
+        }
+      },
+      {
+        "dates": [
+          "2026-02-26"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "エディ・ジョブソン",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21106",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62535",
+              "event_names": [
+                "Eddie Jobson U.K. Revisited",
+                "【追加公演】",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T21:23:34.763133+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21106_1_1763530404.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21106_1_1763530404.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21106_2_1763530404.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21106_1_1763530404.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/membersarea/special_topics/t_sp_corporate.html",
+                  "message": "法人JUST1キャンペーン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 2
+                },
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-26",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "Eddie Jobson U.K. Revisited",
+              "block_settings": [
+                {
+                  "price": 26000,
+                  "ticket_number_limit": 2,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 24900,
+                  "ticket_number_limit": 2,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 13000,
+                  "ticket_number_limit": 1,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11900,
+                  "ticket_number_limit": 1,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10800,
+                  "ticket_number_limit": 1,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 10300,
+                  "ticket_number_limit": 1,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-21",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "15:00",
+              "event_names_en": [
+                "エディ・ジョブソン",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21106",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62536",
+              "event_names": [
+                "Eddie Jobson U.K. Revisited",
+                "【追加公演】",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T21:23:34.763133+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21106_1_1763530404.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21106_1_1763530404.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21106_2_1763530404.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21106_1_1763530404.jpg"
+                }
+              ],
+              "campaigns": [
+                {
+                  "link_url": "https://www.billboard-live.com/membersarea/special_topics/t_sp_corporate.html",
+                  "message": "法人JUST1キャンペーン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 2
+                },
+                {
+                  "link_url": "https://www.billboard-live.com/tokyo/food-drink/recommend",
+                  "message": "グルメプラン",
+                  "link_show_type": 2,
+                  "campaign_m_id": 3
+                }
+              ],
+              "play_date": "2026-02-26",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "Eddie Jobson U.K. Revisited",
+              "block_settings": [
+                {
+                  "price": 26000,
+                  "ticket_number_limit": 2,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 24900,
+                  "ticket_number_limit": 2,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 13000,
+                  "ticket_number_limit": 1,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 11900,
+                  "ticket_number_limit": 1,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 10800,
+                  "ticket_number_limit": 1,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 10300,
+                  "ticket_number_limit": 1,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-21",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-27"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "14:00",
+              "event_names_en": [
+                "pearl brothers",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "17:30",
+              "play_run": 2,
+              "event_id": "ev-21102",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62527",
+              "event_names": [
+                "パール兄弟",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:36:23.479777+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21102_1_1763278278.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21102_1_1763278278.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21102_2_1763278278.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21102_1_1763278278.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-27",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "16:30",
+              "title_name": "パール兄弟",
+              "block_settings": [
+                {
+                  "price": 20000,
+                  "ticket_number_limit": 8,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 18900,
+                  "ticket_number_limit": 8,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 7800,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 7300,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-18",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "14:00",
+              "event_names_en": [
+                "pearl brothers",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "20:30",
+              "play_run": 2,
+              "event_id": "ev-21102",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62528",
+              "event_names": [
+                "パール兄弟",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:36:23.479777+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21102_1_1763278278.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21102_1_1763278278.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21102_2_1763278278.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21102_1_1763278278.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-27",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "19:30",
+              "title_name": "パール兄弟",
+              "block_settings": [
+                {
+                  "price": 20000,
+                  "ticket_number_limit": 8,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 18900,
+                  "ticket_number_limit": 8,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 10000,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 8900,
+                  "ticket_number_limit": 3,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 7800,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 7300,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-11-18",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-02-28"
+        ],
+        "schedules": [
+          [
+            {
+              "release_time": "20:00",
+              "event_names_en": [
+                "Huwie Ishizaki",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "15:00",
+              "play_run": 2,
+              "event_id": "ev-21022",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62359",
+              "event_names": [
+                "石崎ひゅーい 2026 「キミがいるLIVE」 -Piano Quintet-",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:36:41.995317+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21021_1_1760004154.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21021_1_1760004154.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21021_2_1760004154.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21021_1_1760004154.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-28",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "14:00",
+              "title_name": "石崎ひゅーい 2026「キミがいるLIVE」-Piano Quintet-",
+              "block_settings": [
+                {
+                  "price": 21400,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 20300,
+                  "ticket_number_limit": 8,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 10700,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 9600,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8500,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8000,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-11",
+              "result_status": "sale_end"
+            },
+            {
+              "release_time": "20:00",
+              "event_names_en": [
+                "Huwie Ishizaki",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "play_start": "18:00",
+              "play_run": 2,
+              "event_id": "ev-21022",
+              "facilityname": "ビルボードライブ東京",
+              "schedule_id": "sk-62360",
+              "event_names": [
+                "石崎ひゅーい 2026 「キミがいるLIVE」 -Piano Quintet-",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "web_show_flag": 1,
+              "holiday_name": null,
+              "detailed_info_flag": 3,
+              "update_websetting_at": "2026-02-18T07:36:41.995317+09:00",
+              "images": [
+                {
+                  "image_type": 1,
+                  "image_name": "fls_ev-21021_1_1760004154.jpg"
+                },
+                {
+                  "image_type": 2,
+                  "image_name": "top_ev-21021_1_1760004154.jpg"
+                },
+                {
+                  "image_type": 3,
+                  "image_name": "top_ev-21021_2_1760004154.jpg"
+                },
+                {
+                  "image_type": 4,
+                  "image_name": "dtl_ev-21021_1_1760004154.jpg"
+                }
+              ],
+              "campaigns": [],
+              "play_date": "2026-02-28",
+              "event_genre": "",
+              "facilityid": 1080,
+              "holiday": false,
+              "play_open": "17:00",
+              "title_name": "石崎ひゅーい 2026「キミがいるLIVE」-Piano Quintet-",
+              "block_settings": [
+                {
+                  "price": 21400,
+                  "ticket_number_limit": 9,
+                  "price_name": "DXシート DUO"
+                },
+                {
+                  "price": 20300,
+                  "ticket_number_limit": 8,
+                  "price_name": "DUOシート"
+                },
+                {
+                  "price": 10700,
+                  "ticket_number_limit": 4,
+                  "price_name": "DXシート カウンター"
+                },
+                {
+                  "price": 9600,
+                  "ticket_number_limit": 4,
+                  "price_name": "S指定席"
+                },
+                {
+                  "price": 8500,
+                  "ticket_number_limit": 3,
+                  "price_name": "R指定席"
+                },
+                {
+                  "price": 8000,
+                  "ticket_number_limit": 3,
+                  "price_name": "カジュアル"
+                }
+              ],
+              "release_date": "2025-10-11",
+              "result_status": "sale_end"
+            }
+          ]
+        ],
+        "calendar_infos": null
+      },
+      {
+        "dates": [
+          "2026-03-02",
+          "2026-03-03",
+          "2026-03-04"
+        ],
+        "schedules": [],
+        "calendar_infos": {
+          "announce": "",
+          "start_date": "2026-03-02",
+          "content": "Off",
+          "document_id": "hzYyBywolx3RED3emYyS",
+          "end_date": "2026-03-04",
+          "detailed_info_flag": 2,
+          "created": "2026-02-05T10:49:01.552390+09:00",
+          "status": 2,
+          "detailed_info_url": null,
+          "caption": "",
+          "updated": "2026-02-05T10:49:01.552377+09:00",
+          "image": null
+        }
+      }
+    ]
+  }
+]

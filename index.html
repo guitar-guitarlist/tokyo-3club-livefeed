@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livehouse Schedule Analyzer</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=5">
+</head>
+
+<body>
+    <div class="background-effects">
+        <div class="glow-orb orb-1"></div>
+        <div class="glow-orb orb-2"></div>
+        <div class="glow-orb orb-3"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>Livehouse Schedule</h1>
+            <p class="subtitle">Tokyo Jazz & Live Club Guide</p>
+        </header>
+
+        <nav id="month-nav" class="month-nav">
+            <!-- JavaScript dynamically creates month links here -->
+        </nav>
+
+        <main class="schedule-grid" id="schedule-container">
+            <!-- Header Row -->
+            <div class="grid-header-corner">Date</div>
+            <div class="grid-header venue-bluenote">Blue Note Tokyo</div>
+            <div class="grid-header venue-billboard">Billboard Live Tokyo</div>
+            <div class="grid-header venue-cotton">Cotton Club</div>
+
+            <!-- Dynamic Content Will Be Injected Here -->
+    </div>
+    </main>
+    </div>
+
+    <script src="app.js?v=5"></script>
+</body>
+
+</html>
