@@ -64,7 +64,7 @@ function renderSchedule(data) {
         if (monthKey !== currentMonthKey) {
             currentMonthKey = monthKey;
 
-            const monthLabel = `${year}年 ${monthIndex + 1}月`;
+            const monthLabel = `${months[monthIndex]} ${year}`;
             const headerId = `month-${monthKey}`;
 
             // Add Divider to Grid
@@ -77,7 +77,7 @@ function renderSchedule(data) {
             // Add Button to Nav
             const navBtn = document.createElement('button');
             navBtn.className = 'month-nav-btn';
-            navBtn.innerText = `${monthIndex + 1}月`;
+            navBtn.innerText = months[monthIndex];
             navBtn.addEventListener('click', () => {
                 const target = document.getElementById(headerId);
                 if (target) {
