@@ -152,7 +152,7 @@ function renderSchedule(data) {
 
 function createEventCard(venueCode, eventInfo, dateObj = null, isToday = false) {
     const wrapper = document.createElement('div');
-    const venueMap = { bn: 'Blue Note Tokyo', bb: 'Billboard Live', cc: 'Cotton Club' };
+    const venueMap = { bn: 'Blue Note Tokyo', bb: 'Billboard Live Tokyo', cc: 'Cotton Club' };
     const venueName = venueMap[venueCode];
 
     let baseClass = isToday ? 'is-today ' : '';
