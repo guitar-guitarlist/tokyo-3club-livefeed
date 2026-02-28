@@ -229,6 +229,17 @@ h1 {
     border-color: var(--text-secondary) !important;
 }
 
+.new-nav-btn {
+    background: #d97736 !important;
+    color: #fff !important;
+    border-color: #d97736 !important;
+}
+
+.new-nav-btn:hover {
+    background: #b05c24 !important;
+    border-color: #b05c24 !important;
+}
+
 /* Event Cards */
 .event-card {
     background: rgba(255, 255, 255, 0.6);

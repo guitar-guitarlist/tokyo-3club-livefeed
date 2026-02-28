@@ -75,6 +75,20 @@ function renderSchedule(data) {
     });
     navButtons.appendChild(todayBtn);
 
+    // Create New Button
+    const newBtn = document.createElement('button');
+    newBtn.className = 'month-nav-btn new-nav-btn';
+    newBtn.innerText = '✨ New';
+    newBtn.addEventListener('click', () => {
+        const newTarget = document.getElementById('recently-added-section');
+        if (newTarget && newTarget.style.display !== 'none') {
+            const yOffset = -150;
+            const y = newTarget.getBoundingClientRect().top + window.scrollY + yOffset;
+            window.scrollTo({ top: y, behavior: 'smooth' });
+        }
+    });
+    navButtons.appendChild(newBtn);
+
     const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
