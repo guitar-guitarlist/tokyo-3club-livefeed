@@ -2,13 +2,7 @@
   {
     "date": "2026-03-01T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "浅井健一",
-      "time": "15:00 / 18:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21144_1_1765774427.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21144&date=2026-03-01",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1624,6 +1618,18 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lage-lund-260519/",
       "first_seen": "2026-02-01"
     }
+  },
+  {
+    "date": "2026-05-22T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "【追加公演】 Thee Sacred Souls",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21304_1_1772088450.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21304&date=2026-05-22",
+      "first_seen": "2026-03-02"
+    },
+    "cotton": null
   },
   {
     "date": "2026-05-23T00:00:00.000Z",
