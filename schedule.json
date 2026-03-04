@@ -967,7 +967,7 @@
       "artist": "MARTY HOLOUBEK TRIO IV featuring 渡辺翔太 & 石若駿",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5617.jpg?20260304",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-holoubek-trio-260416/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-02-01"
     }
   },
@@ -991,7 +991,7 @@
       "artist": "あがた森魚 Tango 2026 in COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5619.jpg?20260304",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/morio-agata-260417/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-02-01"
     }
   },
@@ -1167,7 +1167,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21166&date=2026-04-25",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "Noriko Sakai Live DO NOT DISTURB Busy with someone special",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5629.jpg?20260304",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/noriko-sakai-260425/",
+      "first_seen": "2026-03-04"
+    }
   },
   {
     "date": "2026-04-26T00:00:00.000Z",
@@ -1185,7 +1191,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21116&date=2026-04-26",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "Noriko Sakai Live DO NOT DISTURB Busy with someone special",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5629.jpg?20260304",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/noriko-sakai-260425/",
+      "first_seen": "2026-03-04"
+    }
   },
   {
     "date": "2026-04-27T00:00:00.000Z",
@@ -1419,7 +1431,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "TOM OLLENDORFF TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5630.jpg?20260304",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-ollendorff-260511/",
+      "first_seen": "2026-03-04"
+    }
   },
   {
     "date": "2026-05-12T00:00:00.000Z",
@@ -1447,7 +1465,7 @@
       "artist": "JUNKO MORIYA ORCHESTRA with special guest KEIKO LEE",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5622.jpg?20260304",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/junko-moriya-orchestra-260513/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
@@ -1477,7 +1495,7 @@
       "artist": "壷阪健登 新譜リリース記念ライブ「Lines」at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5621.jpg?20260304",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kento-tsubosaka-260515/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
@@ -1629,7 +1647,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21304&date=2026-05-22",
       "first_seen": "2026-03-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "古舘と客人と vol.35 古舘伊知郎 栗山英樹",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5625.jpg?20260304",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260522/",
+      "first_seen": "2026-03-04"
+    }
   },
   {
     "date": "2026-05-23T00:00:00.000Z",
@@ -1761,7 +1785,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "KATE KORTUM",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5631.jpg?20260304",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kate-kortum-260530/",
+      "first_seen": "2026-03-04"
+    }
   },
   {
     "date": "2026-05-31T00:00:00.000Z",
@@ -1779,7 +1809,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21203&date=2026-05-31",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "KATE KORTUM",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5631.jpg?20260304",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kate-kortum-260530/",
+      "first_seen": "2026-03-04"
+    }
   },
   {
     "date": "2026-06-01T00:00:00.000Z",
@@ -1790,7 +1826,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dee-dee-bridgewater/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Patrice Rushen パトリース・ラッシェン",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21257_1_1770256763.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21257&date=2026-06-01",
+      "first_seen": "2026-03-04"
+    },
     "cotton": {
       "artist": "JUSTIN-LEE SCHULTZ",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1802,7 +1844,13 @@
   {
     "date": "2026-06-02T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Patrice Rushen パトリース・ラッシェン",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21257_1_1770256763.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21257&date=2026-06-02",
+      "first_seen": "2026-03-04"
+    },
     "cotton": {
       "artist": "JUSTIN-LEE SCHULTZ",
       "time": "1st: 18:00 / 2nd: 20:30",
