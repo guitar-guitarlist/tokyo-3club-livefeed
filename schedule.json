@@ -1585,7 +1585,7 @@
       "artist": "LAGE LUND QUARTET with MARK TURNER, VICENTE ARCHER & JOHNATHAN BLAKE",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5623.jpg?20260305",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lage-lund-260519/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
@@ -1609,7 +1609,7 @@
       "artist": "LAGE LUND QUARTET with MARK TURNER, VICENTE ARCHER & JOHNATHAN BLAKE",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5623.jpg?20260305",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lage-lund-260519/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
@@ -1633,7 +1633,7 @@
       "artist": "LAGE LUND QUARTET with MARK TURNER, VICENTE ARCHER & JOHNATHAN BLAKE",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5623.jpg?20260305",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lage-lund-260519/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
@@ -1843,7 +1843,13 @@
   },
   {
     "date": "2026-06-02T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "FUNKY TIMES",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3933.jpg?20260305",
+      "url": "https://www.bluenote.co.jp/jp/artists/funky-times/",
+      "first_seen": "2026-03-05"
+    },
     "billboard": {
       "artist": "Patrice Rushen パトリース・ラッシェン",
       "time": "17:30 / 20:30",
@@ -1858,6 +1864,18 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/justin-lee-schultz-260601/",
       "first_seen": "2026-02-01"
     }
+  },
+  {
+    "date": "2026-06-03T00:00:00.000Z",
+    "bluenote": {
+      "artist": "FUNKY TIMES",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3933.jpg?20260305",
+      "url": "https://www.bluenote.co.jp/jp/artists/funky-times/",
+      "first_seen": "2026-03-05"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2026-06-05T00:00:00.000Z",
@@ -1921,7 +1939,13 @@
   },
   {
     "date": "2026-06-10T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "DAVE KOZ & FRIENDS: SUMMER HORNS featuring Jeff Bradshaw, Marcus Anderson, Marcel Anderson, Leo P & Evan Taylor",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3931.jpg?20260305",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
+      "first_seen": "2026-03-05"
+    },
     "billboard": null,
     "cotton": {
       "artist": "OKAZAKI BROTHERS with special guest MAKOTO OZONE 『Blood But Blues』Release Live at COTTON CLUB",
@@ -1932,8 +1956,38 @@
     }
   },
   {
+    "date": "2026-06-11T00:00:00.000Z",
+    "bluenote": {
+      "artist": "DAVE KOZ & FRIENDS: SUMMER HORNS featuring Jeff Bradshaw, Marcus Anderson, Marcel Anderson, Leo P & Evan Taylor",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3931.jpg?20260305",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
+      "first_seen": "2026-03-05"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-06-12T00:00:00.000Z",
+    "bluenote": {
+      "artist": "DAVE KOZ & FRIENDS: SUMMER HORNS featuring Jeff Bradshaw, Marcus Anderson, Marcel Anderson, Leo P & Evan Taylor",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3931.jpg?20260305",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
+      "first_seen": "2026-03-05"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
     "date": "2026-06-13T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "DAVE KOZ & FRIENDS: SUMMER HORNS featuring Jeff Bradshaw, Marcus Anderson, Marcel Anderson, Leo P & Evan Taylor",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3931.jpg?20260305",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
+      "first_seen": "2026-03-05"
+    },
     "billboard": null,
     "cotton": {
       "artist": "相田翔子 Solo Début 30th Anniversary Live",
