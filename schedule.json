@@ -1784,7 +1784,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dee-dee-bridgewater/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Lupintic All Stars Produced by YUJI OHNO",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21316_1_1772594929.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21316&date=2026-05-30",
+      "first_seen": "2026-03-06"
+    },
     "cotton": {
       "artist": "KATE KORTUM",
       "time": "1st: 18:00 / 2nd: 20:30",
