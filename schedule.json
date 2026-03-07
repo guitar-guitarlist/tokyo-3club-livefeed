@@ -74,13 +74,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/makoto-ozone/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "「女は女である。」 ～野宮真貴デビュー45周年前夜祭＆バースデー・ライブ～",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21114_1_1764763846.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21114&date=2026-03-05",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "FERGUS McCREADIE TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -98,13 +92,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/pino-palladino/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "「女は女である。」 ～野宮真貴デビュー45周年前夜祭＆バースデー・ライブ～",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21114_1_1764763846.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21114&date=2026-03-06",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "Night Tempo presents ブルー・ナイト倶楽部 Ver.01",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1886,6 +1874,18 @@
       "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21179_1_1767943545.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21179&date=2026-06-03",
       "first_seen": "2026-03-06"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-06-04T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "谷山浩子 Billboard Live",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21311_1_1772190537.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21311&date=2026-06-04",
+      "first_seen": "2026-03-07"
     },
     "cotton": null
   },
