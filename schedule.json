@@ -1904,7 +1904,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "古内東子 Toko Furuuchi Billboard Live Tour 2026  〜Best Early Summer Session〜",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21246_1_1770174603.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21248&date=2026-06-05",
+      "first_seen": "2026-03-08"
+    },
     "cotton": null
   },
   {
