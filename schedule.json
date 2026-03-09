@@ -843,13 +843,7 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21188&date=2026-04-10",
       "first_seen": "2026-02-01"
     },
-    "cotton": {
-      "artist": "＜公演中止＞JADEN EVANS : Evans on Evans  featuring TAKASHI SUGAWA & KAITO NAKAMURA",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5606.jpg?20260309",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jaden-evans-260410/",
-      "first_seen": "2026-02-01"
-    }
+    "cotton": null
   },
   {
     "date": "2026-04-11T00:00:00.000Z",
@@ -867,13 +861,7 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21211&date=2026-04-11",
       "first_seen": "2026-02-01"
     },
-    "cotton": {
-      "artist": "＜公演中止＞JADEN EVANS : Evans on Evans  featuring TAKASHI SUGAWA & KAITO NAKAMURA",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5606.jpg?20260309",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jaden-evans-260410/",
-      "first_seen": "2026-02-01"
-    }
+    "cotton": null
   },
   {
     "date": "2026-04-12T00:00:00.000Z",
@@ -1922,7 +1910,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "KOKIA 人生はここから深くなる — Determination —",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21249_1_1770176486.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21252&date=2026-06-06",
+      "first_seen": "2026-03-09"
+    },
     "cotton": null
   },
   {
