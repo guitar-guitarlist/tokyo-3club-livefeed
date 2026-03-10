@@ -146,13 +146,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/pino-palladino/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "＜特別公演＞テンプル大学ジャズバンド feat. ランディ・ブレッカー（トランペット）",
-      "time": "19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21265_1_1770713402.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21265&date=2026-03-09",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "BIG HORNS BEE 35th Anniversary Year vol.1 \"Funky Session\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1928,7 +1922,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Sarah Àlainn",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21216_1_1769763389.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21216&date=2026-06-07",
+      "first_seen": "2026-03-10"
+    },
     "cotton": null
   },
   {
