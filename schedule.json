@@ -837,7 +837,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21188&date=2026-04-10",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "AFTER BILL EVANS Hosted by TAKASHI SUGAWA",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5633.jpg?20260311",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/after-bill-evans-260410/",
+      "first_seen": "2026-03-11"
+    }
   },
   {
     "date": "2026-04-11T00:00:00.000Z",
@@ -855,7 +861,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21211&date=2026-04-11",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "AFTER BILL EVANS Hosted by TAKASHI SUGAWA",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5633.jpg?20260311",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/after-bill-evans-260410/",
+      "first_seen": "2026-03-11"
+    }
   },
   {
     "date": "2026-04-12T00:00:00.000Z",
@@ -891,7 +903,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "サンプラザ中野くん Style feat. 江口洋介",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5634.jpg?20260311",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sunplaza-nakano-kun-260413/",
+      "first_seen": "2026-03-11"
+    }
   },
   {
     "date": "2026-04-14T00:00:00.000Z",
@@ -1693,7 +1711,7 @@
       "artist": "CORY HENRY LIVE featuring Members of The Funk Apostles",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5624.jpg?20260311",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cory-henry-260526/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
@@ -1717,7 +1735,7 @@
       "artist": "CORY HENRY LIVE featuring Members of The Funk Apostles",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5624.jpg?20260311",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cory-henry-260526/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-02-01"
     }
   },
