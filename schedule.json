@@ -218,13 +218,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/robert-glasper/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "INORAN Determine 2026 -CLASSICAL ニライカナイ-",
-      "time": "17:00 / 20:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21195_1_1768290241.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21195&date=2026-03-13",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "古舘と客人と vol.33 古舘伊知郎 満島真之介",
       "time": "1st: 18:00 / 2nd: 20:30",
