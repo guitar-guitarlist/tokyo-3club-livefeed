@@ -254,13 +254,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/robert-glasper/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "John Carroll Kirby",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21148_1_1765948169.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21148&date=2026-03-15",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "米倉利紀 sTYle72 basic. 2026 -yellow BEAR party",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1994,7 +1988,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
       "first_seen": "2026-03-05"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Cate Le Bon",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21328_1_1773627289.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21328&date=2026-06-11",
+      "first_seen": "2026-03-16"
+    },
     "cotton": null
   },
   {
@@ -2018,7 +2018,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
       "first_seen": "2026-03-05"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "カーネーション WILD FANTASY 20th Anniversary Tour",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21264_1_1771400995.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21264&date=2026-06-13",
+      "first_seen": "2026-03-16"
+    },
     "cotton": {
       "artist": "相田翔子 Solo Début 30th Anniversary Live",
       "time": "1st: 18:00 / 2nd: 20:30",
