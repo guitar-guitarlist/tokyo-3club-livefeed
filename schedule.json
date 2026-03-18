@@ -1131,7 +1131,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21176&date=2026-04-24",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "木村充揮 Live at 丸の内〜東で吠える！",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5637.jpg?20260318",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/atsuki-kimura-260424/",
+      "first_seen": "2026-03-18"
+    }
   },
   {
     "date": "2026-04-25T00:00:00.000Z",
@@ -1269,7 +1275,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260318",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/goro-noguchi-260501/",
+      "first_seen": "2026-03-18"
+    }
   },
   {
     "date": "2026-05-02T00:00:00.000Z",
@@ -1287,7 +1299,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21217&date=2026-05-02",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260318",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
+      "first_seen": "2026-03-18"
+    }
   },
   {
     "date": "2026-05-03T00:00:00.000Z",
@@ -1299,7 +1317,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260318",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
+      "first_seen": "2026-03-18"
+    }
   },
   {
     "date": "2026-05-04T00:00:00.000Z",
@@ -1311,7 +1335,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260318",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
+      "first_seen": "2026-03-18"
+    }
   },
   {
     "date": "2026-05-05T00:00:00.000Z",
@@ -1323,7 +1353,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260318",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
+      "first_seen": "2026-03-18"
+    }
   },
   {
     "date": "2026-05-06T00:00:00.000Z",
@@ -1825,7 +1861,7 @@
       "artist": "JUSTIN-LEE SCHULTZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5627.jpg?20260318",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/justin-lee-schultz-260601/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-02-01"
     }
   },
@@ -1849,7 +1885,7 @@
       "artist": "JUSTIN-LEE SCHULTZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5627.jpg?20260318",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/justin-lee-schultz-260601/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-02-01"
     }
   },
@@ -1975,7 +2011,7 @@
       "artist": "OKAZAKI BROTHERS with special guest MAKOTO OZONE 『Blood But Blues』Release Live at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5628.jpg?20260318",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/okazaki-brothers-260610/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-02-01"
     }
   },
@@ -2034,6 +2070,18 @@
     }
   },
   {
+    "date": "2026-06-15T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "堂珍嘉邦 Billboard Live tour 2026",
+      "time": "17:00 / 20:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21154_1_1766366393.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21158&date=2026-06-15",
+      "first_seen": "2026-03-18"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-06-20T00:00:00.000Z",
     "bluenote": {
       "artist": "MARCUS GILMORE \"Journey to the New\"",
@@ -2056,5 +2104,17 @@
     },
     "billboard": null,
     "cotton": null
+  },
+  {
+    "date": "2026-06-22T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "明星/Akeboshi \"The WIND Still Blows\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5635.jpg?20260318",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/akeboshi-260622/",
+      "first_seen": "2026-03-18"
+    }
   }
 ]
