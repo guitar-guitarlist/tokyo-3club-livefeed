@@ -290,13 +290,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/sam-greenfield/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "高中正義",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21131_1_1765538817.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21131&date=2026-03-17",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": null
   },
   {
@@ -308,13 +302,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/sam-greenfield/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "高中正義",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21131_1_1765538817.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21131&date=2026-03-18",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "岡田拓郎 Sextet plays \"Konoma\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1132,11 +1120,11 @@
       "first_seen": "2026-02-01"
     },
     "cotton": {
-      "artist": "木村充揮 Live at 丸の内〜東で吠える！",
+      "artist": "木村充揮 Live at 丸の内?東で吠える！",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5637.jpg?20260319",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/atsuki-kimura-260424/",
-      "first_seen": "2026-03-18"
+      "first_seen": "2026-03-19"
     }
   },
   {
@@ -1159,7 +1147,7 @@
       "artist": "Noriko Sakai Live DO NOT DISTURB Busy with someone special",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5629.jpg?20260319",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/noriko-sakai-260425/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-03-04"
     }
   },
@@ -1183,7 +1171,7 @@
       "artist": "Noriko Sakai Live DO NOT DISTURB Busy with someone special",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5629.jpg?20260319",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/noriko-sakai-260425/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-03-04"
     }
   },
@@ -1352,7 +1340,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-hot-sardines/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "柴田淳",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21344_1_1773801256.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21344&date=2026-05-05",
+      "first_seen": "2026-03-19"
+    },
     "cotton": {
       "artist": "野口五郎 Timeless Songs 〜overseas product〜",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1508,7 +1502,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "柴田淳",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21344_1_1773801256.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21344&date=2026-05-15",
+      "first_seen": "2026-03-19"
+    },
     "cotton": {
       "artist": "壷阪健登 新譜リリース記念ライブ「Lines」at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1712,7 +1712,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/arturo-sandoval/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Trombone Shorty & Orleans Avenue",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21337_1_1773635622.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21337&date=2026-05-25",
+      "first_seen": "2026-03-19"
+    },
     "cotton": null
   },
   {
@@ -1790,7 +1796,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/cory-henry/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "GLIM SPANKY music from NANO universe",
+      "time": "18:00 / 21:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21350_1_1773824638.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21350&date=2026-05-29",
+      "first_seen": "2026-03-19"
+    },
     "cotton": null
   },
   {
@@ -2071,7 +2083,13 @@
   },
   {
     "date": "2026-06-15T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "VERONICA SWIFT",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3936.jpg?20260319",
+      "url": "https://www.bluenote.co.jp/jp/artists/veronica-swift/",
+      "first_seen": "2026-03-19"
+    },
     "billboard": {
       "artist": "堂珍嘉邦 Billboard Live tour 2026",
       "time": "17:00 / 20:00",
@@ -2079,6 +2097,60 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21158&date=2026-06-15",
       "first_seen": "2026-03-18"
     },
+    "cotton": null
+  },
+  {
+    "date": "2026-06-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "VERONICA SWIFT",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3936.jpg?20260319",
+      "url": "https://www.bluenote.co.jp/jp/artists/veronica-swift/",
+      "first_seen": "2026-03-19"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-06-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MAKAYA McCRAVEN  \"OFF THE RECORD\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3937.jpg?20260319",
+      "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
+      "first_seen": "2026-03-19"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "VERONICA SWIFT “HOME”",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5638.jpg?20260319",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/veronica-swift-260617/",
+      "first_seen": "2026-03-19"
+    }
+  },
+  {
+    "date": "2026-06-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MAKAYA McCRAVEN  \"OFF THE RECORD\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3937.jpg?20260319",
+      "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
+      "first_seen": "2026-03-19"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-06-19T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MAKAYA McCRAVEN  \"OFF THE RECORD\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3937.jpg?20260319",
+      "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
+      "first_seen": "2026-03-19"
+    },
+    "billboard": null,
     "cotton": null
   },
   {
