@@ -320,13 +320,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/steve-smith/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "The Allman Betts Band",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21053_1_1761647730.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21055&date=2026-03-19",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
