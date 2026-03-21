@@ -2138,7 +2138,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
       "first_seen": "2026-03-19"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "オルケスタ・デ・ラ・ルス",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21292_1_1771400043.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21292&date=2026-06-18",
+      "first_seen": "2026-03-21"
+    },
     "cotton": null
   },
   {
