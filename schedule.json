@@ -332,13 +332,7 @@
   {
     "date": "2026-03-20T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "杏里 ANRI with BEST Buddies",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21122_1_1765703999.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21122&date=2026-03-20",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "STEVE SMITH & VITAL INFORMATION feat. Manuel Valera & Janek Gwizdala",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -356,13 +350,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-loeb/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "杏里 ANRI with BEST Buddies",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21122_1_1765703999.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21122&date=2026-03-21",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ギャランティーク和恵 LIVE 2026 春",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1120,11 +1108,11 @@
       "first_seen": "2026-02-01"
     },
     "cotton": {
-      "artist": "木村充揮 Live at 丸の内?東で吠える！",
+      "artist": "木村充揮 Live at 丸の内〜東で吠える！",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5637.jpg?20260322",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/atsuki-kimura-260424/",
-      "first_seen": "2026-03-19"
+      "first_seen": "2026-03-22"
     }
   },
   {
@@ -2156,7 +2144,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
       "first_seen": "2026-03-19"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "My Little Lover ☆ acoakko live, Awaiting Summer",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21263_1_1770614028.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21263&date=2026-06-19",
+      "first_seen": "2026-03-22"
+    },
     "cotton": null
   },
   {
@@ -2168,7 +2162,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/marcus-gilmore/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "My Little Lover ☆ acoakko live, Awaiting Summer",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21263_1_1770614028.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21263&date=2026-06-20",
+      "first_seen": "2026-03-22"
+    },
     "cotton": null
   },
   {
