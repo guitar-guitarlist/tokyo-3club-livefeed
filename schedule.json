@@ -613,7 +613,7 @@
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5591.jpg?20260324",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-collier-260402/",
       "first_seen": "2026-02-01"
     }
   },
@@ -637,7 +637,7 @@
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5591.jpg?20260324",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-collier-260402/",
       "first_seen": "2026-02-01"
     }
   },
@@ -661,7 +661,7 @@
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5591.jpg?20260324",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-collier-260402/",
       "first_seen": "2026-02-01"
     }
   },
@@ -775,7 +775,7 @@
       "artist": "大比良瑞希 \"Show Your Breath\" at COTTON CLUB 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5614.jpg?20260324",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/mizuki-ohira-260409/",
       "first_seen": "2026-02-01"
     }
   },
@@ -1246,11 +1246,11 @@
     },
     "billboard": null,
     "cotton": {
-      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "artist": "野口五郎 Timeless Songs ～overseas product～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260324",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/goro-noguchi-260501/",
-      "first_seen": "2026-03-18"
+      "first_seen": "2026-03-24"
     }
   },
   {
@@ -1270,11 +1270,11 @@
       "first_seen": "2026-02-01"
     },
     "cotton": {
-      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "artist": "野口五郎 Timeless Songs ～overseas product～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260324",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
-      "first_seen": "2026-03-18"
+      "first_seen": "2026-03-24"
     }
   },
   {
@@ -1288,11 +1288,11 @@
     },
     "billboard": null,
     "cotton": {
-      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "artist": "野口五郎 Timeless Songs ～overseas product～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260324",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
-      "first_seen": "2026-03-18"
+      "first_seen": "2026-03-24"
     }
   },
   {
@@ -1306,11 +1306,11 @@
     },
     "billboard": null,
     "cotton": {
-      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "artist": "野口五郎 Timeless Songs ～overseas product～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260324",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
-      "first_seen": "2026-03-18"
+      "first_seen": "2026-03-24"
     }
   },
   {
@@ -1330,11 +1330,11 @@
       "first_seen": "2026-03-19"
     },
     "cotton": {
-      "artist": "野口五郎 Timeless Songs 〜overseas product〜",
+      "artist": "野口五郎 Timeless Songs ～overseas product～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5636.jpg?20260324",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
-      "first_seen": "2026-03-18"
+      "first_seen": "2026-03-24"
     }
   },
   {
@@ -2174,7 +2174,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/marcus-gilmore/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "akiko 25th Anniversary featuring 谷中敦（東京スカパラダイスオーケストラ） Guest 早見優",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21352_1_1774258961.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21352&date=2026-06-21",
+      "first_seen": "2026-03-24"
+    },
     "cotton": null
   },
   {
