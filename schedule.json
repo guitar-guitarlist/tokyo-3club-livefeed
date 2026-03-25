@@ -404,13 +404,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/isles/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "鈴木雅之 MARTINI DUET DELUXE NIGHT",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21169_1_1766581235.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21169&date=2026-03-24",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "TAP OF DREAMS ＋",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1221,7 +1215,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21203&date=2026-04-29",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "ラ・フォル・ジュルネ TOKYO 2026 at COTTON CLUB レ・ミュジシャン・ド・サン=ジュリアン / フランソワ・ラザレヴィチ",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5641.jpg?20260325",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/la-folle-journee-260429/",
+      "first_seen": "2026-03-25"
+    }
   },
   {
     "date": "2026-04-30T00:00:00.000Z",
@@ -1233,7 +1233,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "Celebrate \"International Jazz Day\" with MARTHA KATO - Ventus Traveling the World with Jazz 〜ジャズで世界を旅する〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5642.jpg?20260325",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martha-kato-260430/",
+      "first_seen": "2026-03-25"
+    }
   },
   {
     "date": "2026-05-01T00:00:00.000Z",
@@ -1429,7 +1435,7 @@
       "artist": "TOM OLLENDORFF TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5630.jpg?20260325",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-ollendorff-260511/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-03-04"
     }
   },
@@ -1651,7 +1657,7 @@
       "artist": "古舘と客人と vol.35 古舘伊知郎 栗山英樹",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5625.jpg?20260325",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260522/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-03-04"
     }
   },
@@ -1665,7 +1671,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "林哲司 SONG FILE LIVE",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5643.jpg?20260325",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tetsuji-hayashi-260523/",
+      "first_seen": "2026-03-25"
+    }
   },
   {
     "date": "2026-05-24T00:00:00.000Z",
@@ -1807,7 +1819,7 @@
       "artist": "KATE KORTUM",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5631.jpg?20260325",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kate-kortum-260530/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-03-04"
     }
   },
@@ -1831,7 +1843,7 @@
       "artist": "KATE KORTUM",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5631.jpg?20260325",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kate-kortum-260530/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-03-04"
     }
   },
