@@ -865,7 +865,7 @@
       "artist": "サンプラザ中野くん Style feat. 江口洋介",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5634.jpg?20260326",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sunplaza-nakano-kun-260413/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-03-11"
     }
   },
@@ -2211,6 +2211,42 @@
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5635.jpg?20260326",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/akeboshi-260622/",
       "first_seen": "2026-03-18"
+    }
+  },
+  {
+    "date": "2026-06-26T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live 〜Fire Horse〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260326",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
+      "first_seen": "2026-03-26"
+    }
+  },
+  {
+    "date": "2026-06-27T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live 〜Fire Horse〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260326",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
+      "first_seen": "2026-03-26"
+    }
+  },
+  {
+    "date": "2026-06-28T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live 〜Fire Horse〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260326",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
+      "first_seen": "2026-03-26"
     }
   }
 ]
