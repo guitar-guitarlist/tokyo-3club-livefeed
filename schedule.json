@@ -440,13 +440,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "ビルボードライブツアー2026 〜あなたの街まで幸せ届けにワッツアップ！〜 Answer to Remember",
-      "time": "18:00 / 21:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21126_1_1764902880.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21127&date=2026-03-26",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "SARAH McKENZIE",
       "time": "1st: 18:00 / 2nd: 20:30",
