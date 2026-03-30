@@ -494,13 +494,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/yuji-miyake/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "大原櫻子 Premium Concert 2026 「Not just I 3」",
-      "time": "15:00 / 18:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21095_1_1763089304.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21097&date=2026-03-29",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "LUCKY TAPES Live at COTTON CLUB 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2216,7 +2210,13 @@
   {
     "date": "2026-06-27T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Reina Washio Billboard Live 2026",
+      "time": "17:00 / 20:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21358_1_1774514342.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21358&date=2026-06-27",
+      "first_seen": "2026-03-30"
+    },
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live 〜Fire Horse〜",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2228,7 +2228,13 @@
   {
     "date": "2026-06-28T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Reina Washio Billboard Live 2026",
+      "time": "17:00 / 20:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21358_1_1774514342.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21358&date=2026-06-28",
+      "first_seen": "2026-03-30"
+    },
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live 〜Fire Horse〜",
       "time": "1st: 18:00 / 2nd: 20:30",
