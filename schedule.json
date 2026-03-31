@@ -512,13 +512,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/yuji-miyake/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Billboard Live presents FUYUMI SAKAMOTO Special Night  〜今日から明日へ〜",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21178_1_1767863712.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21178&date=2026-03-30",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "JOHN LLOYD YOUNG",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -595,7 +589,7 @@
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5591.jpg?20260331",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-collier-260402/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-02-01"
     }
   },
@@ -619,7 +613,7 @@
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5591.jpg?20260331",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-collier-260402/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-02-01"
     }
   },
@@ -643,7 +637,7 @@
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5591.jpg?20260331",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-collier-260402/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-02-01"
     }
   },
@@ -757,7 +751,7 @@
       "artist": "大比良瑞希 \"Show Your Breath\" at COTTON CLUB 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5614.jpg?20260331",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/mizuki-ohira-260409/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
       "first_seen": "2026-02-01"
     }
   },
@@ -865,7 +859,7 @@
       "artist": "KANDACE SPRINGS",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5612.jpg?20260331",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kandace-springs-260414/",
       "first_seen": "2026-02-01"
     }
   },
@@ -883,7 +877,7 @@
       "artist": "KANDACE SPRINGS",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5612.jpg?20260331",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kandace-springs-260414/",
       "first_seen": "2026-02-01"
     }
   },
@@ -901,7 +895,7 @@
       "artist": "MARTY HOLOUBEK TRIO IV featuring 渡辺翔太 & 石若駿",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5617.jpg?20260331",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-holoubek-trio-260416/",
       "first_seen": "2026-02-01"
     }
   },
