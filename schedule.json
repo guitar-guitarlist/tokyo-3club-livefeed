@@ -8,13 +8,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mohini-dey/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Teedra Moses",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21207_1_1768799700.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21207&date=2026-04-01",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "JOHN LLOYD YOUNG",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -32,13 +26,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/nao-yoshioka/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Teedra Moses",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21207_1_1768799700.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21207&date=2026-04-02",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1424,7 +1412,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "MUSIC AWARDS JAPAN WEEK SPECIAL LIVE ～“NOT A SCENE. A STATEMENT. | WaJAZZ”～",
+      "time": "17:00 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21367_1_1775132771.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21367&date=2026-06-08",
+      "first_seen": "2026-04-03"
+    },
     "cotton": null
   },
   {
@@ -1436,7 +1430,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "MUSIC AWARDS JAPAN WEEK SPECIAL LIVE ～“NOT A SCENE. A STATEMENT. | WaJAZZ”～",
+      "time": "17:00 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21367_1_1775132771.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21367&date=2026-06-09",
+      "first_seen": "2026-04-03"
+    },
     "cotton": null
   },
   {
@@ -1448,7 +1448,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
       "first_seen": "2026-03-05"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "MUSIC AWARDS JAPAN WEEK SPECIAL LIVE ～“NOT A SCENE. A STATEMENT. | WaJAZZ”～",
+      "time": "17:00 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21367_1_1775132771.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21367&date=2026-06-10",
+      "first_seen": "2026-04-03"
+    },
     "cotton": {
       "artist": "OKAZAKI BROTHERS with special guest MAKOTO OZONE 『Blood But Blues』Release Live at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
