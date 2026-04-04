@@ -44,13 +44,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/paul-cornish/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "NONA REEVES Revisit the “POP STATION” at Billboard Live TOKYO",
-      "time": "18:00 / 21:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21164_1_1766465203.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21164&date=2026-04-03",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1702,6 +1696,18 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
       "first_seen": "2026-03-26"
     }
+  },
+  {
+    "date": "2026-07-02T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Billboard JAPAN Records presents Los Retros with special guests 一十三十一＆JINTANA & EMERALDS",
+      "time": "17:30 / 21:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21333_1_1773627647.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21333&date=2026-07-02",
+      "first_seen": "2026-04-04"
+    },
+    "cotton": null
   },
   {
     "date": "2026-07-04T00:00:00.000Z",
