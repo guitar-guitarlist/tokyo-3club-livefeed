@@ -1718,7 +1718,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "May J. Billboard Live Tour 2026 - 20 Years of Love -",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21349_1_1773803967.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21349&date=2026-07-04",
+      "first_seen": "2026-04-06"
+    },
     "cotton": {
       "artist": "BREAKERZ BIRTHDAY PARTY 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
