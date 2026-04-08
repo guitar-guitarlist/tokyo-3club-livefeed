@@ -128,13 +128,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chikuzen-sato-lagheads/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "TenTwenty Billboard Live Tour 2026「NIGHTFLY」",
-      "time": "18:00 / 21:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21151_1_1766625717.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21151&date=2026-04-07",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "島袋寛子 UTAUTAI 2026 in COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -861,7 +855,13 @@
       "first_seen": "2026-02-01"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "cultra & Shorter Takagi presents「Off the Record」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5649.jpg?20260408",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cultra-shorter-takagi-260512/",
+      "first_seen": "2026-04-08"
+    }
   },
   {
     "date": "2026-05-13T00:00:00.000Z",
@@ -1087,7 +1087,7 @@
       "artist": "林哲司 SONG FILE LIVE",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5643.jpg?20260408",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tetsuji-hayashi-260523/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-03-25"
     }
   },
@@ -1555,7 +1555,7 @@
       "artist": "VERONICA SWIFT “HOME”",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5638.jpg?20260408",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/veronica-swift-260617/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-03-19"
     }
   },
@@ -1639,7 +1639,7 @@
       "artist": "明星/Akeboshi \"The WIND Still Blows\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5635.jpg?20260408",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/akeboshi-260622/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-03-18"
     }
   },
@@ -1736,7 +1736,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Billboard JAPAN Records presents magora Billboard Live Tour yurameki 2026",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21383_1_1775557069.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21383&date=2026-07-05",
+      "first_seen": "2026-04-08"
+    },
     "cotton": null
   },
   {
@@ -1857,6 +1863,24 @@
       "first_seen": "2026-03-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "ISAIAH J. THOMPSON TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5647.jpg?20260408",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-j-thompson-260721/",
+      "first_seen": "2026-04-08"
+    }
+  },
+  {
+    "date": "2026-07-22T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "ISAIAH J. THOMPSON TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5647.jpg?20260408",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-j-thompson-260721/",
+      "first_seen": "2026-04-08"
+    }
   }
 ]
