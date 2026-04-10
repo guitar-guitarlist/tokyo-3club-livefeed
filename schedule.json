@@ -62,13 +62,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/paul-cornish/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "甲斐よしひろ KAI YOSHIHIRO Billboard Live 2026",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21141_1_1765706005.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21141&date=2026-04-04",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ISAIAH COLLIER \"THE WORLD IS ON FIRE\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1802,7 +1796,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/sadao-watanabe/",
       "first_seen": "2026-04-09"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Dream Ami Billboard Live 2026 ～Milkyway～",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21386_1_1775557124.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21386&date=2026-07-07",
+      "first_seen": "2026-04-10"
+    },
     "cotton": null
   },
   {
@@ -1814,7 +1814,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/sadao-watanabe/",
       "first_seen": "2026-04-09"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "冨田ラボ the birds of four LIVE!",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21335_1_1774080597.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21335&date=2026-07-08",
+      "first_seen": "2026-04-10"
+    },
     "cotton": null
   },
   {
@@ -1861,6 +1867,18 @@
       "img": "https://www.bluenote.co.jp/web_mainte/img/event/3941.jpg?20260410",
       "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
       "first_seen": "2026-04-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-07-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CANIZARES × ANDRES BARRIOS × GEN OGIMI",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3949.jpg?20260410",
+      "url": "https://www.bluenote.co.jp/jp/artists/canizares/",
+      "first_seen": "2026-04-10"
     },
     "billboard": null,
     "cotton": null
