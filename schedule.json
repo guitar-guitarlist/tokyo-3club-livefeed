@@ -80,13 +80,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-mountain-goats/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "甲斐よしひろ KAI YOSHIHIRO Billboard Live 2026",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21141_1_1765706005.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21141&date=2026-04-05",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "島袋寛子 UTAUTAI 2026 in COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -176,13 +170,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-brand-new-heavies/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Full Of Harmony Billboard Live Tour 2026 〜JAM the \"COVERS\"",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21188_1_1768369652.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21188&date=2026-04-10",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "AFTER BILL EVANS Hosted by TAKASHI SUGAWA",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1832,7 +1820,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mamiko-suzuki/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "CRAZY KEN BAND Billboard Live TOUR 2026 ビルボードライブ東京のクレイジーケンバンド",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21356_1_1774404618.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21356&date=2026-07-09",
+      "first_seen": "2026-04-11"
+    },
     "cotton": null
   },
   {
@@ -1844,7 +1838,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
       "first_seen": "2026-04-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "CRAZY KEN BAND Billboard Live TOUR 2026 ビルボードライブ東京のクレイジーケンバンド",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21356_1_1774404618.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21356&date=2026-07-10",
+      "first_seen": "2026-04-11"
+    },
     "cotton": null
   },
   {
