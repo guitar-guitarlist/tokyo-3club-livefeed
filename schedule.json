@@ -1850,7 +1850,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
       "first_seen": "2026-04-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "木村カエラ \"Billboard Live Tour 2026\"",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21317_1_1772621768.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21320&date=2026-07-11",
+      "first_seen": "2026-04-13"
+    },
     "cotton": null
   },
   {
@@ -1862,7 +1868,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
       "first_seen": "2026-04-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "木村カエラ \"Billboard Live Tour 2026\"",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21317_1_1772621768.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21320&date=2026-07-12",
+      "first_seen": "2026-04-13"
+    },
     "cotton": null
   },
   {
