@@ -1526,7 +1526,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/veronica-swift/",
       "first_seen": "2026-03-19"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Yael Naim",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21395_1_1776042165.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21395&date=2026-06-16",
+      "first_seen": "2026-04-15"
+    },
     "cotton": {
       "artist": "阿佐ヶ谷姉妹 ギャランティーク和恵 Lipstick Fantasia 2",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1638,6 +1644,18 @@
     }
   },
   {
+    "date": "2026-06-23T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "Wu-Xing Live at COTTON CLUB 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5651.jpg?20260415",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/wu-xing-260623/",
+      "first_seen": "2026-04-15"
+    }
+  },
+  {
     "date": "2026-06-26T00:00:00.000Z",
     "bluenote": null,
     "billboard": null,
@@ -1683,6 +1701,18 @@
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260415",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
       "first_seen": "2026-03-26"
+    }
+  },
+  {
+    "date": "2026-06-29T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "東山義久 〜Sparkling Ying〜 50th Anniversary ＜1st.show＞ Golden Day ＜2nd.show＞ Platimum Night",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5652.jpg?20260415",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yoshihisa-higashiyama-260629/",
+      "first_seen": "2026-04-15"
     }
   },
   {
