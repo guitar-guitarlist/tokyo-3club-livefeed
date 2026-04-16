@@ -1716,6 +1716,30 @@
     }
   },
   {
+    "date": "2026-06-30T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JOYCE MORENO -O Mar e Mulher-",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3950.jpg?20260416",
+      "url": "https://www.bluenote.co.jp/jp/artists/joyce/",
+      "first_seen": "2026-04-16"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-07-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JOYCE MORENO -O Mar e Mulher-",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3950.jpg?20260416",
+      "url": "https://www.bluenote.co.jp/jp/artists/joyce/",
+      "first_seen": "2026-04-16"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
     "date": "2026-07-02T00:00:00.000Z",
     "bluenote": {
       "artist": "KEIKO MATSUI GROUP",
@@ -1731,7 +1755,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21333&date=2026-07-02",
       "first_seen": "2026-04-04"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "JOYCE MORENO - Celebrating Feminina 45th Anniversary -",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5650.jpg?20260416",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/joyce-moreno-260702/",
+      "first_seen": "2026-04-16"
+    }
   },
   {
     "date": "2026-07-03T00:00:00.000Z",
