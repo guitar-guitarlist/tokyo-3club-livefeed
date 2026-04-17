@@ -278,13 +278,7 @@
   {
     "date": "2026-04-16T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "河村隆一 Ryuichi Kawamura",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21254_1_1770185792.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21254&date=2026-04-16",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "MARTY HOLOUBEK TRIO IV featuring 渡辺翔太 & 石若駿",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1359,11 +1353,11 @@
       "first_seen": "2026-02-01"
     },
     "billboard": {
-      "artist": "Sarah Àlainn with Sarahband Billboard Live 2026",
+      "artist": "SARAH ÀLAINN サラ・オレイン with Sarahband Billboard Live 2026",
       "time": "15:00 / 18:00",
       "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21216_1_1769763389.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21216&date=2026-06-07",
-      "first_seen": "2026-04-09"
+      "first_seen": "2026-04-17"
     },
     "cotton": null
   },
@@ -1938,6 +1932,18 @@
     "cotton": null
   },
   {
+    "date": "2026-07-15T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "中村 雅俊 ビルボードライブ2026",
+      "time": "15:30 / 18:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21363_1_1774839181.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21363&date=2026-07-15",
+      "first_seen": "2026-04-17"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-07-16T00:00:00.000Z",
     "bluenote": {
       "artist": "CANIZARES × ANDRES BARRIOS × GEN OGIMI",
@@ -1946,7 +1952,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/canizares/",
       "first_seen": "2026-04-10"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "中村 雅俊 ビルボードライブ2026",
+      "time": "15:30 / 18:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21363_1_1774839181.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21363&date=2026-07-16",
+      "first_seen": "2026-04-17"
+    },
     "cotton": null
   },
   {
