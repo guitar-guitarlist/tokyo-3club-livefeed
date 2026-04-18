@@ -206,13 +206,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-brand-new-heavies/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "NARITA THOMAS SIMPSON 人生はとんとん Billboard Live",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21186_1_1768281106.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21186&date=2026-04-12",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ジュディ・オング Glamorous Jazz Night ～Forever Young IX～",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1702,11 +1696,11 @@
     "bluenote": null,
     "billboard": null,
     "cotton": {
-      "artist": "東山義久 〜Sparkling Ying〜 50th Anniversary ＜1st.show＞ Golden Day ＜2nd.show＞ Platimum Night",
+      "artist": "東山義久 ～Sparkling Ying～ 50th Anniversary ＜1st.show＞ Golden Day ＜2nd.show＞ Platimum Night",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5652.jpg?20260418",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yoshihisa-higashiyama-260629/",
-      "first_seen": "2026-04-15"
+      "first_seen": "2026-04-18"
     }
   },
   {
