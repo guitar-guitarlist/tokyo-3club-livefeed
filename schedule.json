@@ -290,13 +290,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-brand-new-heavies/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "NARITA THOMAS SIMPSON 人生はとんとん Billboard Live",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21186_1_1768281106.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21186&date=2026-04-17",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "あがた森魚 Tango 2026 in COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -314,13 +308,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/brandee-younger/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "NARITA THOMAS SIMPSON 人生はとんとん Billboard Live",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21186_1_1768281106.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21186&date=2026-04-18",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "はいだしょうこ BIRTHDAY LIVE 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -338,13 +326,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/brandee-younger/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "NARITA THOMAS SIMPSON 人生はとんとん Billboard Live",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21186_1_1768281106.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21186&date=2026-04-19",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "城南海 ウタアシビ2026春 追加公演",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1760,7 +1742,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/keiko-matsui/",
       "first_seen": "2026-04-09"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "中田裕二 THE BLUE SEAGULLS",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21373_1_1775214503.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21379&date=2026-07-03",
+      "first_seen": "2026-04-20"
+    },
     "cotton": null
   },
   {
@@ -1976,7 +1964,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "idom Billboard LIVE",
+      "time": "16:30 / 19:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21322_1_1772767774.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21322&date=2026-07-18",
+      "first_seen": "2026-04-20"
+    },
     "cotton": null
   },
   {
