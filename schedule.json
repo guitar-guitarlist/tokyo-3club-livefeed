@@ -344,13 +344,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/yann-tomita/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "松岡直也 Special Memorial Live “Tribute to NAOYA MATSUOKA & WESING”",
-      "time": "17:00 / 20:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21184_1_1768268765.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21184&date=2026-04-20",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "SARA WAKUI -Four Elements- Live @ COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1630,11 +1624,11 @@
     "bluenote": null,
     "billboard": null,
     "cotton": {
-      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ?Fire Horse?",
+      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260421",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
-      "first_seen": "2026-04-20"
+      "first_seen": "2026-04-21"
     }
   },
   {
@@ -1648,11 +1642,11 @@
       "first_seen": "2026-03-30"
     },
     "cotton": {
-      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ?Fire Horse?",
+      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260421",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
-      "first_seen": "2026-04-20"
+      "first_seen": "2026-04-21"
     }
   },
   {
@@ -1666,11 +1660,11 @@
       "first_seen": "2026-03-30"
     },
     "cotton": {
-      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ?Fire Horse?",
+      "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260421",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
-      "first_seen": "2026-04-20"
+      "first_seen": "2026-04-21"
     }
   },
   {
@@ -1982,7 +1976,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "藤木直人 Naohito Fujiki Live Tour ver14.5 Billboard Live 2026",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21229_1_1769673908.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21229&date=2026-07-19",
+      "first_seen": "2026-04-21"
+    },
     "cotton": null
   },
   {
@@ -1994,7 +1994,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "藤木直人 Naohito Fujiki Live Tour ver14.5 Billboard Live 2026",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21229_1_1769673908.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21229&date=2026-07-20",
+      "first_seen": "2026-04-21"
+    },
     "cotton": null
   },
   {
