@@ -362,13 +362,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kurt-rosenwinkel/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Tommy Guerrero トミー・ゲレロ",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21260_1_1770602120.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21260&date=2026-04-21",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "魚返明未＆井上銘 II Album Release Live at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -775,7 +769,7 @@
       "artist": "TOM OLLENDORFF TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5630.jpg?20260422",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-ollendorff-260511/",
       "first_seen": "2026-03-04"
     }
   },
@@ -1311,7 +1305,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21252&date=2026-06-06",
       "first_seen": "2026-03-09"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "中尾ミエ 80th birthday live No Time At All 〜人生もっともっと楽しまなくちゃ〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5654.jpg?20260422",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/mie-nakao-260606/",
+      "first_seen": "2026-04-22"
+    }
   },
   {
     "date": "2026-06-07T00:00:00.000Z",
@@ -1329,7 +1329,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21216&date=2026-06-07",
       "first_seen": "2026-04-17"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "TAYLOR EIGSTI QUARTET  with special guest GRETCHEN PARLATO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5655.jpg?20260422",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/taylor-eigsti-260607/",
+      "first_seen": "2026-04-22"
+    }
   },
   {
     "date": "2026-06-08T00:00:00.000Z",
@@ -1347,7 +1353,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21367&date=2026-06-08",
       "first_seen": "2026-04-03"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "TAYLOR EIGSTI QUARTET  with special guest GRETCHEN PARLATO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5655.jpg?20260422",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/taylor-eigsti-260607/",
+      "first_seen": "2026-04-22"
+    }
   },
   {
     "date": "2026-06-09T00:00:00.000Z",
@@ -1419,7 +1431,13 @@
       "first_seen": "2026-03-05"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "佐野正幸 1st LIVE - LA STRADA -",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5656.jpg?20260422",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/masayuki-sano-260612/",
+      "first_seen": "2026-04-22"
+    }
   },
   {
     "date": "2026-06-13T00:00:00.000Z",
@@ -1501,7 +1519,7 @@
       "artist": "阿佐ヶ谷姉妹 ギャランティーク和恵 Lipstick Fantasia 2",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5639.jpg?20260422",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/asagaya-gallantique-260616/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-01"
     }
   },
@@ -1620,6 +1638,18 @@
     }
   },
   {
+    "date": "2026-06-25T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "古舘と客人と vol.36 古舘伊知郎 神田伯山",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5653.jpg?20260422",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260625/",
+      "first_seen": "2026-04-22"
+    }
+  },
+  {
     "date": "2026-06-26T00:00:00.000Z",
     "bluenote": null,
     "billboard": null,
@@ -1627,7 +1657,7 @@
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260422",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-21"
     }
   },
@@ -1645,7 +1675,7 @@
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260422",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-21"
     }
   },
@@ -1663,7 +1693,7 @@
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5645.jpg?20260422",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/funky-diamond-18-260626/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-21"
     }
   },
@@ -1796,7 +1826,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Erykah Badu",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21400_1_1776651909.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21400&date=2026-07-06",
+      "first_seen": "2026-04-22"
+    },
     "cotton": null
   },
   {
