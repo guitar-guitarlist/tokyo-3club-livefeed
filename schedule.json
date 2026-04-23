@@ -1125,7 +1125,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21280&date=2026-05-28",
       "first_seen": "2026-02-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "根本宗子 月刊「根本宗子」ラグジュアリー vol.2",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5658.jpg?20260423",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shuko-nemoto-260528/",
+      "first_seen": "2026-04-23"
+    }
   },
   {
     "date": "2026-05-29T00:00:00.000Z",
@@ -1143,7 +1149,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21350&date=2026-05-29",
       "first_seen": "2026-03-19"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "根本宗子 月刊「根本宗子」ラグジュアリー vol.2",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5658.jpg?20260423",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
+      "first_seen": "2026-04-23"
+    }
   },
   {
     "date": "2026-05-30T00:00:00.000Z",
@@ -1261,7 +1273,13 @@
   },
   {
     "date": "2026-06-04T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "FRANK McCOMB",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3956.jpg?20260423",
+      "url": "https://www.bluenote.co.jp/jp/artists/frank-mccomb/",
+      "first_seen": "2026-04-23"
+    },
     "billboard": {
       "artist": "谷山浩子 Billboard Live",
       "time": "17:30 / 20:30",
@@ -1593,7 +1611,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21263&date=2026-06-20",
       "first_seen": "2026-03-22"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "綾戸智恵 DO JAZZ Live 2026 with 天野清継",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5657.jpg?20260423",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chie-ayado-260620/",
+      "first_seen": "2026-04-23"
+    }
   },
   {
     "date": "2026-06-21T00:00:00.000Z",
@@ -1945,7 +1969,13 @@
   },
   {
     "date": "2026-07-15T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "ASAKO TOKI Midsummer Live \"Blue Moon in a Glass\" at BLUE NOTE TOKYO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3957.jpg?20260423",
+      "url": "https://www.bluenote.co.jp/jp/artists/asako-toki/",
+      "first_seen": "2026-04-23"
+    },
     "billboard": {
       "artist": "中村 雅俊 ビルボードライブ2026",
       "time": "15:30 / 18:30",
@@ -2053,7 +2083,7 @@
       "artist": "ISAIAH J. THOMPSON TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5647.jpg?20260423",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-j-thompson-260721/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-04-08"
     }
   },
@@ -2065,8 +2095,56 @@
       "artist": "ISAIAH J. THOMPSON TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5647.jpg?20260423",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-j-thompson-260721/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-04-08"
     }
+  },
+  {
+    "date": "2026-07-23T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3958.jpg?20260423",
+      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
+      "first_seen": "2026-04-23"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-07-24T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3958.jpg?20260423",
+      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
+      "first_seen": "2026-04-23"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-07-25T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3958.jpg?20260423",
+      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
+      "first_seen": "2026-04-23"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-07-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3958.jpg?20260423",
+      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
+      "first_seen": "2026-04-23"
+    },
+    "billboard": null,
+    "cotton": null
   }
 ]
