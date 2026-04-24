@@ -398,13 +398,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kurt-rosenwinkel/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "RYUSENKEI 25th Anniversary Billboard Live Tour",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21232_1_1770006830.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21232&date=2026-04-23",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "古舘と客人と vol.34 古舘伊知郎 上田晋也",
       "time": "1st: 18:00 / 2nd: 20:30",
