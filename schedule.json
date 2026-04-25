@@ -416,13 +416,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ricky-rodriguez/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "ACE COLLECTION Special Billboard Live 2026",
-      "time": "18:00 / 21:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21176_1_1767835559.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21176&date=2026-04-24",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "木村充揮 Live at 丸の内〜東で吠える！",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2102,7 +2096,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "稲垣潤一 コンセプトライブ2026 Focus on the endless chain ～back to the 2001〜",
+      "time": "17:00 / 20:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21305_1_1772100197.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-23",
+      "first_seen": "2026-04-25"
+    },
     "cotton": null
   },
   {
