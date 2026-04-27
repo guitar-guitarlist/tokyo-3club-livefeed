@@ -452,13 +452,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ricky-rodriguez/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "CASIOPEA Billboard Live Tour 2026",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21116_1_1764902410.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21116&date=2026-04-26",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "Noriko Sakai Live DO NOT DISTURB Busy with someone special",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2120,7 +2114,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "LINDBERG Extra Flight Vol.6 Billboard Live Tour",
+      "time": "15:30 / 18:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21419_1_1777013743.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21419&date=2026-07-25",
+      "first_seen": "2026-04-27"
+    },
     "cotton": null
   },
   {
