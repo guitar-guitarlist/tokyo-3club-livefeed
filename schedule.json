@@ -2134,5 +2134,17 @@
     },
     "billboard": null,
     "cotton": null
+  },
+  {
+    "date": "2026-07-31T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "稲垣潤一 コンセプトライブ2026 Focus on the endless chain ～back to the 2001〜",
+      "time": "17:00 / 20:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21305_1_1772100197.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-31",
+      "first_seen": "2026-04-28"
+    },
+    "cotton": null
   }
 ]
