@@ -470,13 +470,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ricky-rodriguez/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Tower of Power",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21221_1_1769482021.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21224&date=2026-04-27",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "『晩餐会 / 第二回 美食の劇中劇』 菊地成孔とペペ・トルメント・アスカラール",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -494,13 +488,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ricky-rodriguez/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Tower of Power",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21221_1_1769482021.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21224&date=2026-04-28",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "『晩餐会 / 第二回 美食の劇中劇』 菊地成孔とペペ・トルメント・アスカラール",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -763,7 +751,7 @@
       "artist": "cultra & Shorter Takagi presents「Off the Record」",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5649.jpg?20260429",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cultra-shorter-takagi-260512/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202605",
       "first_seen": "2026-04-08"
     }
   },
@@ -1263,7 +1251,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21311&date=2026-06-04",
       "first_seen": "2026-03-07"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "ONE STEP TO TAP vol.1 〜A Life Like a Disco, A Story Like a Film〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5662.jpg?20260429",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/one-step-to-tap-260604/",
+      "first_seen": "2026-04-29"
+    }
   },
   {
     "date": "2026-06-05T00:00:00.000Z",
@@ -1413,7 +1407,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21328&date=2026-06-11",
       "first_seen": "2026-03-16"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "角銅真実 and the Ammonites",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5661.jpg?20260429",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/manami-kakudo-260611/",
+      "first_seen": "2026-04-29"
+    }
   },
   {
     "date": "2026-06-12T00:00:00.000Z",
@@ -1569,7 +1569,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21263&date=2026-06-19",
       "first_seen": "2026-03-22"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "\"CINEMA SONGBOOK\" directed by SHU KANEMATSU featuring 中村佳穂 & 高橋あず美",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5660.jpg?20260429",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cinema-songbook-260619/",
+      "first_seen": "2026-04-29"
+    }
   },
   {
     "date": "2026-06-20T00:00:00.000Z",
@@ -1633,7 +1639,7 @@
       "artist": "Wu-Xing Live at COTTON CLUB 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5651.jpg?20260429",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/wu-xing-260623/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-15"
     }
   },
@@ -1699,13 +1705,19 @@
   },
   {
     "date": "2026-06-29T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guest JOYCE MORENO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3961.jpg?20260429",
+      "url": "https://www.bluenote.co.jp/jp/artists/eric-miyashiro/",
+      "first_seen": "2026-04-29"
+    },
     "billboard": null,
     "cotton": {
       "artist": "東山義久 ～Sparkling Ying～ 50th Anniversary ＜1st.show＞ Golden Day ＜2nd.show＞ Platimum Night",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5652.jpg?20260429",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yoshihisa-higashiyama-260629/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-18"
     }
   },
