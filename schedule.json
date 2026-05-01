@@ -1130,7 +1130,13 @@
   {
     "date": "2026-06-26T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "モノンクル",
+      "time": "18:00 / 21:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21429_1_1777454360.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21429&date=2026-06-26",
+      "first_seen": "2026-05-01"
+    },
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
