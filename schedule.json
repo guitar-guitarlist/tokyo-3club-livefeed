@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-04-29T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "松下奈緒 prime nights 2026",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21203_1_1768726687.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21203&date=2026-04-29",
-      "first_seen": "2026-02-01"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-05-01T00:00:00.000Z",
     "bluenote": {
       "artist": "BOB JAMES TRIO",
