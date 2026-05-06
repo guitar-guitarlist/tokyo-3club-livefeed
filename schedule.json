@@ -687,7 +687,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21179&date=2026-06-03",
       "first_seen": "2026-03-06"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "Lucy Show at COTTON CLUB",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5659.jpg?20260506",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lucy-260603/",
+      "first_seen": "2026-05-06"
+    }
   },
   {
     "date": "2026-06-04T00:00:00.000Z",
@@ -751,7 +757,7 @@
       "artist": "中尾ミエ 80th birthday live No Time At All ～人生もっともっと楽しまなくちゃ～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5654.jpg?20260506",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/mie-nakao-260606/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-25"
     }
   },
@@ -775,7 +781,7 @@
       "artist": "TAYLOR EIGSTI QUARTET  with special guest GRETCHEN PARLATO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5655.jpg?20260506",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/taylor-eigsti-260607/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-22"
     }
   },
@@ -799,7 +805,7 @@
       "artist": "TAYLOR EIGSTI QUARTET  with special guest GRETCHEN PARLATO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5655.jpg?20260506",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/taylor-eigsti-260607/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-22"
     }
   },
@@ -1225,7 +1231,7 @@
       "artist": "JOYCE MORENO - Celebrating Feminina 45th Anniversary -",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5650.jpg?20260506",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/joyce-moreno-260702/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-04-16"
     }
   },
@@ -1479,7 +1485,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21322&date=2026-07-18",
       "first_seen": "2026-04-20"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "広末涼子 Best Day Ever~Crecent River",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5670.jpg?20260506",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-260718/",
+      "first_seen": "2026-05-06"
+    }
   },
   {
     "date": "2026-07-19T00:00:00.000Z",
@@ -1575,7 +1587,13 @@
       "first_seen": "2026-04-23"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "広末涼子 Best Day Ever~Crecent River",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5671.jpg?20260506",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
+      "first_seen": "2026-05-06"
+    }
   },
   {
     "date": "2026-07-25T00:00:00.000Z",
@@ -1593,7 +1611,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21419&date=2026-07-25",
       "first_seen": "2026-04-27"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "広末涼子 Best Day Ever~Crecent River",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5671.jpg?20260506",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
+      "first_seen": "2026-05-06"
+    }
   },
   {
     "date": "2026-07-26T00:00:00.000Z",
@@ -1863,7 +1887,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "小比類巻かほる Kohhy6",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5664.jpg?20260506",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kahoru-kohiruimaki-260828/",
+      "first_seen": "2026-05-06"
+    }
   },
   {
     "date": "2026-08-29T00:00:00.000Z",
@@ -1875,7 +1905,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "小比類巻かほる Kohhy6",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5664.jpg?20260506",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "first_seen": "2026-05-06"
+    }
   },
   {
     "date": "2026-08-30T00:00:00.000Z",
