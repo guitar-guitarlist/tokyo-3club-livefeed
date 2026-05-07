@@ -104,13 +104,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-hot-sardines/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "RIHO SAYASHI Billboard Live 2026",
-      "time": "15:00 / 18:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21298_1_1771579596.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21298&date=2026-05-06",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -831,7 +825,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21367&date=2026-06-09",
       "first_seen": "2026-04-03"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "DEZOLVE New Album \"Biblion\" Release Live 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5669.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/dezolve-260609/",
+      "first_seen": "2026-05-07"
+    }
   },
   {
     "date": "2026-06-10T00:00:00.000Z",
@@ -895,7 +895,7 @@
       "artist": "佐野正幸 1st LIVE - LA STRADA -",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5656.jpg?20260507",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/masayuki-sano-260612/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-22"
     }
   },
@@ -1063,7 +1063,7 @@
       "artist": "綾戸智恵 DO JAZZ Live 2026 with 天野清継",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5657.jpg?20260507",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chie-ayado-260620/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-23"
     }
   },
@@ -1117,7 +1117,7 @@
       "artist": "古舘と客人と vol.36 古舘伊知郎 神田伯山",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5653.jpg?20260507",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260625/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-22"
     }
   },
@@ -1428,6 +1428,30 @@
     "cotton": null
   },
   {
+    "date": "2026-07-13T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "WALTER SMITH III TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5668.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
+      "first_seen": "2026-05-07"
+    }
+  },
+  {
+    "date": "2026-07-14T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "WALTER SMITH III TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5668.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
+      "first_seen": "2026-05-07"
+    }
+  },
+  {
     "date": "2026-07-15T00:00:00.000Z",
     "bluenote": {
       "artist": "ASAKO TOKI Midsummer Live \"Blue Moon in a Glass\" at BLUE NOTE TOKYO",
@@ -1443,7 +1467,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21363&date=2026-07-15",
       "first_seen": "2026-04-17"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "WALTER SMITH III TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5668.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
+      "first_seen": "2026-05-07"
+    }
   },
   {
     "date": "2026-07-16T00:00:00.000Z",
@@ -1683,7 +1713,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "SULLIVAN FORTNER TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5667.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "first_seen": "2026-05-07"
+    }
   },
   {
     "date": "2026-08-06T00:00:00.000Z",
@@ -1695,7 +1731,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "SULLIVAN FORTNER TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5667.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "first_seen": "2026-05-07"
+    }
   },
   {
     "date": "2026-08-07T00:00:00.000Z",
@@ -1707,7 +1749,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "SULLIVAN FORTNER TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5667.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "first_seen": "2026-05-07"
+    }
   },
   {
     "date": "2026-08-08T00:00:00.000Z",
@@ -1761,7 +1809,25 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "MARTIN TAYLOR \"Standards\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5666.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
+      "first_seen": "2026-05-07"
+    }
+  },
+  {
+    "date": "2026-08-12T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "MARTIN TAYLOR \"Standards\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5666.jpg?20260507",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
+      "first_seen": "2026-05-07"
+    }
   },
   {
     "date": "2026-08-13T00:00:00.000Z",
@@ -1807,6 +1873,18 @@
       "img": "https://www.bluenote.co.jp/web_mainte/img/event/3932.jpg?20260507",
       "url": "https://www.bluenote.co.jp/jp/artists/matthew-garrison/",
       "first_seen": "2026-04-30"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-08-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guests PETER ERSKINE & MIKE MAINIERI",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3963.jpg?20260507",
+      "url": "https://www.bluenote.co.jp/jp/artists/eric-miyashiro/",
+      "first_seen": "2026-05-07"
     },
     "billboard": null,
     "cotton": null
