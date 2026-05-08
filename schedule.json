@@ -1670,7 +1670,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Chara Sweet Soul Sessions ～Mojo Popcorn Returns～",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21443_1_1778126948.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-07-26",
+      "first_seen": "2026-05-08"
+    },
     "cotton": null
   },
   {
@@ -1682,6 +1688,18 @@
       "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21305_1_1772100197.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-31",
       "first_seen": "2026-04-28"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-08-02T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Chara Sweet Soul Sessions ～Mojo Popcorn Returns～",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21443_1_1778126948.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-08-02",
+      "first_seen": "2026-05-08"
     },
     "cotton": null
   },
