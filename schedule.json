@@ -140,13 +140,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/blue-note/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Billboard Live presents Piano Duo Session #10 森崎ウィン×武部聡志",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21274_1_1770961621.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21274&date=2026-05-08",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
