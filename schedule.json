@@ -80,13 +80,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-hot-sardines/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "柴田淳",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21344_1_1773801256.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21344&date=2026-05-05",
-      "first_seen": "2026-03-19"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "野口五郎 Timeless Songs ～overseas product～",
       "time": "1st: 18:00 / 2nd: 20:30",
