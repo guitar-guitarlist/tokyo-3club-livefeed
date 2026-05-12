@@ -1802,7 +1802,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/summer-jazz-camp-all-stars/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "BRADIO Billboard Live 2026",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21428_1_1778120393.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21428&date=2026-08-09",
+      "first_seen": "2026-05-12"
+    },
     "cotton": null
   },
   {
