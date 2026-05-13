@@ -721,7 +721,7 @@
       "artist": "ONE STEP TO TAP vol.1 ～A Life Like a Disco, A Story Like a Film～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5662.jpg?20260513",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/one-step-to-tap-260604/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-02"
     }
   },
@@ -883,7 +883,7 @@
       "artist": "角銅真実 and the Ammonites",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5661.jpg?20260513",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/manami-kakudo-260611/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-29"
     }
   },
@@ -945,7 +945,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21389&date=2026-06-14",
       "first_seen": "2026-04-09"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "AFTER BILL EVANS vol.2 Hosted by TAKASHI SUGAWA",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5674.jpg?20260513",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/after-bill-evans-260614/",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-06-15T00:00:00.000Z",
@@ -1045,7 +1051,7 @@
       "artist": "\"CINEMA SONGBOOK\" directed by SHU KANEMATSU featuring 中村佳穂 & 高橋あず美",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5660.jpg?20260513",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cinema-songbook-260619/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-29"
     }
   },
@@ -1209,7 +1215,13 @@
       "first_seen": "2026-04-16"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5672.jpg?20260513",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/motoharu-sano-260630/",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-07-01T00:00:00.000Z",
@@ -1317,11 +1329,11 @@
       "first_seen": "2026-03-31"
     },
     "billboard": {
-      "artist": "Erykah Badu",
+      "artist": "An Intimate Night with Erykah Badu",
       "time": "17:30 / 20:30",
       "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21400_1_1776651909.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21400&date=2026-07-06",
-      "first_seen": "2026-04-22"
+      "first_seen": "2026-05-13"
     },
     "cotton": null
   },
@@ -1341,7 +1353,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21386&date=2026-07-07",
       "first_seen": "2026-04-10"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "NakamuraEmi COTTON CLUB 「七夕はここで。〜2026〜」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5663.jpg?20260513",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nakamura-emi-260707/",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-07-08T00:00:00.000Z",
@@ -1377,7 +1395,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21356&date=2026-07-09",
       "first_seen": "2026-04-11"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5673.jpg?20260513",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-07-10T00:00:00.000Z",
@@ -1395,7 +1419,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21356&date=2026-07-10",
       "first_seen": "2026-04-11"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5673.jpg?20260513",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-07-11T00:00:00.000Z",
@@ -1531,7 +1561,7 @@
       "artist": "広末涼子 Best Day Ever~Crecent River",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5670.jpg?20260513",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-260718/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-06"
     }
   },
@@ -1680,6 +1710,18 @@
     "cotton": null
   },
   {
+    "date": "2026-07-30T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "BIG HORNS BEE 35th Anniversary Year vol.4 \"Jazz Session\" with COME COME \"Modern\" Jazz Band",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5675.jpg?20260513",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/big-horns-bee-260730/",
+      "first_seen": "2026-05-13"
+    }
+  },
+  {
     "date": "2026-07-31T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -1820,7 +1862,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jazzanova/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "CLAUDIO SIMONETTI'S GOBLIN",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21412_1_1776737929.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21412&date=2026-08-10",
+      "first_seen": "2026-05-13"
+    },
     "cotton": {
       "artist": "ACO 30th ANNIVERSARY LIVE 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1905,7 +1953,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "LAKECIA BENJAMIN",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260513",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-08-17T00:00:00.000Z",
@@ -1917,7 +1971,13 @@
       "first_seen": "2026-05-07"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "LAKECIA BENJAMIN",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260513",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
+      "first_seen": "2026-05-13"
+    }
   },
   {
     "date": "2026-08-21T00:00:00.000Z",
@@ -2005,7 +2065,7 @@
       "artist": "小比類巻かほる Kohhy6",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5664.jpg?20260513",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kahoru-kohiruimaki-260828/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-06"
     }
   },
