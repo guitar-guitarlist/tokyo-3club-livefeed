@@ -697,7 +697,7 @@
       "artist": "Lucy Show at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5659.jpg?20260514",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lucy-260603/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-06"
     }
   },
@@ -1029,7 +1029,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21292&date=2026-06-18",
       "first_seen": "2026-03-21"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "山中千尋 Solo Piano & Duo",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5677.jpg?20260514",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chihiro-yamanaka-260618/",
+      "first_seen": "2026-05-14"
+    }
   },
   {
     "date": "2026-06-19T00:00:00.000Z",
@@ -1095,7 +1101,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21352&date=2026-06-21",
       "first_seen": "2026-03-24"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "SCOTT HAMILTON meets SHO OKAMOTO Timeless Records 50 Years Anniversary Scott Hamilton Live in Japan",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5665.jpg?20260514",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/scott-hamilton-260621/",
+      "first_seen": "2026-05-14"
+    }
   },
   {
     "date": "2026-06-22T00:00:00.000Z",
@@ -1354,11 +1366,11 @@
       "first_seen": "2026-04-10"
     },
     "cotton": {
-      "artist": "NakamuraEmi COTTON CLUB 「七夕はここで。〜2026〜」",
+      "artist": "NakamuraEmi COTTON CLUB 「七夕はここで。～2026～」",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5663.jpg?20260514",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nakamura-emi-260707/",
-      "first_seen": "2026-05-13"
+      "first_seen": "2026-05-14"
     }
   },
   {
@@ -1465,7 +1477,13 @@
   },
   {
     "date": "2026-07-13T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "GABRIELLE CAVASSA \"DIAVOLA\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3964.jpg?20260514",
+      "url": "https://www.bluenote.co.jp/jp/artists/gabrielle-cavassa/",
+      "first_seen": "2026-05-14"
+    },
     "billboard": null,
     "cotton": {
       "artist": "WALTER SMITH III TRIO",
@@ -1477,7 +1495,13 @@
   },
   {
     "date": "2026-07-14T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "GABRIELLE CAVASSA \"DIAVOLA\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3964.jpg?20260514",
+      "url": "https://www.bluenote.co.jp/jp/artists/gabrielle-cavassa/",
+      "first_seen": "2026-05-14"
+    },
     "billboard": null,
     "cotton": {
       "artist": "WALTER SMITH III TRIO",
@@ -1734,8 +1758,26 @@
     "cotton": null
   },
   {
+    "date": "2026-08-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MASATO HONDA B.B.STATION   -Big Band Night-",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3965.jpg?20260514",
+      "url": "https://www.bluenote.co.jp/jp/artists/masato-honda/",
+      "first_seen": "2026-05-14"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
     "date": "2026-08-02T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "MASATO HONDA B.B.STATION   -Big Band Night-",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3965.jpg?20260514",
+      "url": "https://www.bluenote.co.jp/jp/artists/masato-honda/",
+      "first_seen": "2026-05-14"
+    },
     "billboard": {
       "artist": "Chara Sweet Soul Sessions ～Mojo Popcorn Returns～",
       "time": "16:00 / 19:00",
@@ -1783,7 +1825,7 @@
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5667.jpg?20260514",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-07"
     }
   },
@@ -1801,7 +1843,7 @@
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5667.jpg?20260514",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-07"
     }
   },
@@ -1819,7 +1861,7 @@
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5667.jpg?20260514",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-07"
     }
   },
@@ -1886,12 +1928,18 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jazzanova/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "paris match",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21415_1_1777275970.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21415&date=2026-08-11",
+      "first_seen": "2026-05-14"
+    },
     "cotton": {
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5666.jpg?20260514",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-07"
     }
   },
@@ -1903,7 +1951,7 @@
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5666.jpg?20260514",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-07"
     }
   },
@@ -1977,6 +2025,36 @@
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260514",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
       "first_seen": "2026-05-13"
+    }
+  },
+  {
+    "date": "2026-08-19T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CARLOS KANNO sings with TROPICAL JAZZ BIG BAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3966.jpg?20260514",
+      "url": "https://www.bluenote.co.jp/jp/artists/carlos-kanno/",
+      "first_seen": "2026-05-14"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "NICOLE ZURAITIS QUARTET",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5678.jpg?20260514",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nicole-zuraitis-260819/",
+      "first_seen": "2026-05-14"
+    }
+  },
+  {
+    "date": "2026-08-20T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "NICOLE ZURAITIS QUARTET",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5678.jpg?20260514",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nicole-zuraitis-260819/",
+      "first_seen": "2026-05-14"
     }
   },
   {
