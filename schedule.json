@@ -1634,7 +1634,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/shinobu-otake/",
       "first_seen": "2026-03-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Graham Gouldman Heart Full of Songs",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21454_1_1778724609.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21454&date=2026-07-21",
+      "first_seen": "2026-05-15"
+    },
     "cotton": {
       "artist": "ISAIAH J. THOMPSON TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1646,7 +1652,13 @@
   {
     "date": "2026-07-22T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Graham Gouldman Heart Full of Songs",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21454_1_1778724609.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21454&date=2026-07-22",
+      "first_seen": "2026-05-15"
+    },
     "cotton": {
       "artist": "ISAIAH J. THOMPSON TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1682,7 +1694,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "MONKEY MAJIK at Billboard Live ～Summer Vibes～",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21457_1_1778810394.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21457&date=2026-07-24",
+      "first_seen": "2026-05-15"
+    },
     "cotton": {
       "artist": "広末涼子 Best Day Ever~Crecent River",
       "time": "1st: 18:00 / 2nd: 20:30",
