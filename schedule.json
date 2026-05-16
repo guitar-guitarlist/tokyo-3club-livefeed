@@ -254,13 +254,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "柴田淳",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21344_1_1773801256.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21344&date=2026-05-15",
-      "first_seen": "2026-03-19"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "壷阪健登 新譜リリース記念ライブ「Lines」at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
