@@ -272,13 +272,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "甲斐よしひろ KAI YOSHIHIRO Billboard Live 2026",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21141_1_1765706005.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21141&date=2026-05-16",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "裕木奈江「本当に逢いたかったよ」",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -296,13 +290,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "甲斐よしひろ KAI YOSHIHIRO Billboard Live 2026",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21141_1_1765706005.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21141&date=2026-05-17",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": null
   },
   {
@@ -2000,7 +1988,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/matthew-garrison/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "the band apart (naked) at Billboard Live TOKYO 2026",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21445_1_1778142896.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21445&date=2026-08-15",
+      "first_seen": "2026-05-18"
+    },
     "cotton": null
   },
   {
