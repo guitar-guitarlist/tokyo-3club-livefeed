@@ -817,7 +817,7 @@
       "artist": "DEZOLVE New Album \"Biblion\" Release Live 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5669.jpg?20260520",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/dezolve-260609/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-07"
     }
   },
@@ -951,7 +951,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21158&date=2026-06-15",
       "first_seen": "2026-03-18"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "TAKAHIRO IZUMIKAWA \"Off Sync, Here\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5682.jpg?20260520",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takahiro-izumikawa-260615/",
+      "first_seen": "2026-05-20"
+    }
   },
   {
     "date": "2026-06-16T00:00:00.000Z",
@@ -1113,6 +1119,18 @@
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5651.jpg?20260520",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-04-15"
+    }
+  },
+  {
+    "date": "2026-06-24T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "MARTY HOLOUBEK GROUP featuring DAVID BRYANT, SHUN ISHIWAKA, CHRIS KAZUKI JONES, JAMES MACAULAY & AKIHIRO NISHIGUCHI",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5680.jpg?20260520",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-holoubek-260624/",
+      "first_seen": "2026-05-20"
     }
   },
   {
@@ -1471,7 +1489,7 @@
       "artist": "WALTER SMITH III TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5668.jpg?20260520",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-07"
     }
   },
@@ -1489,7 +1507,7 @@
       "artist": "WALTER SMITH III TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5668.jpg?20260520",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-07"
     }
   },
@@ -1513,7 +1531,7 @@
       "artist": "WALTER SMITH III TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5668.jpg?20260520",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-07"
     }
   },
