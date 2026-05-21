@@ -302,13 +302,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/emily-king/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Shakatak シャカタク",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21193_1_1768278967.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21193&date=2026-05-18",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "THE FAVORITE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -326,13 +320,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/emily-king/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Shakatak シャカタク",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21193_1_1768278967.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21193&date=2026-05-19",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "LAGE LUND QUARTET with MARK TURNER, VICENTE ARCHER & JOHNATHAN BLAKE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -350,13 +338,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ryoko-moriyama/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Shakatak シャカタク",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21193_1_1768278967.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21193&date=2026-05-20",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "LAGE LUND QUARTET with MARK TURNER, VICENTE ARCHER & JOHNATHAN BLAKE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -931,7 +913,7 @@
       "artist": "AFTER BILL EVANS vol.2 Hosted by TAKASHI SUGAWA",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5674.jpg?20260521",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/after-bill-evans-260614/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-13"
     }
   },
@@ -1231,7 +1213,7 @@
       "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5672.jpg?20260521",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/motoharu-sano-260630/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-13"
     }
   },
@@ -1605,7 +1587,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21229&date=2026-07-19",
       "first_seen": "2026-04-21"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "COTTON CLUB STOMP Harlem After Dark",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5681.jpg?20260521",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cotton-club-stomp-260719/",
+      "first_seen": "2026-05-21"
+    }
   },
   {
     "date": "2026-07-20T00:00:00.000Z",
@@ -1623,7 +1611,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21229&date=2026-07-20",
       "first_seen": "2026-04-21"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "COTTON CLUB STOMP Harlem After Dark",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5681.jpg?20260521",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cotton-club-stomp-260719/",
+      "first_seen": "2026-05-21"
+    }
   },
   {
     "date": "2026-07-21T00:00:00.000Z",
@@ -1749,23 +1743,65 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-07-26",
       "first_seen": "2026-05-08"
     },
+    "cotton": {
+      "artist": "民謡クルセイダーズ feat. 元ちとせ MINYO IS BACK IN TOWN 2026 New album『日本民謡より愛をこめて / FROM JAPAN WITH LOVE 』Release Live!!",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5683.jpg?20260521",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/minyo-crusaders-260726/",
+      "first_seen": "2026-05-21"
+    }
+  },
+  {
+    "date": "2026-07-27T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "民謡クルセイダーズ feat. 元ちとせ MINYO IS BACK IN TOWN 2026 New album『日本民謡より愛をこめて / FROM JAPAN WITH LOVE 』Release Live!!",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5683.jpg?20260521",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
+      "first_seen": "2026-05-21"
+    }
+  },
+  {
+    "date": "2026-07-29T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SHABAKA \"Of The Earth\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3967.jpg?20260521",
+      "url": "https://www.bluenote.co.jp/jp/artists/shabaka/",
+      "first_seen": "2026-05-21"
+    },
+    "billboard": null,
     "cotton": null
   },
   {
     "date": "2026-07-30T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "SHABAKA \"Of The Earth\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3967.jpg?20260521",
+      "url": "https://www.bluenote.co.jp/jp/artists/shabaka/",
+      "first_seen": "2026-05-21"
+    },
     "billboard": null,
     "cotton": {
       "artist": "BIG HORNS BEE 35th Anniversary Year vol.4 \"Jazz Session\" with COME COME \"Modern\" Jazz Band",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5675.jpg?20260521",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/big-horns-bee-260730/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-13"
     }
   },
   {
     "date": "2026-07-31T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "SHABAKA \"Of The Earth\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3967.jpg?20260521",
+      "url": "https://www.bluenote.co.jp/jp/artists/shabaka/",
+      "first_seen": "2026-05-21"
+    },
     "billboard": {
       "artist": "稲垣潤一 コンセプトライブ2026 Focus on the endless chain ～back to the 2001〜",
       "time": "17:00 / 20:00",
@@ -1899,7 +1935,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "岩崎宏美 アコースティックライブ 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5684.jpg?20260521",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/hiromi-iwasaki-260808/",
+      "first_seen": "2026-05-21"
+    }
   },
   {
     "date": "2026-08-09T00:00:00.000Z",
@@ -1917,7 +1959,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21428&date=2026-08-09",
       "first_seen": "2026-05-12"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "岩崎宏美・岩崎良美 ジョイント公演 「IWASAKI SISTERS Live」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5685.jpg?20260521",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/iwasaki-sisters-260809/",
+      "first_seen": "2026-05-21"
+    }
   },
   {
     "date": "2026-08-10T00:00:00.000Z",
@@ -2041,7 +2089,7 @@
       "artist": "LAKECIA BENJAMIN",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260521",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-13"
     }
   },
@@ -2059,7 +2107,7 @@
       "artist": "LAKECIA BENJAMIN",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260521",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-13"
     }
   },
@@ -2137,6 +2185,18 @@
       "img": "https://www.bluenote.co.jp/web_mainte/img/event/3952.jpg?20260521",
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-08-25T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MONDAY MICHIRU  Special Summer Live 2026",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3969.jpg?20260521",
+      "url": "https://www.bluenote.co.jp/jp/artists/monday-michiru/",
+      "first_seen": "2026-05-21"
     },
     "billboard": null,
     "cotton": null
