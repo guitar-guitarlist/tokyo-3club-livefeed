@@ -356,13 +356,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ryoko-moriyama/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Thee Sacred Souls",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21227_1_1769585774.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21227&date=2026-05-21",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "LAGE LUND QUARTET with MARK TURNER, VICENTE ARCHER & JOHNATHAN BLAKE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -613,7 +607,7 @@
       "artist": "JUSTIN-LEE SCHULTZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5627.jpg?20260522",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/justin-lee-schultz-260601/",
       "first_seen": "2026-02-01"
     }
   },
@@ -637,7 +631,7 @@
       "artist": "JUSTIN-LEE SCHULTZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5627.jpg?20260522",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/justin-lee-schultz-260601/",
       "first_seen": "2026-02-01"
     }
   },
@@ -1081,7 +1075,13 @@
   },
   {
     "date": "2026-06-22T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "MAINTENANCE2",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/move/202606",
+      "first_seen": "2026-05-22"
+    },
     "billboard": null,
     "cotton": {
       "artist": "明星/Akeboshi \"The WIND Still Blows\"",
