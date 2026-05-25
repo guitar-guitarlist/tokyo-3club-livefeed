@@ -410,13 +410,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/emma-jean-thackray/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "沖仁 × Alberto López with U-zhaan",
-      "time": "15:00 / 18:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21272_1_1770959879.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21273&date=2026-05-24",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1307,7 +1301,7 @@
     "billboard": {
       "artist": "Billboard JAPAN Records presents magora Billboard Live Tour yurameki 2026",
       "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21383_1_1775557069.jpg",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21383_1_1779684769.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21383&date=2026-07-05",
       "first_seen": "2026-04-08"
     },
