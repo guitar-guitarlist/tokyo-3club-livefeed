@@ -991,7 +991,7 @@
       "artist": "山中千尋 Solo Piano & Duo",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5677.jpg?20260527",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chihiro-yamanaka-260618/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-14"
     }
   },
@@ -1063,7 +1063,7 @@
       "artist": "SCOTT HAMILTON meets SHO OKAMOTO Timeless Records 50 Years Anniversary Scott Hamilton Live in Japan",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5665.jpg?20260527",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/scott-hamilton-260621/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-14"
     }
   },
@@ -1105,7 +1105,7 @@
       "artist": "MARTY HOLOUBEK GROUP featuring DAVID BRYANT, SHUN ISHIWAKA, CHRIS KAZUKI JONES, JAMES MACAULAY & AKIHIRO NISHIGUCHI",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5680.jpg?20260527",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-holoubek-260624/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-20"
     }
   },
@@ -1431,7 +1431,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21320&date=2026-07-11",
       "first_seen": "2026-04-13"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5689.jpg?20260527",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/great3-260711/",
+      "first_seen": "2026-05-27"
+    }
   },
   {
     "date": "2026-07-12T00:00:00.000Z",
@@ -1449,7 +1455,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21320&date=2026-07-12",
       "first_seen": "2026-04-13"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5689.jpg?20260527",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/great3-260711/",
+      "first_seen": "2026-05-27"
+    }
   },
   {
     "date": "2026-07-13T00:00:00.000Z",
@@ -1527,7 +1539,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21363&date=2026-07-16",
       "first_seen": "2026-04-17"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "TOM SKINNER",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5690.jpg?20260527",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-skinner-260716/",
+      "first_seen": "2026-05-27"
+    }
   },
   {
     "date": "2026-07-17T00:00:00.000Z",
@@ -1539,7 +1557,13 @@
       "first_seen": "2026-03-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "TOM SKINNER",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5690.jpg?20260527",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-skinner-260716/",
+      "first_seen": "2026-05-27"
+    }
   },
   {
     "date": "2026-07-18T00:00:00.000Z",
@@ -2125,7 +2149,7 @@
       "artist": "NICOLE ZURAITIS QUARTET",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5678.jpg?20260527",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nicole-zuraitis-260819/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-14"
     }
   },
@@ -2137,7 +2161,7 @@
       "artist": "NICOLE ZURAITIS QUARTET",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5678.jpg?20260527",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nicole-zuraitis-260819/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-14"
     }
   },
