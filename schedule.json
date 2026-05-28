@@ -446,13 +446,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/arturo-sandoval/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "「The Night Flight ～ New departure 2026」 八神純子＆後藤次利 featuring 今剛、林立夫、佐藤準",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21293_1_1771555703.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21294&date=2026-05-26",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "CORY HENRY LIVE featuring Members of The Funk Apostles",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -470,13 +464,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/arturo-sandoval/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "「The Night Flight ～ New departure 2026」 八神純子＆後藤次利 featuring 今剛、林立夫、佐藤準",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21293_1_1771555703.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21294&date=2026-05-27",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "CORY HENRY LIVE featuring Members of The Funk Apostles",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -925,7 +913,7 @@
       "artist": "TAKAHIRO IZUMIKAWA \"Off Sync, Here\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5682.jpg?20260528",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takahiro-izumikawa-260615/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202606",
       "first_seen": "2026-05-20"
     }
   },
@@ -1069,13 +1057,7 @@
   },
   {
     "date": "2026-06-22T00:00:00.000Z",
-    "bluenote": {
-      "artist": "MAINTENANCE2",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/move/202606",
-      "first_seen": "2026-05-22"
-    },
+    "bluenote": null,
     "billboard": null,
     "cotton": {
       "artist": "明星/Akeboshi \"The WIND Still Blows\"",
@@ -1609,7 +1591,7 @@
       "artist": "COTTON CLUB STOMP Harlem After Dark",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5681.jpg?20260528",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cotton-club-stomp-260719/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-21"
     }
   },
@@ -1633,7 +1615,7 @@
       "artist": "COTTON CLUB STOMP Harlem After Dark",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5681.jpg?20260528",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cotton-club-stomp-260719/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-21"
     }
   },
@@ -1695,7 +1677,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-23",
       "first_seen": "2026-04-25"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "The Boys Trio Returns 19th Anniversary Special Concert at COTTON CLUB Boys (Akira Ishii, Hideaki Kanazawa, Shun Ishiwaka)",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5693.jpg?20260528",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/boys-260723/",
+      "first_seen": "2026-05-28"
+    }
   },
   {
     "date": "2026-07-24T00:00:00.000Z",
@@ -1771,7 +1759,13 @@
   },
   {
     "date": "2026-07-27T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "MARLENE - Timeless Diva",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3971.jpg?20260528",
+      "url": "https://www.bluenote.co.jp/jp/artists/marlene/",
+      "first_seen": "2026-05-28"
+    },
     "billboard": null,
     "cotton": {
       "artist": "民謡クルセイダーズ feat. 元ちとせ MINYO IS BACK IN TOWN 2026 New album『日本民謡より愛をこめて / FROM JAPAN WITH LOVE 』Release Live!!",
@@ -1780,6 +1774,18 @@
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-21"
     }
+  },
+  {
+    "date": "2026-07-28T00:00:00.000Z",
+    "bluenote": {
+      "artist": "COLTRANE 100 with TAKEO MORIYAMA QUARTET",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3972.jpg?20260528",
+      "url": "https://www.bluenote.co.jp/jp/artists/takeo-moriyama/",
+      "first_seen": "2026-05-28"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2026-07-29T00:00:00.000Z",
@@ -1827,7 +1833,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-31",
       "first_seen": "2026-04-28"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "EMI MEYER Wings & Other Stories",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5692.jpg?20260528",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/emi-meyer-260731/",
+      "first_seen": "2026-05-28"
+    }
   },
   {
     "date": "2026-08-01T00:00:00.000Z",
@@ -2155,7 +2167,13 @@
   },
   {
     "date": "2026-08-20T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "fox capture plan RE:FRAME -15th Anniversary- Vol.02 Day 01 : String Ensemble",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3970.jpg?20260528",
+      "url": "https://www.bluenote.co.jp/jp/artists/fox-capture-plan/",
+      "first_seen": "2026-05-28"
+    },
     "billboard": null,
     "cotton": {
       "artist": "NICOLE ZURAITIS QUARTET",
