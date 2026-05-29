@@ -482,13 +482,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/cory-henry/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Matteo Mancuso",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21280_1_1771225342.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21280&date=2026-05-28",
-      "first_seen": "2026-02-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "根本宗子 月刊「根本宗子」ラグジュアリー vol.2",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2252,7 +2246,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "伊藤銀次 来年いよいよ55周年！ THANKS from 銀次 前年祭ライヴ with 杉真理&EPO",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21453_1_1778646033.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21453&date=2026-08-26",
+      "first_seen": "2026-05-29"
+    },
     "cotton": null
   },
   {
