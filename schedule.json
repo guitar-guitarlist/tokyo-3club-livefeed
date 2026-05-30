@@ -500,13 +500,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/cory-henry/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "GLIM SPANKY music from NANO universe",
-      "time": "18:00 / 21:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21350_1_1773824638.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21350&date=2026-05-29",
-      "first_seen": "2026-03-19"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "根本宗子 月刊「根本宗子」ラグジュアリー vol.2",
       "time": "1st: 18:00 / 2nd: 20:30",
