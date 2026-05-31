@@ -518,13 +518,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dee-dee-bridgewater/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "Lupintic All Stars Produced by YUJI OHNO",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21316_1_1772594929.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21316&date=2026-05-30",
-      "first_seen": "2026-03-06"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "KATE KORTUM",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2270,7 +2264,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ayatake-ezaki/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "矢井田 瞳 Acoustic Live Tour 『DOOR to DOORS』 Billboard Live Special",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21435_1_1777614445.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21436&date=2026-08-28",
+      "first_seen": "2026-05-31"
+    },
     "cotton": {
       "artist": "小比類巻かほる Kohhy6",
       "time": "1st: 18:00 / 2nd: 20:30",
