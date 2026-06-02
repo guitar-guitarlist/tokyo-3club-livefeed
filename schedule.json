@@ -1280,7 +1280,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/masato-honda/",
       "first_seen": "2026-05-14"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Billboard Live presents Piano Duo Session #11 Akko（My Little Lover）×武部聡志",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21502_1_1780375500.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21502&date=2026-08-01",
+      "first_seen": "2026-06-02"
+    },
     "cotton": null
   },
   {
@@ -1423,7 +1429,7 @@
       "artist": "岩崎宏美・岩崎良美 ジョイント公演 「IWASAKI SISTERS Live」",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5685.jpg?20260602",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/iwasaki-sisters-260809/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-21"
     }
   },
@@ -1581,6 +1587,18 @@
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260602",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-05-13"
+    }
+  },
+  {
+    "date": "2026-08-18T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "平倉初音 4th Album \"The Silent Mask\" 発売記念ライヴ",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5695.jpg?20260602",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/hatsune-hirakura-260818/",
+      "first_seen": "2026-06-02"
     }
   },
   {
@@ -1760,7 +1778,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mary-halvorson/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Laura day romance Billboard Live 魔法、４度も",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21405_1_1776309462.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21405&date=2026-08-30",
+      "first_seen": "2026-06-02"
+    },
     "cotton": null
   },
   {
