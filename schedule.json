@@ -44,13 +44,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/funky-times/",
       "first_seen": "2026-03-05"
     },
-    "billboard": {
-      "artist": "Delvon Lamarr Organ Trio",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21179_1_1767943545.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21179&date=2026-06-03",
-      "first_seen": "2026-03-06"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "Lucy Show at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1203,7 +1197,13 @@
       "first_seen": "2026-05-28"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "古舘と客人と vol.37 古舘伊知郎 小池栄子",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5679.jpg?20260604",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260728/",
+      "first_seen": "2026-06-04"
+    }
   },
   {
     "date": "2026-07-29T00:00:00.000Z",
@@ -1855,7 +1855,13 @@
   },
   {
     "date": "2026-09-05T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "BILL LAURANCE TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3973.jpg?20260604",
+      "url": "https://www.bluenote.co.jp/jp/artists/bill-laurance/",
+      "first_seen": "2026-06-04"
+    },
     "billboard": null,
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
@@ -1867,7 +1873,13 @@
   },
   {
     "date": "2026-09-06T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "BILL LAURANCE TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3973.jpg?20260604",
+      "url": "https://www.bluenote.co.jp/jp/artists/bill-laurance/",
+      "first_seen": "2026-06-04"
+    },
     "billboard": null,
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
@@ -1948,6 +1960,42 @@
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
+  },
+  {
+    "date": "2026-09-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CHRISTIAN McBRIDE & URSA MAJOR",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3974.jpg?20260604",
+      "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
+      "first_seen": "2026-06-04"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-09-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CHRISTIAN McBRIDE & URSA MAJOR",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3974.jpg?20260604",
+      "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
+      "first_seen": "2026-06-04"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-09-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CHRISTIAN McBRIDE & URSA MAJOR",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3974.jpg?20260604",
+      "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
+      "first_seen": "2026-06-04"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2026-09-24T00:00:00.000Z",
