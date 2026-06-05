@@ -62,13 +62,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/frank-mccomb/",
       "first_seen": "2026-04-23"
     },
-    "billboard": {
-      "artist": "谷山浩子 Billboard Live",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21311_1_1772190537.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21311&date=2026-06-04",
-      "first_seen": "2026-03-07"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ONE STEP TO TAP vol.1 ～A Life Like a Disco, A Story Like a Film～",
       "time": "1st: 18:00 / 2nd: 20:30",
