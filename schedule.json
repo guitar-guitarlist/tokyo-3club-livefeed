@@ -80,13 +80,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "古内東子 Toko Furuuchi Billboard Live Tour 2026  〜Best Early Summer Session〜",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21246_1_1770174603.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21248&date=2026-06-05",
-      "first_seen": "2026-03-08"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1832,7 +1826,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dennis-chambers/",
       "first_seen": "2026-05-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Billboard Live presents THE ROOTS Japan Tour 2026",
+      "time": "17:30 / 21:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21434_1_1777548954.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-03",
+      "first_seen": "2026-06-06"
+    },
     "cotton": null
   },
   {
@@ -1844,7 +1844,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dennis-chambers/",
       "first_seen": "2026-05-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Billboard Live presents THE ROOTS Japan Tour 2026",
+      "time": "17:30 / 21:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21434_1_1777548954.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-04",
+      "first_seen": "2026-06-06"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
