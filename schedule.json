@@ -98,13 +98,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-botti/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "KOKIA 人生はここから深くなる — Determination —",
-      "time": "15:00 / 18:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21249_1_1770176486.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21252&date=2026-06-06",
-      "first_seen": "2026-03-09"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "中尾ミエ 80th birthday live No Time At All ～人生もっともっと楽しまなくちゃ～",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -595,7 +589,7 @@
       "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5672.jpg?20260607",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/motoharu-sano-260630/",
+      "url": "/reserve/schedule/exec/5672",
       "first_seen": "2026-05-13"
     }
   },
