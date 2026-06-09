@@ -1886,7 +1886,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/bill-laurance/",
       "first_seen": "2026-06-04"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "伊東歌詞太郎 Billboard Live Tour 2026 「JPOP」",
+      "time": "15:00 / 18:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21438_1_1777623132.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21440&date=2026-09-06",
+      "first_seen": "2026-06-09"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
