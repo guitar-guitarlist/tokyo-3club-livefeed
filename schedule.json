@@ -501,11 +501,11 @@
     "date": "2026-06-26T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
-      "artist": "モノンクル",
+      "artist": "モノンクル \" 果て \" Release Party 〜15th Anniversary ONE-MAN〜",
       "time": "18:00 / 21:00",
       "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21429_1_1777454360.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21429&date=2026-06-26",
-      "first_seen": "2026-05-01"
+      "first_seen": "2026-06-10"
     },
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
@@ -699,7 +699,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21400&date=2026-07-06",
       "first_seen": "2026-05-13"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "cultra & MELRAW presents「Off the Record」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5698.jpg?20260610",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cultra-melraw-260706/",
+      "first_seen": "2026-06-10"
+    }
   },
   {
     "date": "2026-07-07T00:00:00.000Z",
@@ -811,7 +817,7 @@
       "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5689.jpg?20260610",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/great3-260711/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-27"
     }
   },
@@ -835,7 +841,7 @@
       "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5689.jpg?20260610",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/great3-260711/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-27"
     }
   },
@@ -919,7 +925,7 @@
       "artist": "TOM SKINNER",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5690.jpg?20260610",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-skinner-260716/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-27"
     }
   },
@@ -937,7 +943,7 @@
       "artist": "TOM SKINNER",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5690.jpg?20260610",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-skinner-260716/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-27"
     }
   },
@@ -1197,7 +1203,13 @@
       "first_seen": "2026-05-21"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "TAKESHI OHBAYASHI × YOTAM SILBERSTEIN\"The Art of Duo\"",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5700.jpg?20260610",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
+      "first_seen": "2026-06-10"
+    }
   },
   {
     "date": "2026-07-30T00:00:00.000Z",
@@ -1257,7 +1269,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21502&date=2026-08-01",
       "first_seen": "2026-06-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5694.jpg?20260610",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toko-furuuchi-260801/",
+      "first_seen": "2026-06-10"
+    }
   },
   {
     "date": "2026-08-02T00:00:00.000Z",
@@ -1275,7 +1293,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-08-02",
       "first_seen": "2026-05-08"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5694.jpg?20260610",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toko-furuuchi-260801/",
+      "first_seen": "2026-06-10"
+    }
   },
   {
     "date": "2026-08-03T00:00:00.000Z",
@@ -2008,6 +2032,18 @@
     },
     "billboard": null,
     "cotton": null
+  },
+  {
+    "date": "2026-09-21T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "櫻井哲夫 JACO PASTORIUS TRIBUTE SESSION",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5699.jpg?20260610",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tetsuo-sakurai-260921/",
+      "first_seen": "2026-06-10"
+    }
   },
   {
     "date": "2026-09-24T00:00:00.000Z",
