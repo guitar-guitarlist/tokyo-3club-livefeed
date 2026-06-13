@@ -1928,7 +1928,13 @@
   {
     "date": "2026-09-10T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "阿川泰子 CROSSOVER NIGHT 2026",
+      "time": "17:00 / 20:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21471_1_1779358847.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21471&date=2026-09-10",
+      "first_seen": "2026-06-13"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
