@@ -224,13 +224,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-koz/",
       "first_seen": "2026-03-05"
     },
-    "billboard": {
-      "artist": "カーネーション WILD FANTASY 20th Anniversary Tour",
-      "time": "16:00 / 19:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21264_1_1771400995.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21264&date=2026-06-13",
-      "first_seen": "2026-03-16"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "相田翔子 Solo Début 30th Anniversary Live",
       "time": "1st: 18:00 / 2nd: 20:30",
