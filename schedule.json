@@ -260,13 +260,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/veronica-swift/",
       "first_seen": "2026-03-19"
     },
-    "billboard": {
-      "artist": "堂珍嘉邦 Billboard Live tour 2026",
-      "time": "17:00 / 20:00",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21154_1_1766366393.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21158&date=2026-06-15",
-      "first_seen": "2026-03-18"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "TAKAHIRO IZUMIKAWA \"Off Sync, Here\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1898,7 +1892,13 @@
   {
     "date": "2026-09-07T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "CTA Danny Seraphine California Transit Authority plays Chicago",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21521_1_1781234116.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21521&date=2026-09-07",
+      "first_seen": "2026-06-16"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1964,7 +1964,13 @@
   {
     "date": "2026-09-13T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Furui Riho Billboard Live Tour 2026 -The Garden-",
+      "time": "16:00 / 19:00",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21377_1_1775212265.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21377&date=2026-09-13",
+      "first_seen": "2026-06-16"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
