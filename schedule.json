@@ -278,13 +278,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/veronica-swift/",
       "first_seen": "2026-03-19"
     },
-    "billboard": {
-      "artist": "Yael Naim",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21395_1_1776042165.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21395&date=2026-06-16",
-      "first_seen": "2026-04-15"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "阿佐ヶ谷姉妹 ギャランティーク和恵 Lipstick Fantasia 2",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1039,7 +1033,7 @@
       "artist": "The Boys Trio Returns 19th Anniversary Special Concert at COTTON CLUB Boys (Akira Ishii, Hideaki Kanazawa, Shun Ishiwaka)",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5693.jpg?20260617",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/boys-260723/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-28"
     }
   },
@@ -1207,7 +1201,7 @@
       "artist": "EMI MEYER Wings & Other Stories",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5692.jpg?20260617",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/emi-meyer-260731/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
       "first_seen": "2026-05-28"
     }
   },
@@ -1503,7 +1497,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21445&date=2026-08-15",
       "first_seen": "2026-05-18"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "THE CHARM PARKSecond Nature Tour 2026 in TOKYO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5701.jpg?20260617",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/the-charm-park-260815/",
+      "first_seen": "2026-06-17"
+    }
   },
   {
     "date": "2026-08-16T00:00:00.000Z",
@@ -1555,7 +1555,7 @@
       "artist": "平倉初音 4th Album \"The Silent Mask\" 発売記念ライヴ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5695.jpg?20260617",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/hatsune-hirakura-260818/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-02"
     }
   },
@@ -1767,7 +1767,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21405&date=2026-08-30",
       "first_seen": "2026-06-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "音月桂LIVE CONCERT “KEI” vol.1",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5702.jpg?20260617",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kei-otozuki-260830/",
+      "first_seen": "2026-06-17"
+    }
   },
   {
     "date": "2026-08-31T00:00:00.000Z",
@@ -2049,7 +2055,13 @@
       "first_seen": "2026-05-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "KIYOSHI MAEKAWA LIVE2026BEYOND〜その先へ〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5703.jpg?20260617",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kiyoshi-maekawa-260927/",
+      "first_seen": "2026-06-17"
+    }
   },
   {
     "date": "2026-09-28T00:00:00.000Z",
