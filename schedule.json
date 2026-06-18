@@ -1657,7 +1657,7 @@
       "artist": "AI FURUSATO meets MASATO HONDA",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5696.jpg?20260618",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ai-furusato-masato-honda-260824/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-03"
     }
   },
@@ -1897,7 +1897,13 @@
   },
   {
     "date": "2026-09-07T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "THE RESIDENTS：ESKIMO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3983.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-residents/",
+      "first_seen": "2026-06-18"
+    },
     "billboard": {
       "artist": "CTA Danny Seraphine California Transit Authority plays Chicago",
       "time": "17:30 / 20:30",
@@ -1914,8 +1920,26 @@
     }
   },
   {
+    "date": "2026-09-08T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THE RESIDENTS：ESKIMO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3983.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-residents/",
+      "first_seen": "2026-06-18"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
     "date": "2026-09-09T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "THE RESIDENTS：ESKIMO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3983.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-residents/",
+      "first_seen": "2026-06-18"
+    },
     "billboard": null,
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
@@ -1927,7 +1951,13 @@
   },
   {
     "date": "2026-09-10T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TILL BRONNER \"ITALIA\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3982.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
+      "first_seen": "2026-06-18"
+    },
     "billboard": {
       "artist": "阿川泰子 CROSSOVER NIGHT 2026",
       "time": "17:00 / 20:00",
@@ -1945,7 +1975,13 @@
   },
   {
     "date": "2026-09-11T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TILL BRONNER \"ITALIA\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3982.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
+      "first_seen": "2026-06-18"
+    },
     "billboard": null,
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
@@ -1957,7 +1993,13 @@
   },
   {
     "date": "2026-09-12T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TILL BRONNER \"ITALIA\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3982.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
+      "first_seen": "2026-06-18"
+    },
     "billboard": null,
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
@@ -1969,7 +2011,13 @@
   },
   {
     "date": "2026-09-13T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TILL BRONNER \"ITALIA\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3982.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
+      "first_seen": "2026-06-18"
+    },
     "billboard": {
       "artist": "Furui Riho Billboard Live Tour 2026 -The Garden-",
       "time": "16:00 / 19:00",
@@ -2071,6 +2119,18 @@
       "img": "https://www.bluenote.co.jp/web_mainte/img/event/3943.jpg?20260618",
       "url": "https://www.bluenote.co.jp/jp/artists/andrea-motis/",
       "first_seen": "2026-05-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-09-29T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JHARIS YOKLEY + BIGYUKI",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "https://www.bluenote.co.jp/web_mainte/img/event/3984.jpg?20260618",
+      "url": "https://www.bluenote.co.jp/jp/artists/jharis-yokley/",
+      "first_seen": "2026-06-18"
     },
     "billboard": null,
     "cotton": null
