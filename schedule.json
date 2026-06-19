@@ -314,13 +314,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
       "first_seen": "2026-03-19"
     },
-    "billboard": {
-      "artist": "オルケスタ・デ・ラ・ルス",
-      "time": "17:30 / 20:30",
-      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21292_1_1771400043.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21292&date=2026-06-18",
-      "first_seen": "2026-03-21"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "山中千尋 Solo Piano & Duo",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2042,7 +2036,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
       "first_seen": "2026-06-04"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "ROCKIN’ QUARTET 第8章 ROY（THE BAWDIES） & NAOTO QUARTET",
+      "time": "17:30 / 20:30",
+      "img": "https://www.billboard-live.com/assets/images/shows/top_ev-21484_1_1779774177.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21484&date=2026-09-16",
+      "first_seen": "2026-06-19"
+    },
     "cotton": null
   },
   {
@@ -2104,11 +2104,11 @@
     },
     "billboard": null,
     "cotton": {
-      "artist": "KIYOSHI MAEKAWA LIVE2026BEYOND〜その先へ〜",
+      "artist": "KIYOSHI MAEKAWA LIVE2026BEYOND ～その先へ～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "https://www.cottonclubjapan.co.jp/web_mainte/img/event/5703.jpg?20260619",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kiyoshi-maekawa-260927/",
-      "first_seen": "2026-06-17"
+      "first_seen": "2026-06-19"
     }
   },
   {
