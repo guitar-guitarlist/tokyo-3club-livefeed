@@ -140,7 +140,7 @@ def fetch_bluenote():
                         current_artist = title_elem.text.strip()
                         img_src = img_elem["src"] if img_elem else ""
                         if img_src.startswith("/"):
-                            img_src = "https://www.bluenote.co.jp" + img_src
+                            img_src = "https://reserve.bluenote.co.jp" + img_src
                         
                         
                         current_url = f"https://reserve.bluenote.co.jp/reserve/schedule/move/{target_year}{int(month):02d}"
@@ -212,6 +212,8 @@ def fetch_billboard():
                                 times.append(session.get("play_start"))
                         time_str = " / ".join(times) if times else ""
                         
+                        event_id = first_session.get("event_id")
+
                         img = ""
                         images = first_session.get("images", [])
                         if images:
@@ -220,12 +222,14 @@ def fetch_billboard():
                                 if img_item.get("image_type") == 2:
                                     img_name = img_item.get("image_name")
                                     break
-                            if img_name:
-                                img = f"https://www.billboard-live.com/assets/images/shows/{img_name}"
-                        
-                        
+                            if img_name and event_id:
+                                # Path: /public/event_img/ev-{id}/{folder}/{name}
+                                # folder is the prefix of the filename (top/fls/dtl)
+                                folder = img_name.split("_")[0]
+                                img = f"https://www.billboard-live.com/public/event_img/{event_id}/{folder}/{img_name}"
+
+
                         bb_url_base = "https://www.billboard-live.com/tokyo/schedules"
-                        event_id = first_session.get("event_id")
                                 
                         for original_date in dates:
                             date_str = f"{target_year}-{original_date[5:]}"
@@ -372,7 +376,7 @@ def fetch_cottonclub():
                         if img_elem and img_elem.has_attr("src"):
                             img_src = img_elem["src"]
                             if img_src.startswith("/"):
-                                img_src = "https://www.cottonclubjapan.co.jp" + img_src
+                                img_src = "https://reserve.cottonclubjapan.co.jp" + img_src
                             img = img_src
                 
                 for tr in trs:
