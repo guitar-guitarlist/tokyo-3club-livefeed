@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
 
-def download_image(url, images_dir):
+def download_image(url, images_dir, page_referer=""):
     """Download image and save locally. Returns relative path or empty string."""
     if not url:
         return ""
@@ -17,12 +17,22 @@ def download_image(url, images_dir):
         filename = hashlib.md5(url.encode()).hexdigest() + '.' + ext
         filepath = os.path.join(images_dir, filename)
         if not os.path.exists(filepath):
-            h = {'User-Agent': 'Mozilla/5.0', 'Referer': url}
+            # Use the page's domain as Referer, not the image URL
+            from urllib.parse import urlparse
+            parsed = urlparse(url)
+            referer = page_referer or f"{parsed.scheme}://{parsed.netloc}/"
+            h = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Referer': referer,
+                'Accept': 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+            }
             res = requests.get(url, headers=h, timeout=10)
-            if res.status_code == 200 and len(res.content) > 1000:
+            content_type = res.headers.get('Content-Type', '')
+            if res.status_code == 200 and 'image' in content_type and len(res.content) > 1000:
                 with open(filepath, 'wb') as f:
                     f.write(res.content)
             else:
+                print(f"  Skipped (status={res.status_code}, type={content_type}): {url}")
                 return ""
         return f"images/{filename}"
     except Exception as e:
@@ -454,10 +464,15 @@ def main():
     images_dir = os.path.join(os.path.dirname(__file__), '..', 'images')
     os.makedirs(images_dir, exist_ok=True)
     print("Downloading images...")
-    for data_dict in [bn_data, bb_data, cc_data]:
+    referer_map = [
+        (bn_data, "https://www.bluenote.co.jp/jp/"),
+        (bb_data, "https://www.billboard-live.com/tokyo/schedules"),
+        (cc_data, "https://www.cottonclubjapan.co.jp/jp/schedule/"),
+    ]
+    for data_dict, referer in referer_map:
         for event in data_dict.values():
             if event and event.get('img'):
-                local_path = download_image(event['img'], images_dir)
+                local_path = download_image(event['img'], images_dir, page_referer=referer)
                 event['img'] = local_path
     print("Images downloaded.")
     
