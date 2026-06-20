@@ -200,7 +200,12 @@ function createEventCard(venueCode, eventInfo, dateObj = null, isToday = false) 
         dateDisplayHtml = `<div class="event-date-mini">${dStr}</div>`;
     }
 
+    const imgHtml = eventInfo.img
+        ? `<div class="event-img-wrap"><img class="event-img" src="${eventInfo.img}" alt="${eventInfo.artist}" loading="lazy" onerror="this.parentElement.style.display='none'"></div>`
+        : '';
+
     wrapper.innerHTML = `
+        ${imgHtml}
         <div class="event-content">
             <div class="mobile-venue-label">${venueName}</div>
             ${dateDisplayHtml}

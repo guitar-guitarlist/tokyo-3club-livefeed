@@ -1,9 +1,33 @@
 import json
 import os
 import re
+import hashlib
 from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
+
+def download_image(url, images_dir):
+    """Download image and save locally. Returns relative path or empty string."""
+    if not url:
+        return ""
+    try:
+        ext = url.split('?')[0].rsplit('.', 1)[-1].lower()
+        if ext not in ('jpg', 'jpeg', 'png', 'gif', 'webp'):
+            ext = 'jpg'
+        filename = hashlib.md5(url.encode()).hexdigest() + '.' + ext
+        filepath = os.path.join(images_dir, filename)
+        if not os.path.exists(filepath):
+            h = {'User-Agent': 'Mozilla/5.0', 'Referer': url}
+            res = requests.get(url, headers=h, timeout=10)
+            if res.status_code == 200 and len(res.content) > 1000:
+                with open(filepath, 'wb') as f:
+                    f.write(res.content)
+            else:
+                return ""
+        return f"images/{filename}"
+    except Exception as e:
+        print(f"Image download failed ({url}): {e}")
+        return ""
 
 def get_url_map(is_bn):
     url_map = {}
@@ -416,15 +440,26 @@ def generate_mock_data():
 
 def main():
     print("Starting data fetch...")
-    
+
     bn_data = fetch_bluenote()
     print(f"Fetched {len(bn_data)} days from Blue Note Tokyo.")
-    
+
     bb_data = fetch_billboard()
     print(f"Fetched {len(bb_data)} days from Billboard Live Tokyo.")
-    
+
     cc_data = fetch_cottonclub()
     print(f"Fetched {len(cc_data)} days from Cotton Club.")
+
+    # Download images
+    images_dir = os.path.join(os.path.dirname(__file__), '..', 'images')
+    os.makedirs(images_dir, exist_ok=True)
+    print("Downloading images...")
+    for data_dict in [bn_data, bb_data, cc_data]:
+        for event in data_dict.values():
+            if event and event.get('img'):
+                local_path = download_image(event['img'], images_dir)
+                event['img'] = local_path
+    print("Images downloaded.")
     
     output_path = os.path.join(os.path.dirname(__file__), '..', 'schedule.json')
     history_map = {}

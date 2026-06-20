@@ -312,6 +312,25 @@ h1 {
     box-shadow: 0 0 20px var(--accent-cc);
 }
 
+.event-img-wrap {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 8px 8px 0 0;
+}
+
+.event-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.event-card:hover .event-img {
+    transform: scale(1.05);
+}
+
 .event-content {
     padding: 1.25rem;
     display: flex;
