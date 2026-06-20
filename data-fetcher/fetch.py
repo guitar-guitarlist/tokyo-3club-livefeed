@@ -473,11 +473,21 @@ def main():
         (bb_data, "https://www.billboard-live.com/tokyo/schedules"),
         (cc_data, "https://www.cottonclubjapan.co.jp/jp/schedule/"),
     ]
+    url_cache = {}  # original URL -> local path (avoids re-downloading shared/multi-day events)
     for data_dict, referer in referer_map:
         for event in data_dict.values():
-            if event and event.get('img'):
-                local_path = download_image(event['img'], images_dir, page_referer=referer)
-                event['img'] = local_path
+            if not (event and event.get('img')):
+                continue
+            src = event['img']
+            # Skip values that are already local paths (multi-day events share one dict)
+            if not src.startswith('http'):
+                continue
+            if src in url_cache:
+                event['img'] = url_cache[src]
+                continue
+            local_path = download_image(src, images_dir, page_referer=referer)
+            url_cache[src] = local_path
+            event['img'] = local_path
     print("Images downloaded.")
     
     output_path = os.path.join(os.path.dirname(__file__), '..', 'schedule.json')
