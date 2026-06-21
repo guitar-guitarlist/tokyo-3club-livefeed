@@ -332,13 +332,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/makaya-mccraven/",
       "first_seen": "2026-03-19"
     },
-    "billboard": {
-      "artist": "My Little Lover ☆ acoakko live, Awaiting Summer",
-      "time": "17:30 / 20:30",
-      "img": "images/580be255ea3c115353c8ddd49a8d339a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21263&date=2026-06-19",
-      "first_seen": "2026-03-22"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "\"CINEMA SONGBOOK\" directed by SHU KANEMATSU featuring 中村佳穂 & 高橋あず美",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -356,13 +350,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/marcus-gilmore/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "My Little Lover ☆ acoakko live, Awaiting Summer",
-      "time": "17:30 / 20:30",
-      "img": "images/580be255ea3c115353c8ddd49a8d339a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21263&date=2026-06-20",
-      "first_seen": "2026-03-22"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "綾戸智恵 DO JAZZ Live 2026 with 天野清継",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2066,7 +2054,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
       "first_seen": "2026-06-04"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Chozen Lee Billboard Live Special",
+      "time": "17:30 / 20:30",
+      "img": "images/bb233f2852e2dbd4ec76b92044102c5b.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21519&date=2026-09-18",
+      "first_seen": "2026-06-21"
+    },
     "cotton": null
   },
   {
