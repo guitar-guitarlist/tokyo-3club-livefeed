@@ -368,13 +368,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/marcus-gilmore/",
       "first_seen": "2026-02-01"
     },
-    "billboard": {
-      "artist": "akiko 25th Anniversary featuring 谷中敦（東京スカパラダイスオーケストラ） Guest 早見優",
-      "time": "15:00 / 18:00",
-      "img": "images/26875dd14ec7db4537a351f22334df26.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21352&date=2026-06-21",
-      "first_seen": "2026-03-24"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "SCOTT HAMILTON meets SHO OKAMOTO Timeless Records 50 Years Anniversary Scott Hamilton Live in Japan",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1460,7 +1454,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/matthew-garrison/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "SHIMIZMYUKOPIA〜シミズムユーコピア〜 vol.2　安藤裕子×清水ミチコ",
+      "time": "17:30 / 20:30",
+      "img": "images/eb1b8b01a86fb3a502edbdf598a6e23a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21542&date=2026-08-14",
+      "first_seen": "2026-06-22"
+    },
     "cotton": null
   },
   {
@@ -2060,6 +2060,18 @@
       "img": "images/bb233f2852e2dbd4ec76b92044102c5b.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21519&date=2026-09-18",
       "first_seen": "2026-06-21"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-09-19T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "MHRJ（マハラージャン） 5th Anniversary Billboard Live Tour 「人間 vs 機械最終決戦」",
+      "time": "15:30 / 18:30",
+      "img": "images/99217c4e90fe657b17b0e63c4c9fd9a9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21531&date=2026-09-19",
+      "first_seen": "2026-06-22"
     },
     "cotton": null
   },
