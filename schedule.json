@@ -1243,7 +1243,7 @@
       "artist": "4ACES",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/c7811e36f0544b3c06df8f7d53727bb3.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/4aces-260803/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-03"
     }
   },
@@ -1634,7 +1634,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "ONE PARK Special Band  〜 Billboard Live Exclusive Session 〜",
+      "time": "18:00 / 21:00",
+      "img": "images/2d3b4429909b5411e432f75e0d72fab5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21554&date=2026-08-24",
+      "first_seen": "2026-06-24"
+    },
     "cotton": {
       "artist": "AI FURUSATO meets MASATO HONDA",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1844,7 +1850,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/bill-laurance/",
       "first_seen": "2026-06-04"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "堺正章 to MAGNETS",
+      "time": "16:00 / 19:00",
+      "img": "images/9abce442054c1f9790865de76f7dc19c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21551&date=2026-09-05",
+      "first_seen": "2026-06-24"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2090,7 +2102,13 @@
   {
     "date": "2026-09-21T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "MUUDO \"PHASE 1\" TOUR 2026 at Billboard Live",
+      "time": "15:00 / 18:00",
+      "img": "images/02b719dfbf8dde1c9605b25400c7e1e8.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21431&date=2026-09-21",
+      "first_seen": "2026-06-24"
+    },
     "cotton": {
       "artist": "櫻井哲夫 JACO PASTORIUS TRIBUTE SESSION",
       "time": "1st: 18:00 / 2nd: 20:30",
