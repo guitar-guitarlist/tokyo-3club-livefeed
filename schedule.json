@@ -2118,6 +2118,18 @@
     }
   },
   {
+    "date": "2026-09-22T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "XinU “From One to Collective - 2026” at Billboard Live",
+      "time": "16:00 / 19:00",
+      "img": "images/9f2f05485d994d88d6add3e745bc6a6e.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21512&date=2026-09-22",
+      "first_seen": "2026-06-25"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-09-24T00:00:00.000Z",
     "bluenote": {
       "artist": "SEPTETO SANTIAGUERO Vivela! Salsa Tour 2026",
