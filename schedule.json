@@ -1532,7 +1532,13 @@
   {
     "date": "2026-08-18T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Omarion",
+      "time": "17:30 / 20:30",
+      "img": "images/7a4b088111cfce34ca2cc10811f01ba5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21536&date=2026-08-18",
+      "first_seen": "2026-06-26"
+    },
     "cotton": {
       "artist": "平倉初音 4th Album \"The Silent Mask\" 発売記念ライヴ",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2126,6 +2132,18 @@
       "img": "images/9f2f05485d994d88d6add3e745bc6a6e.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21512&date=2026-09-22",
       "first_seen": "2026-06-25"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-09-23T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "石橋凌 Ryo Ishibashi with JAZZY SOUL",
+      "time": "16:00 / 19:00",
+      "img": "images/c0c064145ea0e8f277479f56ad9d0ea1.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21467&date=2026-09-23",
+      "first_seen": "2026-06-26"
     },
     "cotton": null
   },
