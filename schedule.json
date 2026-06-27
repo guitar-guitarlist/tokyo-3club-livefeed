@@ -428,13 +428,7 @@
   {
     "date": "2026-06-26T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "モノンクル \" 果て \" Release Party 〜15th Anniversary ONE-MAN〜",
-      "time": "18:00 / 21:00",
-      "img": "images/90832e38ab5b23881582769a68f79cec.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21429&date=2026-06-26",
-      "first_seen": "2026-06-10"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2000,7 +1994,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
       "first_seen": "2026-06-18"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "由紀さおり at Billboard Live TOKYO Directed by 小泉今日子",
+      "time": "16:00 / 19:00",
+      "img": "images/2af935ca90480723677bc8fd134c56a8.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
+      "first_seen": "2026-06-27"
+    },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2156,7 +2156,25 @@
       "url": "https://www.bluenote.co.jp/jp/artists/septeto-santiaguero/",
       "first_seen": "2026-05-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Crystal Kay Billboard Live Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/4b4c5996d35ad24962dfff14246c1f73.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-24",
+      "first_seen": "2026-06-27"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-09-25T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Crystal Kay Billboard Live Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/4b4c5996d35ad24962dfff14246c1f73.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-25",
+      "first_seen": "2026-06-27"
+    },
     "cotton": null
   },
   {
