@@ -440,13 +440,7 @@
   {
     "date": "2026-06-27T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "Reina Washio Billboard Live 2026",
-      "time": "17:00 / 20:00",
-      "img": "images/3773f4e05b4d0a74887435281f188f1a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21358&date=2026-06-27",
-      "first_seen": "2026-03-30"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -458,13 +452,7 @@
   {
     "date": "2026-06-28T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "Reina Washio Billboard Live 2026",
-      "time": "17:00 / 20:00",
-      "img": "images/3773f4e05b4d0a74887435281f188f1a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21358&date=2026-06-28",
-      "first_seen": "2026-03-30"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "FUNKY DIAMOND 18 Funky Diamond 18 Presents  Papaya Suzuki 60th Anniversary Live ～Fire Horse～",
       "time": "1st: 18:00 / 2nd: 20:30",
