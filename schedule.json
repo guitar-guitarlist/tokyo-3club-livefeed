@@ -945,7 +945,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21542&date=2026-08-14",
       "first_seen": "2026-06-22"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "古舘と客人と vol.38 古舘伊知郎 中田敦彦",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/321ab7bfd0cedd2ae8b42e75131e3082.jpg",
+      "url": " https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260814/",
+      "first_seen": "2026-07-01"
+    }
   },
   {
     "date": "2026-08-15T00:00:00.000Z",
@@ -1694,7 +1700,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/andrea-motis/",
       "first_seen": "2026-05-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "LE VELVETS",
+      "time": "15:00 / 18:00",
+      "img": "images/262d88053fd8102e38224156cc3ff472.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-28",
+      "first_seen": "2026-07-01"
+    },
     "cotton": null
   },
   {
@@ -1706,7 +1718,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jharis-yokley/",
       "first_seen": "2026-06-18"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "LE VELVETS",
+      "time": "15:00 / 18:00",
+      "img": "images/262d88053fd8102e38224156cc3ff472.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-29",
+      "first_seen": "2026-07-01"
+    },
     "cotton": null
   },
   {
