@@ -895,7 +895,13 @@
   },
   {
     "date": "2026-08-12T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TOSHIKI KADOMATSU 45th Anniversary Live in Blue Note Tokyo",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/6394a0a12b807df690a4b8140ab587f9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/toshiki-kadomatsu/",
+      "first_seen": "2026-07-02"
+    },
     "billboard": {
       "artist": "KISHOW from GRANRODEO Billboard Live",
       "time": "17:00 / 20:00",
@@ -913,7 +919,13 @@
   },
   {
     "date": "2026-08-13T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TOSHIKI KADOMATSU 45th Anniversary Live in Blue Note Tokyo",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/6394a0a12b807df690a4b8140ab587f9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/toshiki-kadomatsu/",
+      "first_seen": "2026-07-02"
+    },
     "billboard": {
       "artist": "The RH Factor reunion tribute to Roy Hargrove",
       "time": "17:30 / 20:30",
@@ -1615,7 +1627,7 @@
       "artist": "櫻井哲夫 JACO PASTORIUS TRIBUTE SESSION",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/c63e525b2226917d5f49ee0435010ab9.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tetsuo-sakurai-260921/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-06-10"
     }
   },
@@ -1867,6 +1879,42 @@
       "img": "images/331ef89af9720aaf62499e9b2d6c4797.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
       "first_seen": "2026-06-30"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-10-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THE BAD PLUS Farewell Tour",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/d2ef1607c04819cb00861f5769868489.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
+      "first_seen": "2026-07-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-10-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THE BAD PLUS Farewell Tour",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/d2ef1607c04819cb00861f5769868489.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
+      "first_seen": "2026-07-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-10-19T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THE BAD PLUS Farewell Tour",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/d2ef1607c04819cb00861f5769868489.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
+      "first_seen": "2026-07-02"
     },
     "billboard": null,
     "cotton": null
