@@ -20,13 +20,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/keiko-matsui/",
       "first_seen": "2026-04-09"
     },
-    "billboard": {
-      "artist": "Billboard JAPAN Records presents Los Retros with special guests 一十三十一＆JINTANA & EMERALDS",
-      "time": "17:30 / 21:00",
-      "img": "images/1c6140add87f281eb922302ddfc6122b.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21333&date=2026-07-02",
-      "first_seen": "2026-04-04"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "JOYCE MORENO - Celebrating Feminina 45th Anniversary -",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1540,6 +1534,30 @@
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
+  },
+  {
+    "date": "2026-09-14T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "小室哲哉 Tetsuya Komuro \"Short circuit eats long story\"",
+      "time": "17:30 / 20:30",
+      "img": "images/06e9d84c5c31aea027a3f15be5847dc5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21560&date=2026-09-14",
+      "first_seen": "2026-07-03"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-09-15T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "小室哲哉 Tetsuya Komuro \"Short circuit eats long story\"",
+      "time": "17:30 / 20:30",
+      "img": "images/06e9d84c5c31aea027a3f15be5847dc5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21560&date=2026-09-15",
+      "first_seen": "2026-07-03"
+    },
+    "cotton": null
   },
   {
     "date": "2026-09-16T00:00:00.000Z",
