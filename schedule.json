@@ -38,13 +38,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/keiko-matsui/",
       "first_seen": "2026-04-09"
     },
-    "billboard": {
-      "artist": "中田裕二 THE BLUE SEAGULLS",
-      "time": "17:30 / 20:30",
-      "img": "images/478dc9fb41edeec8e4dcb9f10d00a49d.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21379&date=2026-07-03",
-      "first_seen": "2026-04-20"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
