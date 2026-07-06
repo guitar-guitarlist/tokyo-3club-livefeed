@@ -74,13 +74,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
       "first_seen": "2026-03-31"
     },
-    "billboard": {
-      "artist": "Billboard JAPAN Records presents magora Billboard Live Tour yurameki 2026",
-      "time": "16:00 / 19:00",
-      "img": "images/c05b8b68feacbc3d6c55835e9deff281.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21383&date=2026-07-05",
-      "first_seen": "2026-04-08"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1712,7 +1706,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/andrea-motis/",
       "first_seen": "2026-05-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "在日ファンク at Billboard Live TOKYO 2026",
+      "time": "15:00 / 18:00",
+      "img": "images/4b0bc2539d49d90d0ce8b26c431ec96a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21580&date=2026-09-27",
+      "first_seen": "2026-07-06"
+    },
     "cotton": {
       "artist": "KIYOSHI MAEKAWA LIVE2026BEYOND ～その先へ～",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1754,6 +1754,18 @@
       "img": "images/262d88053fd8102e38224156cc3ff472.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-29",
       "first_seen": "2026-07-01"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-10-03T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "川畑要 Billboard Live Tour 2026\"JUST SING\"",
+      "time": "16:00 / 19:00",
+      "img": "images/5e34246994a4d2481b0fbde6b7c10423.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21243&date=2026-10-03",
+      "first_seen": "2026-07-06"
     },
     "cotton": null
   },
