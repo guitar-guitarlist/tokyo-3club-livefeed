@@ -92,13 +92,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
       "first_seen": "2026-03-31"
     },
-    "billboard": {
-      "artist": "An Intimate Night with Erykah Badu",
-      "time": "17:30 / 20:30",
-      "img": "images/4ba8b26bba6e77b07d7c0af755ae4677.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21400&date=2026-07-06",
-      "first_seen": "2026-05-13"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "cultra & MELRAW presents「Off the Record」",
       "time": "1st: 18:00 / 2nd: 20:30",
