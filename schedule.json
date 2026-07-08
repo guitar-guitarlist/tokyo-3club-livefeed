@@ -110,13 +110,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/sadao-watanabe/",
       "first_seen": "2026-04-09"
     },
-    "billboard": {
-      "artist": "Dream Ami Billboard Live 2026 ～Milkyway～",
-      "time": "17:30 / 20:30",
-      "img": "images/ce80bb8e92a4910c5a8d9095c44577c6.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21386&date=2026-07-07",
-      "first_seen": "2026-04-10"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "NakamuraEmi COTTON CLUB 「七夕はここで。～2026～」",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -667,7 +661,7 @@
       "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/a52a521e048e361567352fce567dfb5f.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toko-furuuchi-260801/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-10"
     }
   },
@@ -691,7 +685,7 @@
       "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/a52a521e048e361567352fce567dfb5f.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toko-furuuchi-260801/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-10"
     }
   },
@@ -967,7 +961,7 @@
       "artist": "THE CHARM PARKSecond Nature Tour 2026 in TOKYO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/4cc1ab5c2f047173f556701e9d646c60.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/the-charm-park-260815/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-17"
     }
   },
@@ -1101,7 +1095,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "米倉利紀 sTYle72 standard. 2026 -coffee BREAK",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/486f686db99523b9e64a2cbe64ca7278.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toshinori-yonekura-260822/",
+      "first_seen": "2026-07-08"
+    }
   },
   {
     "date": "2026-08-23T00:00:00.000Z",
@@ -1113,7 +1113,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "米倉利紀 sTYle72 standard. 2026 -coffee BREAK",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/486f686db99523b9e64a2cbe64ca7278.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "first_seen": "2026-07-08"
+    }
   },
   {
     "date": "2026-08-24T00:00:00.000Z",
@@ -1249,7 +1255,7 @@
       "artist": "音月桂LIVE CONCERT “KEI” vol.1",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/054125dcbbba8c182d5107be4de5fc88.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kei-otozuki-260830/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-06-17"
     }
   },
@@ -1611,7 +1617,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21531&date=2026-09-19",
       "first_seen": "2026-06-22"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "JAHARI STAMPLEY : SOUL FAMILYfeaturing TAISHI KUBOTA / SENRI KAWAGUCHI",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/115c1a3599d56236324af02d67cd9fc5.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jahari-stampley-260919/",
+      "first_seen": "2026-07-08"
+    }
   },
   {
     "date": "2026-09-20T00:00:00.000Z",
@@ -1623,7 +1635,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21515&date=2026-09-20",
       "first_seen": "2026-06-23"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "JAHARI STAMPLEY : SOUL FAMILYfeaturing TAISHI KUBOTA / SENRI KAWAGUCHI",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/115c1a3599d56236324af02d67cd9fc5.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jahari-stampley-260919/",
+      "first_seen": "2026-07-08"
+    }
   },
   {
     "date": "2026-09-21T00:00:00.000Z",
@@ -1790,7 +1808,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/richard-bona/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Marcus Miller",
+      "time": "17:30 / 20:30",
+      "img": "images/ab8d322f90c9789d42d47a0b0c9c9b18.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21372&date=2026-10-05",
+      "first_seen": "2026-07-08"
+    },
     "cotton": null
   },
   {
@@ -1802,7 +1826,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/richard-bona/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Marcus Miller",
+      "time": "17:30 / 20:30",
+      "img": "images/ab8d322f90c9789d42d47a0b0c9c9b18.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21372&date=2026-10-06",
+      "first_seen": "2026-07-08"
+    },
     "cotton": null
   },
   {
@@ -1814,7 +1844,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/nduduzo-makhathini/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Marcus Miller",
+      "time": "17:30 / 20:30",
+      "img": "images/ab8d322f90c9789d42d47a0b0c9c9b18.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21372&date=2026-10-07",
+      "first_seen": "2026-07-08"
+    },
     "cotton": {
       "artist": "MAMAS GUN ‘DIG! World tour’",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1832,7 +1868,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/nduduzo-makhathini/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Marcus Miller",
+      "time": "17:30 / 20:30",
+      "img": "images/ab8d322f90c9789d42d47a0b0c9c9b18.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21372&date=2026-10-08",
+      "first_seen": "2026-07-08"
+    },
     "cotton": {
       "artist": "MAMAS GUN ‘DIG! World tour’",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1875,7 +1917,13 @@
       "first_seen": "2026-06-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "大西結花 40周年記念+1 anniversary live「ずっと大好き！！」〜40 years of loving YUKA〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/f3079131da7d384cb041420f68dd04e4.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yuka-onishi-261011/",
+      "first_seen": "2026-07-08"
+    }
   },
   {
     "date": "2026-10-12T00:00:00.000Z",
