@@ -128,13 +128,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/sadao-watanabe/",
       "first_seen": "2026-04-09"
     },
-    "billboard": {
-      "artist": "冨田ラボ the birds of four LIVE!",
-      "time": "17:30 / 20:30",
-      "img": "images/812e9cd682db2cb3d63f56fec57f5a5d.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21335&date=2026-07-08",
-      "first_seen": "2026-04-10"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PRIVATE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1741,7 +1735,7 @@
       "artist": "KIYOSHI MAEKAWA LIVE2026BEYOND ～その先へ～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/2f433168938e4d4824575fa019787b00.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kiyoshi-maekawa-260927/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-06-19"
     }
   },
@@ -1782,8 +1776,38 @@
     "cotton": null
   },
   {
+    "date": "2026-10-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "YELLOWJACKETS",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/33e1b7859ac10a6a08420022f4772273.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
+      "first_seen": "2026-07-09"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-10-02T00:00:00.000Z",
+    "bluenote": {
+      "artist": "YELLOWJACKETS",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/33e1b7859ac10a6a08420022f4772273.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
+      "first_seen": "2026-07-09"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
     "date": "2026-10-03T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "YELLOWJACKETS",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/33e1b7859ac10a6a08420022f4772273.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
+      "first_seen": "2026-07-09"
+    },
     "billboard": {
       "artist": "川畑要 Billboard Live Tour 2026\"JUST SING\"",
       "time": "16:00 / 19:00",
