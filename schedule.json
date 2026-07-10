@@ -1537,7 +1537,13 @@
   },
   {
     "date": "2026-09-14T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "aron! \"Too Close For Running\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/a41dc739559c0880115db4771051d1a1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/aron/",
+      "first_seen": "2026-07-10"
+    },
     "billboard": {
       "artist": "小室哲哉 Tetsuya Komuro \"Short circuit eats long story\"",
       "time": "17:30 / 20:30",
@@ -1549,7 +1555,13 @@
   },
   {
     "date": "2026-09-15T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "aron! \"Too Close For Running\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/a41dc739559c0880115db4771051d1a1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/aron/",
+      "first_seen": "2026-07-10"
+    },
     "billboard": {
       "artist": "小室哲哉 Tetsuya Komuro \"Short circuit eats long story\"",
       "time": "17:30 / 20:30",
@@ -1948,11 +1960,11 @@
     },
     "billboard": null,
     "cotton": {
-      "artist": "大西結花 40周年記念+1 anniversary live「ずっと大好き！！」〜40 years of loving YUKA〜",
+      "artist": "大西結花 40周年記念+1 anniversary live「ずっと大好き！！」～40 years of loving YUKA～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/fc29e3f0dcc914b9c8b207b6b36c391c.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yuka-onishi-261011/",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-10"
     }
   },
   {
