@@ -182,13 +182,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
       "first_seen": "2026-04-02"
     },
-    "billboard": {
-      "artist": "木村カエラ Billboard Live Tour “Kaela’s Petit Quartet”",
-      "time": "16:00 / 19:00",
-      "img": "images/c87bb341da4f92a0a2b57dd378a4cecf.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21320&date=2026-07-11",
-      "first_seen": "2026-06-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -206,13 +200,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
       "first_seen": "2026-04-02"
     },
-    "billboard": {
-      "artist": "木村カエラ Billboard Live Tour “Kaela’s Petit Quartet”",
-      "time": "16:00 / 19:00",
-      "img": "images/c87bb341da4f92a0a2b57dd378a4cecf.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21320&date=2026-07-12",
-      "first_seen": "2026-06-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1485,11 +1473,11 @@
       "first_seen": "2026-06-18"
     },
     "billboard": {
-      "artist": "由紀さおり at Billboard Live TOKYO Directed by 小泉今日子",
+      "artist": "由紀さおり at Billboard Live 「Once Upon a Melody」",
       "time": "16:00 / 19:00",
       "img": "images/2af935ca90480723677bc8fd134c56a8.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
-      "first_seen": "2026-06-27"
+      "first_seen": "2026-07-13"
     },
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
