@@ -1059,7 +1059,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21506&date=2026-08-21",
       "first_seen": "2026-06-07"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "山口ちなみ  Keith Jarrett \"The Köln Concert\" Reimagined",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/ff9969e678705b1763e4271221ce5776.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chinami-yamaguchi-260821/",
+      "first_seen": "2026-07-15"
+    }
   },
   {
     "date": "2026-08-22T00:00:00.000Z",
@@ -1563,7 +1569,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21484&date=2026-09-16",
       "first_seen": "2026-06-19"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "LIVE＠マキタスポーツ 〜マキタスポーツ×タブレット純〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/8cc7a31fe36f912f095e4c8357bf4a30.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/makitasports-260916/",
+      "first_seen": "2026-07-15"
+    }
   },
   {
     "date": "2026-09-17T00:00:00.000Z",
