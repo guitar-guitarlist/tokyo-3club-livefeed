@@ -913,7 +913,7 @@
       "artist": "古舘と客人と vol.38 古舘伊知郎 中田敦彦",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/04b58a86c9d7205380e1fd47bc5b7654.jpg",
-      "url": " https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260814/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-07-01"
     }
   },
@@ -1609,7 +1609,13 @@
   },
   {
     "date": "2026-09-19T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "Chara Anniversary Countdown Live!! \"1991 to 2026\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/15cf08f173a344c5e41c4a45361f3157.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chara/",
+      "first_seen": "2026-07-16"
+    },
     "billboard": {
       "artist": "MHRJ（マハラージャン） 5th Anniversary Billboard Live Tour 「人間 vs 機械最終決戦」",
       "time": "15:30 / 18:30",
@@ -1627,7 +1633,13 @@
   },
   {
     "date": "2026-09-20T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "Chara Anniversary Countdown Live!! \"1991 to 2026\"",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/15cf08f173a344c5e41c4a45361f3157.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chara/",
+      "first_seen": "2026-07-16"
+    },
     "billboard": {
       "artist": "YOUR SONG IS GOOD “Good Mood”",
       "time": "15:30 / 18:30",
@@ -1645,7 +1657,13 @@
   },
   {
     "date": "2026-09-21T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "THE MILES DAVIS CENTENNIAL CELEBRATION  with THE MILES ELECTRIC BAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/39f93642414a7580216bd3f35abe00ee.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
+      "first_seen": "2026-07-16"
+    },
     "billboard": {
       "artist": "MUUDO \"PHASE 1\" TOUR 2026 at Billboard Live",
       "time": "15:00 / 18:00",
@@ -1663,7 +1681,13 @@
   },
   {
     "date": "2026-09-22T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "THE MILES DAVIS CENTENNIAL CELEBRATION  with THE MILES ELECTRIC BAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/39f93642414a7580216bd3f35abe00ee.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
+      "first_seen": "2026-07-16"
+    },
     "billboard": {
       "artist": "XinU “From One to Collective - 2026” at Billboard Live",
       "time": "16:00 / 19:00",
@@ -1675,7 +1699,13 @@
   },
   {
     "date": "2026-09-23T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "THE MILES DAVIS CENTENNIAL CELEBRATION  with THE MILES ELECTRIC BAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/39f93642414a7580216bd3f35abe00ee.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
+      "first_seen": "2026-07-16"
+    },
     "billboard": {
       "artist": "石橋凌 Ryo Ishibashi with JAZZY SOUL",
       "time": "16:00 / 19:00",
@@ -1701,11 +1731,23 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-24",
       "first_seen": "2026-06-27"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "ULYSSES OWENS JR. & GENERATION Y",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/1358b8d77af0067d41a7857efe63e61b.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ulysses-owens-jr-260924/",
+      "first_seen": "2026-07-16"
+    }
   },
   {
     "date": "2026-09-25T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "ULYSSES OWENS JR. & GENERATION Y",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/eca5f70b78cf40721ea1c29f35a56156.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/ulysses-owens-jr/",
+      "first_seen": "2026-07-16"
+    },
     "billboard": {
       "artist": "Crystal Kay Billboard Live Tour 2026",
       "time": "17:30 / 20:30",
@@ -1713,6 +1755,18 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-25",
       "first_seen": "2026-06-27"
     },
+    "cotton": null
+  },
+  {
+    "date": "2026-09-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "ULYSSES OWENS JR. & GENERATION Y",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/eca5f70b78cf40721ea1c29f35a56156.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/ulysses-owens-jr/",
+      "first_seen": "2026-07-16"
+    },
+    "billboard": null,
     "cotton": null
   },
   {
