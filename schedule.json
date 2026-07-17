@@ -254,13 +254,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/asako-toki/",
       "first_seen": "2026-04-23"
     },
-    "billboard": {
-      "artist": "中村 雅俊 ビルボードライブ2026",
-      "time": "15:30 / 18:30",
-      "img": "images/95b60cca571dd44f7f2296ef04fdeea6.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21363&date=2026-07-15",
-      "first_seen": "2026-04-17"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "WALTER SMITH III TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -278,13 +272,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/canizares/",
       "first_seen": "2026-04-10"
     },
-    "billboard": {
-      "artist": "中村 雅俊 ビルボードライブ2026",
-      "time": "15:30 / 18:30",
-      "img": "images/95b60cca571dd44f7f2296ef04fdeea6.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21363&date=2026-07-16",
-      "first_seen": "2026-04-17"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "TOM SKINNER",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2048,7 +2036,25 @@
       "url": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Nick Heyward",
+      "time": "17:30 / 20:30",
+      "img": "images/4acd977c5f62e1be1666dd0cff532236.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21375&date=2026-10-14",
+      "first_seen": "2026-07-17"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-10-15T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Nick Heyward",
+      "time": "17:30 / 20:30",
+      "img": "images/4acd977c5f62e1be1666dd0cff532236.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21375&date=2026-10-15",
+      "first_seen": "2026-07-17"
+    },
     "cotton": null
   },
   {
