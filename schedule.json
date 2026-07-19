@@ -308,13 +308,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
       "first_seen": "2026-03-31"
     },
-    "billboard": {
-      "artist": "idom Billboard Live",
-      "time": "16:30 / 19:30",
-      "img": "images/8cccfd497025a7fbe8526a5002e40942.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21322&date=2026-07-18",
-      "first_seen": "2026-06-15"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "広末涼子 Best Day Ever~Crescent River",
       "time": "1st: 18:00 / 2nd: 20:30",
