@@ -326,13 +326,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
       "first_seen": "2026-03-31"
     },
-    "billboard": {
-      "artist": "藤木直人 Naohito Fujiki Live Tour ver14.5 Billboard Live 2026",
-      "time": "15:00 / 18:00",
-      "img": "images/ead18ceeee1851c161164e6db82abdb2.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21229&date=2026-07-19",
-      "first_seen": "2026-04-21"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "COTTON CLUB STOMP Harlem After Dark",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -350,13 +344,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
       "first_seen": "2026-03-31"
     },
-    "billboard": {
-      "artist": "藤木直人 Naohito Fujiki Live Tour ver14.5 Billboard Live 2026",
-      "time": "15:00 / 18:00",
-      "img": "images/ead18ceeee1851c161164e6db82abdb2.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21229&date=2026-07-20",
-      "first_seen": "2026-04-21"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "COTTON CLUB STOMP Harlem After Dark",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2078,7 +2066,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
       "first_seen": "2026-07-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Tigran Hamasyan",
+      "time": "16:00 / 19:00",
+      "img": "images/e2ecd6ac0fd455dfd23a353be7091629.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21488&date=2026-10-18",
+      "first_seen": "2026-07-21"
+    },
     "cotton": null
   },
   {
