@@ -1030,11 +1030,11 @@
       "first_seen": "2026-06-07"
     },
     "cotton": {
-      "artist": "山口ちなみ  Keith Jarrett \"The K?ln Concert\" Reimagined",
+      "artist": "山口ちなみ  Keith Jarrett \"The Köln Concert\" Reimagined",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/26bfd9ad1ba7edba8391f1a4cab6b203.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chinami-yamaguchi-260821/",
-      "first_seen": "2026-07-18"
+      "first_seen": "2026-07-22"
     }
   },
   {
@@ -1051,7 +1051,7 @@
       "artist": "米倉利紀 sTYle72 standard. 2026 -coffee BREAK",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/54e96ed54435cd84b8d0c4466c86b12b.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toshinori-yonekura-260822/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-07-08"
     }
   },
@@ -1131,7 +1131,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21453&date=2026-08-26",
       "first_seen": "2026-05-29"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "村田陽一 ビッグバンド",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/8505bb4816ef2fe0850293575806ee98.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yoichi-murata-260826/",
+      "first_seen": "2026-07-22"
+    }
   },
   {
     "date": "2026-08-27T00:00:00.000Z",
@@ -1597,7 +1603,7 @@
       "artist": "JAHARI STAMPLEY : SOUL FAMILYfeaturing TAISHI KUBOTA / SENRI KAWAGUCHI",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/f0b2ef8a3c29b842a1f80210667a9f0b.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jahari-stampley-260919/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-08"
     }
   },
@@ -1621,7 +1627,7 @@
       "artist": "JAHARI STAMPLEY : SOUL FAMILYfeaturing TAISHI KUBOTA / SENRI KAWAGUCHI",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/f0b2ef8a3c29b842a1f80210667a9f0b.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jahari-stampley-260919/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-08"
     }
   },
@@ -1737,7 +1743,13 @@
       "first_seen": "2026-07-16"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "古謝美佐子 with 文楽人形 (勘緑 & 木偶舎) at COTTON CLUB 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/a1eef5468795502b96f7117d65bad577.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/misako-koja-260926/",
+      "first_seen": "2026-07-22"
+    }
   },
   {
     "date": "2026-09-27T00:00:00.000Z",
@@ -1981,7 +1993,7 @@
       "artist": "大西結花 40周年記念+1 anniversary live「ずっと大好き！！」～40 years of loving YUKA～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/df1aaa2f73f437891594ceccf009d4a2.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yuka-onishi-261011/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-10"
     }
   },
@@ -2007,7 +2019,13 @@
       "first_seen": "2026-06-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "MICHAEL MAYO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/d9c37acc6acf7ec38251b74f2fcbcb99.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
+      "first_seen": "2026-07-22"
+    }
   },
   {
     "date": "2026-10-14T00:00:00.000Z",
@@ -2025,7 +2043,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21375&date=2026-10-14",
       "first_seen": "2026-07-17"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "MICHAEL MAYO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/d9c37acc6acf7ec38251b74f2fcbcb99.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
+      "first_seen": "2026-07-22"
+    }
   },
   {
     "date": "2026-10-15T00:00:00.000Z",
@@ -2037,7 +2061,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21375&date=2026-10-15",
       "first_seen": "2026-07-17"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "MICHAEL MAYO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/d9c37acc6acf7ec38251b74f2fcbcb99.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
+      "first_seen": "2026-07-22"
+    }
   },
   {
     "date": "2026-10-17T00:00:00.000Z",
@@ -2084,8 +2114,20 @@
       "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
       "first_seen": "2026-07-02"
     },
-    "billboard": null,
-    "cotton": null
+    "billboard": {
+      "artist": "Kamasi Washington",
+      "time": "17:30 / 20:30",
+      "img": "images/20217f0ff5acf5266054ecaf22aefa7c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21397&date=2026-10-19",
+      "first_seen": "2026-07-22"
+    },
+    "cotton": {
+      "artist": "MIKI YAMANAKA PIANO TRIO JAPAN TOUR 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/4323050903a3799943a9cb85406220eb.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miki-yamanaka-261019/",
+      "first_seen": "2026-07-22"
+    }
   },
   {
     "date": "2026-10-20T00:00:00.000Z",
@@ -2096,7 +2138,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Kamasi Washington",
+      "time": "17:30 / 20:30",
+      "img": "images/20217f0ff5acf5266054ecaf22aefa7c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21397&date=2026-10-20",
+      "first_seen": "2026-07-22"
+    },
     "cotton": null
   },
   {
