@@ -362,13 +362,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/shinobu-otake/",
       "first_seen": "2026-03-31"
     },
-    "billboard": {
-      "artist": "Graham Gouldman Heart Full of Songs",
-      "time": "17:30 / 20:30",
-      "img": "images/36f21e7eef783b27eabaaa6fe39c4666.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21454&date=2026-07-21",
-      "first_seen": "2026-05-15"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ISAIAH J. THOMPSON TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -380,13 +374,7 @@
   {
     "date": "2026-07-22T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "Graham Gouldman Heart Full of Songs",
-      "time": "17:30 / 20:30",
-      "img": "images/36f21e7eef783b27eabaaa6fe39c4666.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21454&date=2026-07-22",
-      "first_seen": "2026-05-15"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ISAIAH J. THOMPSON TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1227,7 +1215,13 @@
       "first_seen": "2026-04-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "西村ケント",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/e9e48ff0b8cd6a1a778866650b89c08d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kent-nishimura-260831/",
+      "first_seen": "2026-07-23"
+    }
   },
   {
     "date": "2026-09-01T00:00:00.000Z",
@@ -1549,7 +1543,7 @@
       "artist": "LIVE＠マキタスポーツ ～マキタスポーツ×タブレット純～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/0d6891554686a0cc3b90bb6e49663578.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/makitasports-260916/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-18"
     }
   },
@@ -1977,7 +1971,13 @@
       "first_seen": "2026-06-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "夏焼 雅 Premium Night 〜Velvet Voice〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/71e8de825b202b9866b6e86996f05b39.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miyabi-natsuyaki-261010/",
+      "first_seen": "2026-07-23"
+    }
   },
   {
     "date": "2026-10-11T00:00:00.000Z",
@@ -2145,7 +2145,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21397&date=2026-10-20",
       "first_seen": "2026-07-22"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "SHAI MAESTRO TRIO : The Guesthouse",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/d8eefae355eec11ad75aac468acb339f.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
+      "first_seen": "2026-07-23"
+    }
   },
   {
     "date": "2026-10-21T00:00:00.000Z",
@@ -2157,7 +2163,13 @@
       "first_seen": "2026-06-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "SHAI MAESTRO TRIO : The Guesthouse",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/d8eefae355eec11ad75aac468acb339f.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
+      "first_seen": "2026-07-23"
+    }
   },
   {
     "date": "2026-10-22T00:00:00.000Z",
