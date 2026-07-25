@@ -416,13 +416,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": {
-      "artist": "MONKEY MAJIK at Billboard Live ～Summer Vibes～",
-      "time": "17:30 / 20:30",
-      "img": "images/d77f2d644c8eb73b57db71abca5c9183.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21457&date=2026-07-24",
-      "first_seen": "2026-05-15"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "広末涼子 Best Day Ever~Crescent River",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2180,7 +2174,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "CHABO BAND STILL ALIVE & WELL 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/0bb6737e51d0004fea77e561446c5495.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21585&date=2026-10-22",
+      "first_seen": "2026-07-25"
+    },
     "cotton": null
   },
   {
