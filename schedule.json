@@ -434,13 +434,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": {
-      "artist": "LINDBERG Extra Flight Vol.6 Billboard Live Tour",
-      "time": "15:30 / 18:30",
-      "img": "images/59aac18c5e7107bbde1518bd300c6476.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21419&date=2026-07-25",
-      "first_seen": "2026-04-27"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "広末涼子 Best Day Ever~Crescent River",
       "time": "1st: 18:00 / 2nd: 20:30",
