@@ -2198,7 +2198,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "三浦透子 at Billboard Live TOKYO 2026",
+      "time": "16:00 / 19:00",
+      "img": "images/1163c7c96a608c3c0423f9e5c3b5039a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21511&date=2026-10-24",
+      "first_seen": "2026-07-27"
+    },
     "cotton": null
   },
   {
