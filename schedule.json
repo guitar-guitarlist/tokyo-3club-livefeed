@@ -655,7 +655,7 @@
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/2bffec04be10a2c5c2123e73d5d055fb.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
       "first_seen": "2026-05-07"
     }
   },
@@ -679,7 +679,7 @@
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/2bffec04be10a2c5c2123e73d5d055fb.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
       "first_seen": "2026-05-07"
     }
   },
@@ -697,7 +697,7 @@
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/2bffec04be10a2c5c2123e73d5d055fb.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
       "first_seen": "2026-05-07"
     }
   },
@@ -763,7 +763,7 @@
       "artist": "ACO 30th ANNIVERSARY LIVE 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/ef063fdafe5e713245f605cd60e017c9.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aco-260810/",
       "first_seen": "2026-04-30"
     }
   },
@@ -787,7 +787,7 @@
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/cedb57163ec2c05a157f8680a62b59a1.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
       "first_seen": "2026-05-07"
     }
   },
@@ -811,7 +811,7 @@
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/cedb57163ec2c05a157f8680a62b59a1.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
       "first_seen": "2026-05-07"
     }
   },
@@ -1802,7 +1802,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
       "first_seen": "2026-07-09"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "カジヒデキ ソロデビュー30周年記念ライブ 第2弾 「カジヒデキ、渋谷系を歌う」",
+      "time": "17:30 / 20:30",
+      "img": "images/b2dd93d6a67220481e8e5757589f4f1a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21605&date=2026-10-01",
+      "first_seen": "2026-07-28"
+    },
     "cotton": null
   },
   {
@@ -2216,7 +2222,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "LEGO BIG MORL 20th Anniversary Acoustic Billboard Live 2026",
+      "time": "15:00 / 18:00",
+      "img": "images/3fb14cc93cce6cdafcf9eaf1739a73aa.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21474&date=2026-10-25",
+      "first_seen": "2026-07-28"
+    },
     "cotton": {
       "artist": "30th anniversary 蘭寿とむ 1st LIVE",
       "time": "1st: 18:00 / 2nd: 20:30",
