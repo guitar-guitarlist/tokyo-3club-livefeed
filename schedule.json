@@ -392,13 +392,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
       "first_seen": "2026-04-23"
     },
-    "billboard": {
-      "artist": "稲垣潤一 コンセプトライブ2026 Focus on the endless chain ～back to the 2001〜",
-      "time": "17:00 / 20:00",
-      "img": "images/8de0400b2aeee074d42e0b677e933426.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-23",
-      "first_seen": "2026-04-25"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "The Boys Trio Returns 19th Anniversary Special Concert at COTTON CLUB Boys (Akira Ishii, Hideaki Kanazawa, Shun Ishiwaka)",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1009,7 +1003,7 @@
       "artist": "山口ちなみ  Keith Jarrett \"The Köln Concert\" Reimagined",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/62f71476a96c66febc550c2cc8613fa4.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chinami-yamaguchi-260821/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-07-22"
     }
   },
@@ -1089,7 +1083,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21524&date=2026-08-25",
       "first_seen": "2026-06-14"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "丸の内寄席 vol.5 落語×JAZZ",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/09c5b56e915874f3ed0b1517fb424583.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marunouchi-vaudeville-show-260825/",
+      "first_seen": "2026-07-29"
+    }
   },
   {
     "date": "2026-08-26T00:00:00.000Z",
@@ -1491,7 +1491,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21560&date=2026-09-14",
       "first_seen": "2026-07-03"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "NAOKO TERAI QUARTET \"The Precious Night 2026\" at COTTON CLUB",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/fa5ef924b46bbe39d81327e382975bd5.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/naoko-terai-260914/",
+      "first_seen": "2026-07-29"
+    }
   },
   {
     "date": "2026-09-15T00:00:00.000Z",
@@ -1509,7 +1515,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21560&date=2026-09-15",
       "first_seen": "2026-07-03"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/2f9d4b1b9bce81b1df0da035bf19986f.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
+      "first_seen": "2026-07-29"
+    }
   },
   {
     "date": "2026-09-16T00:00:00.000Z",
@@ -1693,7 +1705,7 @@
       "artist": "ULYSSES OWENS JR. & GENERATION Y",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/195f6179ec818b780675c1ca25c47c9e.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ulysses-owens-jr-260924/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-16"
     }
   },
@@ -1791,7 +1803,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-29",
       "first_seen": "2026-07-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/cd4428e17c72dd238bca6041bdb51592.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
+      "first_seen": "2026-07-29"
+    }
   },
   {
     "date": "2026-10-01T00:00:00.000Z",
@@ -2246,7 +2264,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "ZARD Acoustic Live 2026 ～Especial moment～",
+      "time": "17:30 / 20:30",
+      "img": "images/d79288ac263c5bbaae9fbec579f59891.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-26",
+      "first_seen": "2026-07-29"
+    },
     "cotton": {
       "artist": "30th anniversary 蘭寿とむ 1st LIVE",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -2264,7 +2288,25 @@
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "ZARD Acoustic Live 2026 ～Especial moment～",
+      "time": "17:30 / 20:30",
+      "img": "images/d79288ac263c5bbaae9fbec579f59891.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-27",
+      "first_seen": "2026-07-29"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-10-28T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "ZARD Acoustic Live 2026 ～Especial moment～",
+      "time": "17:30 / 20:30",
+      "img": "images/d79288ac263c5bbaae9fbec579f59891.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-28",
+      "first_seen": "2026-07-29"
+    },
     "cotton": null
   },
   {
