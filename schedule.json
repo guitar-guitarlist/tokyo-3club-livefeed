@@ -1111,7 +1111,7 @@
       "artist": "村田陽一 ビッグバンド",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/faa9d09eb530b14ae0de1a6d92453191.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yoichi-murata-260826/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
       "first_seen": "2026-07-22"
     }
   },
@@ -1557,7 +1557,13 @@
       "first_seen": "2026-06-04"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "古舘と客人と vol.39 古舘伊知郎 山田洋次",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/bc3719a8ab81b537f7115b76b150a1ab.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260917/",
+      "first_seen": "2026-07-30"
+    }
   },
   {
     "date": "2026-09-18T00:00:00.000Z",
@@ -1741,7 +1747,7 @@
       "artist": "古謝美佐子 with 文楽人形 (勘緑 & 木偶舎) at COTTON CLUB 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/ff78877b86465b051a966213e74bcb76.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/misako-koja-260926/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-22"
     }
   },
@@ -1812,6 +1818,18 @@
     }
   },
   {
+    "date": "2026-09-30T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "WEST ROAD BLUES BAND",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/42bd9cd4e9bf16e188b90f8a71cfba97.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/westroad-bluesband-260930/",
+      "first_seen": "2026-07-30"
+    }
+  },
+  {
     "date": "2026-10-01T00:00:00.000Z",
     "bluenote": {
       "artist": "YELLOWJACKETS",
@@ -1827,7 +1845,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21605&date=2026-10-01",
       "first_seen": "2026-07-28"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "木村充揮 × 奇妙礼太郎 丸の内で大いに歌い、そして叫ぶ",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/ceb82b6981912381c1bae2c9db6ef3f5.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kimura-strange-261001/",
+      "first_seen": "2026-07-30"
+    }
   },
   {
     "date": "2026-10-02T00:00:00.000Z",
@@ -2035,7 +2059,7 @@
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/71e579998878f40c133bb51b18803d01.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
   },
@@ -2059,13 +2083,19 @@
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/71e579998878f40c133bb51b18803d01.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
   },
   {
     "date": "2026-10-15T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "Celebrating the 25th Anniversary of Chihiro Yamanaka’s Debut CHIHIRO YAMANAKA NEW YORK TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/26a3fd8c074ffda6ef260befd7d69684.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
+      "first_seen": "2026-07-30"
+    },
     "billboard": {
       "artist": "Nick Heyward",
       "time": "17:30 / 20:30",
@@ -2077,9 +2107,21 @@
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/71e579998878f40c133bb51b18803d01.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
+  },
+  {
+    "date": "2026-10-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Celebrating the 25th Anniversary of Chihiro Yamanaka’s Debut CHIHIRO YAMANAKA NEW YORK TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/26a3fd8c074ffda6ef260befd7d69684.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
+      "first_seen": "2026-07-30"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2026-10-17T00:00:00.000Z",
@@ -2137,7 +2179,7 @@
       "artist": "MIKI YAMANAKA PIANO TRIO JAPAN TOUR 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/705c82879c24e89e678abd265aba8b20.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miki-yamanaka-261019/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
   },
