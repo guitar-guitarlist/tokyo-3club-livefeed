@@ -1,451 +1,7 @@
 [
   {
-    "date": "2026-07-01T00:00:00.000Z",
-    "bluenote": {
-      "artist": "JOYCE MORENO -O Mar e Mulher-",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/7d0d0cf06fa7ae74940fba654c54245a.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/joyce/",
-      "first_seen": "2026-04-16"
-    },
-    "billboard": null,
-    "cotton": null
-  },
-  {
-    "date": "2026-07-02T00:00:00.000Z",
-    "bluenote": {
-      "artist": "KEIKO MATSUI GROUP",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/95cc8105c78ed52d49492e742f8a82e6.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/keiko-matsui/",
-      "first_seen": "2026-04-09"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "JOYCE MORENO - Celebrating Feminina 45th Anniversary -",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/bb9364f00c4a65b3940e4a11ec8c3a0e.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/joyce-moreno-260702/",
-      "first_seen": "2026-04-16"
-    }
-  },
-  {
-    "date": "2026-07-03T00:00:00.000Z",
-    "bluenote": {
-      "artist": "KEIKO MATSUI GROUP",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/95cc8105c78ed52d49492e742f8a82e6.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/keiko-matsui/",
-      "first_seen": "2026-04-09"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "PRIVATE",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
-      "first_seen": "2026-07-03"
-    }
-  },
-  {
-    "date": "2026-07-04T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Simon Phillips & Protocol 6",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3045bd760d51606e49f504fd86cdbf5d.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "BREAKERZ BIRTHDAY PARTY 2026",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/8d1d108935e2ca3f5f993c739b8f7ce8.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/breakerz-260704/",
-      "first_seen": "2026-03-31"
-    }
-  },
-  {
-    "date": "2026-07-05T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Simon Phillips & Protocol 6",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3045bd760d51606e49f504fd86cdbf5d.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "PRIVATE",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
-      "first_seen": "2026-07-05"
-    }
-  },
-  {
-    "date": "2026-07-06T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Simon Phillips & Protocol 6",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3045bd760d51606e49f504fd86cdbf5d.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/simon-phillips/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "cultra & MELRAW presents「Off the Record」",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/caaf25cda0f9218c67cfab931fcc3b20.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cultra-melraw-260706/",
-      "first_seen": "2026-06-10"
-    }
-  },
-  {
-    "date": "2026-07-07T00:00:00.000Z",
-    "bluenote": {
-      "artist": "SADAO WATANABE  ~BRAZILIAN LOUNGE~",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/9589253eb555d8b0b08b66530515f675.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/sadao-watanabe/",
-      "first_seen": "2026-04-09"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "NakamuraEmi COTTON CLUB 「七夕はここで。～2026～」",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/0fa9ae7c344b1b1e255f2ea7ba6336db.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nakamura-emi-260707/",
-      "first_seen": "2026-05-14"
-    }
-  },
-  {
-    "date": "2026-07-08T00:00:00.000Z",
-    "bluenote": {
-      "artist": "SADAO WATANABE  ~BRAZILIAN LOUNGE~",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/9589253eb555d8b0b08b66530515f675.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/sadao-watanabe/",
-      "first_seen": "2026-04-09"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "PRIVATE",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202607",
-      "first_seen": "2026-07-08"
-    }
-  },
-  {
-    "date": "2026-07-09T00:00:00.000Z",
-    "bluenote": {
-      "artist": "MAMIKO SUZUKI",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/6af02377c597e168b7a3526a0c56fd79.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/mamiko-suzuki/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/4d7e4ff7473e463fe1aaae53120d8653.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/motoharu-sano-260630/",
-      "first_seen": "2026-05-13"
-    }
-  },
-  {
-    "date": "2026-07-10T00:00:00.000Z",
-    "bluenote": {
-      "artist": "JAKE SHIMABUKURO",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/17570b30f976c9753cd71a03542891a1.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
-      "first_seen": "2026-04-02"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "佐野元春 スポークンワーズ・ライブ2026 「In Motion - 空気」",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/4d7e4ff7473e463fe1aaae53120d8653.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/motoharu-sano-260630/",
-      "first_seen": "2026-05-13"
-    }
-  },
-  {
-    "date": "2026-07-11T00:00:00.000Z",
-    "bluenote": {
-      "artist": "JAKE SHIMABUKURO",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/17570b30f976c9753cd71a03542891a1.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
-      "first_seen": "2026-04-02"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/35cf0974dc1afdca3fa141653cc57c74.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/great3-260711/",
-      "first_seen": "2026-05-27"
-    }
-  },
-  {
-    "date": "2026-07-12T00:00:00.000Z",
-    "bluenote": {
-      "artist": "JAKE SHIMABUKURO",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/17570b30f976c9753cd71a03542891a1.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/jake-shimabukuro/",
-      "first_seen": "2026-04-02"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "GREAT3 plays \"METAL LUNCHBOX\"",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/35cf0974dc1afdca3fa141653cc57c74.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/great3-260711/",
-      "first_seen": "2026-05-27"
-    }
-  },
-  {
-    "date": "2026-07-13T00:00:00.000Z",
-    "bluenote": {
-      "artist": "GABRIELLE CAVASSA \"DIAVOLA\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/8802e55ec27574c67e20928831b4936e.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/gabrielle-cavassa/",
-      "first_seen": "2026-05-14"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "WALTER SMITH III TRIO",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/29b7bfdb475b7463d44c4fc21681e7ca.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
-      "first_seen": "2026-05-07"
-    }
-  },
-  {
-    "date": "2026-07-14T00:00:00.000Z",
-    "bluenote": {
-      "artist": "GABRIELLE CAVASSA \"DIAVOLA\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/8802e55ec27574c67e20928831b4936e.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/gabrielle-cavassa/",
-      "first_seen": "2026-05-14"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "WALTER SMITH III TRIO",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/29b7bfdb475b7463d44c4fc21681e7ca.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
-      "first_seen": "2026-05-07"
-    }
-  },
-  {
-    "date": "2026-07-15T00:00:00.000Z",
-    "bluenote": {
-      "artist": "ASAKO TOKI Midsummer Live \"Blue Moon in a Glass\" at BLUE NOTE TOKYO",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/bc529fd805b7cdec970e628b96f80b98.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/asako-toki/",
-      "first_seen": "2026-04-23"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "WALTER SMITH III TRIO",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/29b7bfdb475b7463d44c4fc21681e7ca.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/walter-smith-iii-260713/",
-      "first_seen": "2026-05-07"
-    }
-  },
-  {
-    "date": "2026-07-16T00:00:00.000Z",
-    "bluenote": {
-      "artist": "CANIZARES × ANDRES BARRIOS × GEN OGIMI",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/d58df06982ee829a1cbd58529b670460.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/canizares/",
-      "first_seen": "2026-04-10"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "TOM SKINNER",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/0ca9ee268d44f67a828007cf79da529b.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-skinner-260716/",
-      "first_seen": "2026-05-27"
-    }
-  },
-  {
-    "date": "2026-07-17T00:00:00.000Z",
-    "bluenote": {
-      "artist": "LISA ONO \"Nova Summer Bossa\"  featuring DORA MORELENBAUM",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/cd58032073e75c9331a1948f394e1976.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "TOM SKINNER",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/0ca9ee268d44f67a828007cf79da529b.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tom-skinner-260716/",
-      "first_seen": "2026-05-27"
-    }
-  },
-  {
-    "date": "2026-07-18T00:00:00.000Z",
-    "bluenote": {
-      "artist": "LISA ONO \"Nova Summer Bossa\"  featuring DORA MORELENBAUM",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/cd58032073e75c9331a1948f394e1976.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "広末涼子 Best Day Ever~Crescent River",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/a012f5877894fc630fd2ec0f98cec614.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-260718/",
-      "first_seen": "2026-05-26"
-    }
-  },
-  {
-    "date": "2026-07-19T00:00:00.000Z",
-    "bluenote": {
-      "artist": "LISA ONO \"Nova Summer Bossa\"  featuring DORA MORELENBAUM",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/cd58032073e75c9331a1948f394e1976.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "COTTON CLUB STOMP Harlem After Dark",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/308f00a8338df62353950dfd5eb8c478.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cotton-club-stomp-260719/",
-      "first_seen": "2026-05-21"
-    }
-  },
-  {
-    "date": "2026-07-20T00:00:00.000Z",
-    "bluenote": {
-      "artist": "LISA ONO \"Nova Summer Bossa\"  featuring DORA MORELENBAUM",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/cd58032073e75c9331a1948f394e1976.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/lisa-ono/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "COTTON CLUB STOMP Harlem After Dark",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/308f00a8338df62353950dfd5eb8c478.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cotton-club-stomp-260719/",
-      "first_seen": "2026-05-21"
-    }
-  },
-  {
-    "date": "2026-07-21T00:00:00.000Z",
-    "bluenote": {
-      "artist": "SHINOBU OTAKE",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/c3449c4aa6e8d609efc718a9fdd58d45.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/shinobu-otake/",
-      "first_seen": "2026-03-31"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "ISAIAH J. THOMPSON TRIO",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/302e890007d4d2723bbea36ba6e18a2f.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-j-thompson-260721/",
-      "first_seen": "2026-04-08"
-    }
-  },
-  {
-    "date": "2026-07-22T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": null,
-    "cotton": {
-      "artist": "ISAIAH J. THOMPSON TRIO",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/302e890007d4d2723bbea36ba6e18a2f.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/isaiah-j-thompson-260721/",
-      "first_seen": "2026-04-08"
-    }
-  },
-  {
-    "date": "2026-07-23T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/9d11730e2c3c1033d0ec94c749345083.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
-      "first_seen": "2026-04-23"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "The Boys Trio Returns 19th Anniversary Special Concert at COTTON CLUB Boys (Akira Ishii, Hideaki Kanazawa, Shun Ishiwaka)",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/6b06605c20535585134897dd85d243bb.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/boys-260723/",
-      "first_seen": "2026-05-28"
-    }
-  },
-  {
-    "date": "2026-07-24T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/9d11730e2c3c1033d0ec94c749345083.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
-      "first_seen": "2026-04-23"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "広末涼子 Best Day Ever~Crescent River",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/8e20a52f5fdff10fe5b3e0f124eeda7a.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-260718/",
-      "first_seen": "2026-05-26"
-    }
-  },
-  {
-    "date": "2026-07-25T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/9d11730e2c3c1033d0ec94c749345083.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
-      "first_seen": "2026-04-23"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "広末涼子 Best Day Ever~Crescent River",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/8e20a52f5fdff10fe5b3e0f124eeda7a.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-260718/",
-      "first_seen": "2026-05-26"
-    }
-  },
-  {
     "date": "2026-07-26T00:00:00.000Z",
-    "bluenote": {
-      "artist": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/9d11730e2c3c1033d0ec94c749345083.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
-      "first_seen": "2026-04-23"
-    },
+    "bluenote": null,
     "billboard": {
       "artist": "Chara Sweet Soul Sessions ～Mojo Popcorn Returns～",
       "time": "16:00 / 19:00",
@@ -453,95 +9,11 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-07-26",
       "first_seen": "2026-05-08"
     },
-    "cotton": {
-      "artist": "民謡クルセイダーズ feat. 元ちとせ MINYO IS BACK IN TOWN 2026 New album『日本民謡より愛をこめて / FROM JAPAN WITH LOVE 』Release Live!!",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/8323a304b1f6ab9ad9a4ad9229eecd32.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/minyo-crusaders-260726/",
-      "first_seen": "2026-05-21"
-    }
-  },
-  {
-    "date": "2026-07-27T00:00:00.000Z",
-    "bluenote": {
-      "artist": "MARLENE - Timeless Diva",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/c71a691256fae718c9af2f30555f85ae.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/marlene/",
-      "first_seen": "2026-05-28"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "民謡クルセイダーズ feat. 元ちとせ MINYO IS BACK IN TOWN 2026 New album『日本民謡より愛をこめて / FROM JAPAN WITH LOVE 』Release Live!!",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/8323a304b1f6ab9ad9a4ad9229eecd32.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/minyo-crusaders-260726/",
-      "first_seen": "2026-05-21"
-    }
-  },
-  {
-    "date": "2026-07-28T00:00:00.000Z",
-    "bluenote": {
-      "artist": "COLTRANE 100 with TAKEO MORIYAMA QUARTET",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/1ab82ac616dc6b02a5d3b979aab7b918.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/takeo-moriyama/",
-      "first_seen": "2026-05-28"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "古舘と客人と vol.37 古舘伊知郎 小池栄子",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/25dc81071090963d090f0237f5869a4c.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260728/",
-      "first_seen": "2026-06-04"
-    }
-  },
-  {
-    "date": "2026-07-29T00:00:00.000Z",
-    "bluenote": {
-      "artist": "SHABAKA \"Of The Earth\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/da4641fa36912802c08eaf054ea163df.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/shabaka/",
-      "first_seen": "2026-05-21"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "TAKESHI OHBAYASHI × YOTAM SILBERSTEIN\"The Art of Duo\"",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/09fbb7bf063db73c44a5ea5820a1b023.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ohbayashi-yotam260729/",
-      "first_seen": "2026-06-10"
-    }
-  },
-  {
-    "date": "2026-07-30T00:00:00.000Z",
-    "bluenote": {
-      "artist": "SHABAKA \"Of The Earth\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/da4641fa36912802c08eaf054ea163df.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/shabaka/",
-      "first_seen": "2026-05-21"
-    },
-    "billboard": null,
-    "cotton": {
-      "artist": "BIG HORNS BEE 35th Anniversary Year vol.4 \"Jazz Session\" with COME COME \"Modern\" Jazz Band",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/3e90a146bda13cba81f99e89f1c70789.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/big-horns-bee-260730/",
-      "first_seen": "2026-05-13"
-    }
+    "cotton": null
   },
   {
     "date": "2026-07-31T00:00:00.000Z",
-    "bluenote": {
-      "artist": "SHABAKA \"Of The Earth\"",
-      "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/da4641fa36912802c08eaf054ea163df.jpg",
-      "url": "https://www.bluenote.co.jp/jp/artists/shabaka/",
-      "first_seen": "2026-05-21"
-    },
+    "bluenote": null,
     "billboard": {
       "artist": "稲垣潤一 コンセプトライブ2026 Focus on the endless chain ～back to the 2001〜",
       "time": "17:00 / 20:00",
@@ -549,20 +21,14 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-31",
       "first_seen": "2026-04-28"
     },
-    "cotton": {
-      "artist": "EMI MEYER Wings & Other Stories",
-      "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/a8418ffef65cb019b81ca42aa4964cd6.jpg",
-      "url": "/reserve/schedule/exec/5692",
-      "first_seen": "2026-05-28"
-    }
+    "cotton": null
   },
   {
     "date": "2026-08-01T00:00:00.000Z",
     "bluenote": {
       "artist": "MASATO HONDA B.B.STATION   -Big Band Night-",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/fb88c15b7a167fc9d9abd00e5df423e4.jpg",
+      "img": "images/28cd0c2dedc1635923b471f58cdc2510.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/masato-honda/",
       "first_seen": "2026-05-14"
     },
@@ -576,8 +42,8 @@
     "cotton": {
       "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/3098df74474a4a6270ca0b9e9ed37c8f.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/4dfd9fd59fb4f1c10460c288db024b25.jpg",
+      "url": "/reserve/schedule/exec/5694",
       "first_seen": "2026-06-10"
     }
   },
@@ -586,7 +52,7 @@
     "bluenote": {
       "artist": "MASATO HONDA B.B.STATION   -Big Band Night-",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/fb88c15b7a167fc9d9abd00e5df423e4.jpg",
+      "img": "images/28cd0c2dedc1635923b471f58cdc2510.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/masato-honda/",
       "first_seen": "2026-05-14"
     },
@@ -600,8 +66,8 @@
     "cotton": {
       "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/3098df74474a4a6270ca0b9e9ed37c8f.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/4dfd9fd59fb4f1c10460c288db024b25.jpg",
+      "url": "/reserve/schedule/exec/5694",
       "first_seen": "2026-06-10"
     }
   },
@@ -610,7 +76,7 @@
     "bluenote": {
       "artist": "JUNKO ONISHI  Jazz Orchestra Premiere",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/e533679a23c74b4570567702ea8bc22a.jpg",
+      "img": "images/7db4a7036e67746439058d5549c86888.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/junko-onishi/",
       "first_seen": "2026-04-30"
     },
@@ -618,8 +84,8 @@
     "cotton": {
       "artist": "4ACES",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2ac6a9ee8422c76a4053641670123631.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/9765280e3ddd157450f837061995a36a.jpg",
+      "url": "/reserve/schedule/exec/5697",
       "first_seen": "2026-06-03"
     }
   },
@@ -628,7 +94,7 @@
     "bluenote": {
       "artist": "MARIA SCHNEIDER ORCHESTRA",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ea28a17db85748a06fbdca8bc2053abd.jpg",
+      "img": "images/67aa240a21ec4cf5be9384ec03d2ab1b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/maria-schneider/",
       "first_seen": "2026-04-30"
     },
@@ -640,7 +106,7 @@
     "bluenote": {
       "artist": "MARIA SCHNEIDER ORCHESTRA",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ea28a17db85748a06fbdca8bc2053abd.jpg",
+      "img": "images/67aa240a21ec4cf5be9384ec03d2ab1b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/maria-schneider/",
       "first_seen": "2026-04-30"
     },
@@ -648,8 +114,8 @@
     "cotton": {
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/9dd78a027223054d03e61354e4e0a1c2.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "img": "images/c8ac0bd4ee2ba311cabcb7a01c5ae5b1.jpg",
+      "url": "/reserve/schedule/exec/5667",
       "first_seen": "2026-05-07"
     }
   },
@@ -658,7 +124,7 @@
     "bluenote": {
       "artist": "MARIA SCHNEIDER ORCHESTRA",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ea28a17db85748a06fbdca8bc2053abd.jpg",
+      "img": "images/67aa240a21ec4cf5be9384ec03d2ab1b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/maria-schneider/",
       "first_seen": "2026-04-30"
     },
@@ -672,8 +138,8 @@
     "cotton": {
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/9dd78a027223054d03e61354e4e0a1c2.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "img": "images/c8ac0bd4ee2ba311cabcb7a01c5ae5b1.jpg",
+      "url": "/reserve/schedule/exec/5667",
       "first_seen": "2026-05-07"
     }
   },
@@ -682,7 +148,7 @@
     "bluenote": {
       "artist": "MARIA SCHNEIDER ORCHESTRA",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ea28a17db85748a06fbdca8bc2053abd.jpg",
+      "img": "images/67aa240a21ec4cf5be9384ec03d2ab1b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/maria-schneider/",
       "first_seen": "2026-04-30"
     },
@@ -690,8 +156,8 @@
     "cotton": {
       "artist": "SULLIVAN FORTNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/9dd78a027223054d03e61354e4e0a1c2.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sullivan-fortner-260805/",
+      "img": "images/c8ac0bd4ee2ba311cabcb7a01c5ae5b1.jpg",
+      "url": "/reserve/schedule/exec/5667",
       "first_seen": "2026-05-07"
     }
   },
@@ -700,7 +166,7 @@
     "bluenote": {
       "artist": "MARIA SCHNEIDER ORCHESTRA",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ea28a17db85748a06fbdca8bc2053abd.jpg",
+      "img": "images/67aa240a21ec4cf5be9384ec03d2ab1b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/maria-schneider/",
       "first_seen": "2026-04-30"
     },
@@ -708,8 +174,8 @@
     "cotton": {
       "artist": "岩崎宏美 アコースティックライブ 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/1011459c323647ef6d447fc322f9b590.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/e5928d93eada05921448234ffaafca78.jpg",
+      "url": "/reserve/schedule/exec/5684",
       "first_seen": "2026-05-21"
     }
   },
@@ -718,7 +184,7 @@
     "bluenote": {
       "artist": "SUMMER JAZZ CAMP ALL STARS",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/fcfeae4daf0a17eb74b7c6498d457d6b.jpg",
+      "img": "images/dfac54fbfc2ce4900fc5bf0c24005cde.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/summer-jazz-camp-all-stars/",
       "first_seen": "2026-04-30"
     },
@@ -732,8 +198,8 @@
     "cotton": {
       "artist": "岩崎宏美・岩崎良美 ジョイント公演 「IWASAKI SISTERS Live」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/f911803c28378516a947b81aecc4d44b.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/38eec0d8b55bcdc5af4010ab154a50e0.jpg",
+      "url": "/reserve/schedule/exec/5685",
       "first_seen": "2026-05-21"
     }
   },
@@ -742,7 +208,7 @@
     "bluenote": {
       "artist": "JAZZANOVA Live feat. Wayne Snow & Clara Hill",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/7e33d1a9cebca28b2fe4b07f1bffee46.jpg",
+      "img": "images/d46caf5dd60a56199ff61c84c34ba60a.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/jazzanova/",
       "first_seen": "2026-04-30"
     },
@@ -756,8 +222,8 @@
     "cotton": {
       "artist": "ACO 30th ANNIVERSARY LIVE 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/9be951bbe55d633b9263990e14a6aa95.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aco-260810/",
+      "img": "images/1ba90c0b3e740f7ba4943d43220ab1f5.jpg",
+      "url": "/reserve/schedule/exec/5644",
       "first_seen": "2026-04-30"
     }
   },
@@ -766,7 +232,7 @@
     "bluenote": {
       "artist": "JAZZANOVA Live feat. Wayne Snow & Clara Hill",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/7e33d1a9cebca28b2fe4b07f1bffee46.jpg",
+      "img": "images/d46caf5dd60a56199ff61c84c34ba60a.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/jazzanova/",
       "first_seen": "2026-04-30"
     },
@@ -780,8 +246,8 @@
     "cotton": {
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/d2dfeb3db5e7fd5b4a48c66bcb00f5d6.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
+      "img": "images/500f116279a4dd1b4e59dc5795a2d793.jpg",
+      "url": "/reserve/schedule/exec/5666",
       "first_seen": "2026-05-07"
     }
   },
@@ -790,7 +256,7 @@
     "bluenote": {
       "artist": "TOSHIKI KADOMATSU 45th Anniversary Live in Blue Note Tokyo",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/c18cd59fc56d00b9c5e316c0ce1efd8c.jpg",
+      "img": "images/de512dc494300283c367ac938c87dc6a.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/toshiki-kadomatsu/",
       "first_seen": "2026-07-02"
     },
@@ -804,8 +270,8 @@
     "cotton": {
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/d2dfeb3db5e7fd5b4a48c66bcb00f5d6.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martin-taylor-260811/",
+      "img": "images/500f116279a4dd1b4e59dc5795a2d793.jpg",
+      "url": "/reserve/schedule/exec/5666",
       "first_seen": "2026-05-07"
     }
   },
@@ -814,7 +280,7 @@
     "bluenote": {
       "artist": "TOSHIKI KADOMATSU 45th Anniversary Live in Blue Note Tokyo",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/c18cd59fc56d00b9c5e316c0ce1efd8c.jpg",
+      "img": "images/de512dc494300283c367ac938c87dc6a.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/toshiki-kadomatsu/",
       "first_seen": "2026-07-02"
     },
@@ -828,8 +294,8 @@
     "cotton": {
       "artist": "PETER ERSKINE \"Dr. Um\" -Steps Into The Weather- featuring MIKE MAINIERI with JOHN BEASLEY, BOB SHEPPARD & MATTHEW GARRISON",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/5cc553b9d6278428df70c3f806ff24cb.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/1c80bf6e136f9931df4be78ee21602c2.jpg",
+      "url": "/reserve/schedule/exec/5632",
       "first_seen": "2026-04-30"
     }
   },
@@ -838,7 +304,7 @@
     "bluenote": {
       "artist": "PETER ERSKINE \"Dr. Um\" -Steps Into The Weather- featuring MIKE MAINIERI with JOHN BEASLEY, BOB SHEPPARD & MATTHEW GARRISON",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/65d46def864ccde42bc8ff607f9478f3.jpg",
+      "img": "images/3bff4db81ec4817944dcc204d42210eb.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/matthew-garrison/",
       "first_seen": "2026-04-30"
     },
@@ -852,8 +318,8 @@
     "cotton": {
       "artist": "古舘と客人と vol.38 古舘伊知郎 中田敦彦",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/9058c32aa31b585768ab3819f41b420a.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/7e58c7c686bdbb88e3b6cf92960b1e2b.jpg",
+      "url": "/reserve/schedule/exec/5706",
       "first_seen": "2026-07-01"
     }
   },
@@ -862,7 +328,7 @@
     "bluenote": {
       "artist": "PETER ERSKINE \"Dr. Um\" -Steps Into The Weather- featuring MIKE MAINIERI with JOHN BEASLEY, BOB SHEPPARD & MATTHEW GARRISON",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/65d46def864ccde42bc8ff607f9478f3.jpg",
+      "img": "images/3bff4db81ec4817944dcc204d42210eb.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/matthew-garrison/",
       "first_seen": "2026-04-30"
     },
@@ -876,8 +342,8 @@
     "cotton": {
       "artist": "THE CHARM PARKSecond Nature Tour 2026 in TOKYO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/8907364d4001ff6072ab7f3567b58cc9.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/8ebab9e7eb181b0801417feac035ae95.jpg",
+      "url": "/reserve/schedule/exec/5701",
       "first_seen": "2026-06-17"
     }
   },
@@ -886,7 +352,7 @@
     "bluenote": {
       "artist": "PETER ERSKINE \"Dr. Um\" -Steps Into The Weather- featuring MIKE MAINIERI with JOHN BEASLEY, BOB SHEPPARD & MATTHEW GARRISON",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/65d46def864ccde42bc8ff607f9478f3.jpg",
+      "img": "images/3bff4db81ec4817944dcc204d42210eb.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/matthew-garrison/",
       "first_seen": "2026-04-30"
     },
@@ -900,8 +366,8 @@
     "cotton": {
       "artist": "LAKECIA BENJAMIN",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/1e25e38daaff141e99458bfc185269a0.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/a99ec519f42a5e5ebdbfff664a5c1b0e.jpg",
+      "url": "/reserve/schedule/exec/5676",
       "first_seen": "2026-05-13"
     }
   },
@@ -910,7 +376,7 @@
     "bluenote": {
       "artist": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guests PETER ERSKINE & MIKE MAINIERI",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/59303568b14e73da7e5b9ed805f91043.jpg",
+      "img": "images/9942ce46bbb63df72bf3cd837572ec60.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/eric-miyashiro/",
       "first_seen": "2026-05-07"
     },
@@ -918,8 +384,8 @@
     "cotton": {
       "artist": "LAKECIA BENJAMIN",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/1e25e38daaff141e99458bfc185269a0.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/a99ec519f42a5e5ebdbfff664a5c1b0e.jpg",
+      "url": "/reserve/schedule/exec/5676",
       "first_seen": "2026-05-13"
     }
   },
@@ -936,8 +402,8 @@
     "cotton": {
       "artist": "平倉初音 4th Album \"The Silent Mask\" 発売記念ライヴ",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/c13dc51bac9239bee445ed528e34fbf3.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/b453928a52819288f9fbfd1f46fb1e44.jpg",
+      "url": "/reserve/schedule/exec/5695",
       "first_seen": "2026-06-02"
     }
   },
@@ -946,7 +412,7 @@
     "bluenote": {
       "artist": "CARLOS KANNO sings with TROPICAL JAZZ BIG BAND",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/67bfdd3b800fb85e1cdcf580ac78fe46.jpg",
+      "img": "images/2034571d23dad890d22c787e780d2603.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/carlos-kanno/",
       "first_seen": "2026-05-14"
     },
@@ -954,8 +420,8 @@
     "cotton": {
       "artist": "NICOLE ZURAITIS QUARTET",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/6a029d88bb1f466440d07c92d8a76d4b.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/8073432019a461d1c694586ba27076d4.jpg",
+      "url": "/reserve/schedule/exec/5678",
       "first_seen": "2026-05-14"
     }
   },
@@ -964,7 +430,7 @@
     "bluenote": {
       "artist": "fox capture plan RE:FRAME -15th Anniversary- Vol.02 Day 01 : String Ensemble",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/d0f0d583928ff955f6a966ae2cb4f87c.jpg",
+      "img": "images/957c0125c241bd7e437acd1ac2fe2d11.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/fox-capture-plan/",
       "first_seen": "2026-05-28"
     },
@@ -978,8 +444,8 @@
     "cotton": {
       "artist": "NICOLE ZURAITIS QUARTET",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/6a029d88bb1f466440d07c92d8a76d4b.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/8073432019a461d1c694586ba27076d4.jpg",
+      "url": "/reserve/schedule/exec/5678",
       "first_seen": "2026-05-14"
     }
   },
@@ -988,7 +454,7 @@
     "bluenote": {
       "artist": "AKIKO YANO TRIO featuring WILL LEE & CHRIS PARKER",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3e757ce16805e8d9de2a177e64d416f1.jpg",
+      "img": "images/89f08d9da2d43583374b7e46c61b695b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
@@ -1002,8 +468,8 @@
     "cotton": {
       "artist": "山口ちなみ  Keith Jarrett \"The Köln Concert\" Reimagined",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/177d2e7699cca9836546a13be8d4ee35.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/a1fc78fa7758f38c08e6ce0bec57de0a.jpg",
+      "url": "/reserve/schedule/exec/5714",
       "first_seen": "2026-07-22"
     }
   },
@@ -1012,7 +478,7 @@
     "bluenote": {
       "artist": "YOSHIKO KISHINO Special Quintet  -Live @ Blue Note Tokyo-",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5230f56ae6f687006e98dd01a9f1f90a.jpg",
+      "img": "images/f4eee8af0d9ed55020b87a9f66cc90ce.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/yoshiko-kishino/",
       "first_seen": "2026-04-30"
     },
@@ -1020,8 +486,8 @@
     "cotton": {
       "artist": "米倉利紀 sTYle72 standard. 2026 -coffee BREAK",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b545a683c8fa248349bd8a57196974f2.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/4cce7cb7d64739a9e2ede751af7529d8.jpg",
+      "url": "/reserve/schedule/exec/5711",
       "first_seen": "2026-07-08"
     }
   },
@@ -1030,7 +496,7 @@
     "bluenote": {
       "artist": "AKIKO YANO TRIO featuring WILL LEE & CHRIS PARKER",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/302e2e9aea53a82f9cb92d1887a74ecc.jpg",
+      "img": "images/6ad1d5dc75cc36d555983a86b3637ac3.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
@@ -1038,8 +504,8 @@
     "cotton": {
       "artist": "米倉利紀 sTYle72 standard. 2026 -coffee BREAK",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b545a683c8fa248349bd8a57196974f2.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/4cce7cb7d64739a9e2ede751af7529d8.jpg",
+      "url": "/reserve/schedule/exec/5711",
       "first_seen": "2026-07-08"
     }
   },
@@ -1048,7 +514,7 @@
     "bluenote": {
       "artist": "AKIKO YANO TRIO featuring WILL LEE & CHRIS PARKER",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/302e2e9aea53a82f9cb92d1887a74ecc.jpg",
+      "img": "images/6ad1d5dc75cc36d555983a86b3637ac3.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
@@ -1062,8 +528,8 @@
     "cotton": {
       "artist": "AI FURUSATO meets MASATO HONDA",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/7e9c98df041cc464dfe5fe21ee9c4087.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/23c063c6e9992ff099cc726a35f9d2f4.jpg",
+      "url": "/reserve/schedule/exec/5696",
       "first_seen": "2026-06-03"
     }
   },
@@ -1072,7 +538,7 @@
     "bluenote": {
       "artist": "MONDAY MICHIRU  Special Summer Live 2026",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/537567953690d86c27781464906aa380.jpg",
+      "img": "images/792ca39d71591e5c7ae3de19ec33b02c.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/monday-michiru/",
       "first_seen": "2026-05-21"
     },
@@ -1086,7 +552,7 @@
     "cotton": {
       "artist": "丸の内寄席 vol.5 落語×JAZZ",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/4f7119a149f09ea6d7c6abbc6c87c568.jpg",
+      "img": "images/79c344638ac968a8426eb35cba5296bc.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marunouchi-vaudeville-show-260825/",
       "first_seen": "2026-07-29"
     }
@@ -1096,7 +562,7 @@
     "bluenote": {
       "artist": "AKIKO YANO TRIO featuring WILL LEE & CHRIS PARKER",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/86ed1af393e7737afce3b9748a144847.jpg",
+      "img": "images/ab6b6594ec5d689550567e93273e9fa9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
@@ -1110,8 +576,8 @@
     "cotton": {
       "artist": "村田陽一 ビッグバンド",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2d739e22149a16ce504c4937372746d0.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/483760c8039b0785d679c940eaabed21.jpg",
+      "url": "/reserve/schedule/exec/5721",
       "first_seen": "2026-07-22"
     }
   },
@@ -1120,7 +586,7 @@
     "bluenote": {
       "artist": "AKIKO YANO TRIO featuring WILL LEE & CHRIS PARKER",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/86ed1af393e7737afce3b9748a144847.jpg",
+      "img": "images/ab6b6594ec5d689550567e93273e9fa9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
@@ -1132,7 +598,7 @@
     "bluenote": {
       "artist": "AYATAKE EZAKI with guest KEI MATSUMARU 2026 Japan Tour - Tokyo",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/b599e4f13eccceffac75d3f6ec3161ef.jpg",
+      "img": "images/851afabb3e3dc48a78fecd96ed0d5cba.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/ayatake-ezaki/",
       "first_seen": "2026-06-20"
     },
@@ -1146,8 +612,8 @@
     "cotton": {
       "artist": "小比類巻かほる Kohhy6",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/df9894eecb666086ff88409ef51240e4.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/ca1bfd31589ef9f1b7d35ed415c1b757.jpg",
+      "url": "/reserve/schedule/exec/5664",
       "first_seen": "2026-05-06"
     }
   },
@@ -1156,7 +622,7 @@
     "bluenote": {
       "artist": "AYATAKE EZAKI with guest KEI MATSUMARU 2026 Japan Tour - Tokyo",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/b599e4f13eccceffac75d3f6ec3161ef.jpg",
+      "img": "images/851afabb3e3dc48a78fecd96ed0d5cba.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/ayatake-ezaki/",
       "first_seen": "2026-06-20"
     },
@@ -1164,8 +630,8 @@
     "cotton": {
       "artist": "小比類巻かほる Kohhy6",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/df9894eecb666086ff88409ef51240e4.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/ca1bfd31589ef9f1b7d35ed415c1b757.jpg",
+      "url": "/reserve/schedule/exec/5664",
       "first_seen": "2026-05-06"
     }
   },
@@ -1174,7 +640,7 @@
     "bluenote": {
       "artist": "MARY HALVORSON’s AMARYLLIS SEXTET",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/45b9e2315258bac7c9b66e76bd5442ed.jpg",
+      "img": "images/d91e98c308b253578992ab229ff36ac7.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/mary-halvorson/",
       "first_seen": "2026-04-30"
     },
@@ -1188,8 +654,8 @@
     "cotton": {
       "artist": "音月桂LIVE CONCERT “KEI” vol.1",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/f392c2d56fd2844f35520bd8ba49287a.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202608",
+      "img": "images/c80d62a311dce4c1231751d19e9d009e.jpg",
+      "url": "/reserve/schedule/exec/5702",
       "first_seen": "2026-06-17"
     }
   },
@@ -1198,7 +664,7 @@
     "bluenote": {
       "artist": "MARY HALVORSON’s AMARYLLIS SEXTET",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/45b9e2315258bac7c9b66e76bd5442ed.jpg",
+      "img": "images/d91e98c308b253578992ab229ff36ac7.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/mary-halvorson/",
       "first_seen": "2026-04-30"
     },
@@ -1206,8 +672,8 @@
     "cotton": {
       "artist": "西村ケント",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/0017f6f3f13af066ba4bc8753d243671.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kent-nishimura-260831/",
+      "img": "images/4bb1e4aeccc5bb90d0885d8babfb3e53.jpg",
+      "url": "/reserve/schedule/exec/5723",
       "first_seen": "2026-07-23"
     }
   },
@@ -1216,7 +682,7 @@
     "bluenote": {
       "artist": "MIKE STERN BAND  featuring DENNIS CHAMBERS, RANDY BRECKER, LENI STERN & LINCOLN GOINES",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/475b35c625145106a8ed79776ba6d5d4.jpg",
+      "img": "images/8e57dae2e370c642885579f7b7df4a2b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/dennis-chambers/",
       "first_seen": "2026-05-31"
     },
@@ -1228,7 +694,7 @@
     "bluenote": {
       "artist": "MIKE STERN BAND  featuring DENNIS CHAMBERS, RANDY BRECKER, LENI STERN & LINCOLN GOINES",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/475b35c625145106a8ed79776ba6d5d4.jpg",
+      "img": "images/8e57dae2e370c642885579f7b7df4a2b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/dennis-chambers/",
       "first_seen": "2026-05-31"
     },
@@ -1240,7 +706,7 @@
     "bluenote": {
       "artist": "MIKE STERN BAND  featuring DENNIS CHAMBERS, RANDY BRECKER, LENI STERN & LINCOLN GOINES",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/475b35c625145106a8ed79776ba6d5d4.jpg",
+      "img": "images/8e57dae2e370c642885579f7b7df4a2b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/dennis-chambers/",
       "first_seen": "2026-05-31"
     },
@@ -1258,7 +724,7 @@
     "bluenote": {
       "artist": "MIKE STERN BAND  featuring DENNIS CHAMBERS, RANDY BRECKER, LENI STERN & LINCOLN GOINES",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/475b35c625145106a8ed79776ba6d5d4.jpg",
+      "img": "images/8e57dae2e370c642885579f7b7df4a2b.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/dennis-chambers/",
       "first_seen": "2026-05-31"
     },
@@ -1272,7 +738,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b7fe7469aec3bd6c3b56839a2d03efae.jpg",
+      "img": "images/11455ae1c78788f4de7d4a50510212f1.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1282,7 +748,7 @@
     "bluenote": {
       "artist": "BILL LAURANCE TRIO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/a6d379525a17badad9c227c7d1c45c0d.jpg",
+      "img": "images/9f8e03a83f9ff53ed915fae58c9357c9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/bill-laurance/",
       "first_seen": "2026-06-04"
     },
@@ -1296,7 +762,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b7fe7469aec3bd6c3b56839a2d03efae.jpg",
+      "img": "images/11455ae1c78788f4de7d4a50510212f1.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1306,7 +772,7 @@
     "bluenote": {
       "artist": "BILL LAURANCE TRIO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/a6d379525a17badad9c227c7d1c45c0d.jpg",
+      "img": "images/9f8e03a83f9ff53ed915fae58c9357c9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/bill-laurance/",
       "first_seen": "2026-06-04"
     },
@@ -1320,7 +786,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b7fe7469aec3bd6c3b56839a2d03efae.jpg",
+      "img": "images/11455ae1c78788f4de7d4a50510212f1.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1330,7 +796,7 @@
     "bluenote": {
       "artist": "THE RESIDENTS：ESKIMO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3a9fed773e5389bde912ed6a36e04ca1.jpg",
+      "img": "images/9431d08bc96f5b4bde930fb1785e1834.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/the-residents/",
       "first_seen": "2026-06-18"
     },
@@ -1344,7 +810,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b7fe7469aec3bd6c3b56839a2d03efae.jpg",
+      "img": "images/11455ae1c78788f4de7d4a50510212f1.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1354,7 +820,7 @@
     "bluenote": {
       "artist": "THE RESIDENTS：ESKIMO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3a9fed773e5389bde912ed6a36e04ca1.jpg",
+      "img": "images/9431d08bc96f5b4bde930fb1785e1834.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/the-residents/",
       "first_seen": "2026-06-18"
     },
@@ -1366,7 +832,7 @@
     "bluenote": {
       "artist": "THE RESIDENTS：ESKIMO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/3a9fed773e5389bde912ed6a36e04ca1.jpg",
+      "img": "images/9431d08bc96f5b4bde930fb1785e1834.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/the-residents/",
       "first_seen": "2026-06-18"
     },
@@ -1374,7 +840,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2c4369d248e352f799288ef46d0a6a43.jpg",
+      "img": "images/fcf6bc0206012b7b858faf5de6f32169.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1384,7 +850,7 @@
     "bluenote": {
       "artist": "TILL BRONNER \"ITALIA\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5dc68735cf25ead8e0601da69e59c935.jpg",
+      "img": "images/adaf666de6165c6382de62081e81dae3.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
       "first_seen": "2026-06-18"
     },
@@ -1398,7 +864,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2c4369d248e352f799288ef46d0a6a43.jpg",
+      "img": "images/fcf6bc0206012b7b858faf5de6f32169.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1408,7 +874,7 @@
     "bluenote": {
       "artist": "TILL BRONNER \"ITALIA\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5dc68735cf25ead8e0601da69e59c935.jpg",
+      "img": "images/adaf666de6165c6382de62081e81dae3.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
       "first_seen": "2026-06-18"
     },
@@ -1422,7 +888,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2c4369d248e352f799288ef46d0a6a43.jpg",
+      "img": "images/fcf6bc0206012b7b858faf5de6f32169.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1432,7 +898,7 @@
     "bluenote": {
       "artist": "TILL BRONNER \"ITALIA\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5dc68735cf25ead8e0601da69e59c935.jpg",
+      "img": "images/adaf666de6165c6382de62081e81dae3.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
       "first_seen": "2026-06-18"
     },
@@ -1446,7 +912,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2c4369d248e352f799288ef46d0a6a43.jpg",
+      "img": "images/fcf6bc0206012b7b858faf5de6f32169.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1456,7 +922,7 @@
     "bluenote": {
       "artist": "TILL BRONNER \"ITALIA\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5dc68735cf25ead8e0601da69e59c935.jpg",
+      "img": "images/adaf666de6165c6382de62081e81dae3.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/till-bronner/",
       "first_seen": "2026-06-18"
     },
@@ -1470,7 +936,7 @@
     "cotton": {
       "artist": "コントと音楽 vol.7「今宵、丸の内で」",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2c4369d248e352f799288ef46d0a6a43.jpg",
+      "img": "images/fcf6bc0206012b7b858faf5de6f32169.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-05-31"
     }
@@ -1480,7 +946,7 @@
     "bluenote": {
       "artist": "aron! \"Too Close For Running\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/22ea95f8ea04e665f982d50144d38196.jpg",
+      "img": "images/0857a1f3d43241c6fa9ed96361e72662.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/aron/",
       "first_seen": "2026-07-10"
     },
@@ -1494,7 +960,7 @@
     "cotton": {
       "artist": "NAOKO TERAI QUARTET \"The Precious Night 2026\" at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/d9762b1f961d5b0779aa8f04b0c6b8d4.jpg",
+      "img": "images/56e19f4cb208b7931cadfcfa2436e442.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/naoko-terai-260914/",
       "first_seen": "2026-07-29"
     }
@@ -1504,7 +970,7 @@
     "bluenote": {
       "artist": "aron! \"Too Close For Running\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/22ea95f8ea04e665f982d50144d38196.jpg",
+      "img": "images/0857a1f3d43241c6fa9ed96361e72662.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/aron/",
       "first_seen": "2026-07-10"
     },
@@ -1518,7 +984,7 @@
     "cotton": {
       "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/5819adc1afee41178abebc1c5f382747.jpg",
+      "img": "images/a023048258ad9b662d86c5c875b9b78a.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
       "first_seen": "2026-07-29"
     }
@@ -1528,7 +994,7 @@
     "bluenote": {
       "artist": "CHRISTIAN McBRIDE & URSA MAJOR",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/0e2b68a66b21843970393d226c16c8bc.jpg",
+      "img": "images/45568138557ad4acec28ac46936a5e39.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
       "first_seen": "2026-06-04"
     },
@@ -1542,7 +1008,7 @@
     "cotton": {
       "artist": "LIVE＠マキタスポーツ ～マキタスポーツ×タブレット純～",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/d617f84bd48cab84aeead0d7bcde91a2.jpg",
+      "img": "images/62438410fa64020ae03d3a81618716d5.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-18"
     }
@@ -1552,7 +1018,7 @@
     "bluenote": {
       "artist": "CHRISTIAN McBRIDE & URSA MAJOR",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/0e2b68a66b21843970393d226c16c8bc.jpg",
+      "img": "images/45568138557ad4acec28ac46936a5e39.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
       "first_seen": "2026-06-04"
     },
@@ -1560,7 +1026,7 @@
     "cotton": {
       "artist": "古舘と客人と vol.39 古舘伊知郎 山田洋次",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/e76f8e2c2fdfaf582363e85dd63fc395.jpg",
+      "img": "images/247877fc98d5a2b15009b260727bba56.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260917/",
       "first_seen": "2026-07-30"
     }
@@ -1570,7 +1036,7 @@
     "bluenote": {
       "artist": "CHRISTIAN McBRIDE & URSA MAJOR",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/0e2b68a66b21843970393d226c16c8bc.jpg",
+      "img": "images/45568138557ad4acec28ac46936a5e39.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/christian-mcbride/",
       "first_seen": "2026-06-04"
     },
@@ -1588,7 +1054,7 @@
     "bluenote": {
       "artist": "Chara Anniversary Countdown Live!! \"1991 to 2026\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/baadcf1f5e742761dfc34b318959297b.jpg",
+      "img": "images/fdf66e39bd1c043ef1e12e279888eff7.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chara/",
       "first_seen": "2026-07-16"
     },
@@ -1602,7 +1068,7 @@
     "cotton": {
       "artist": "JAHARI STAMPLEY : SOUL FAMILYfeaturing TAISHI KUBOTA / SENRI KAWAGUCHI",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b28fa00deed8de697b59cb8afba4fd5b.jpg",
+      "img": "images/e182e88d4c86f840a03a7a385697e33c.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-08"
     }
@@ -1612,7 +1078,7 @@
     "bluenote": {
       "artist": "Chara Anniversary Countdown Live!! \"1991 to 2026\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/baadcf1f5e742761dfc34b318959297b.jpg",
+      "img": "images/fdf66e39bd1c043ef1e12e279888eff7.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chara/",
       "first_seen": "2026-07-16"
     },
@@ -1626,7 +1092,7 @@
     "cotton": {
       "artist": "JAHARI STAMPLEY : SOUL FAMILYfeaturing TAISHI KUBOTA / SENRI KAWAGUCHI",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/b28fa00deed8de697b59cb8afba4fd5b.jpg",
+      "img": "images/e182e88d4c86f840a03a7a385697e33c.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-08"
     }
@@ -1636,7 +1102,7 @@
     "bluenote": {
       "artist": "THE MILES DAVIS CENTENNIAL CELEBRATION  with THE MILES ELECTRIC BAND",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ff8a97e3e7e46dd136c4ff7526f23f94.jpg",
+      "img": "images/093497c9ba85576ae4b9541bb537bedd.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
       "first_seen": "2026-07-16"
     },
@@ -1650,7 +1116,7 @@
     "cotton": {
       "artist": "櫻井哲夫 JACO PASTORIUS TRIBUTE SESSION",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/e36a2103045bb784e73d97156e536730.jpg",
+      "img": "images/3bdab2de259df1c38fa341a62fbd14d5.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-06-10"
     }
@@ -1660,7 +1126,7 @@
     "bluenote": {
       "artist": "THE MILES DAVIS CENTENNIAL CELEBRATION  with THE MILES ELECTRIC BAND",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ff8a97e3e7e46dd136c4ff7526f23f94.jpg",
+      "img": "images/093497c9ba85576ae4b9541bb537bedd.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
       "first_seen": "2026-07-16"
     },
@@ -1678,7 +1144,7 @@
     "bluenote": {
       "artist": "THE MILES DAVIS CENTENNIAL CELEBRATION  with THE MILES ELECTRIC BAND",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/ff8a97e3e7e46dd136c4ff7526f23f94.jpg",
+      "img": "images/093497c9ba85576ae4b9541bb537bedd.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
       "first_seen": "2026-07-16"
     },
@@ -1696,7 +1162,7 @@
     "bluenote": {
       "artist": "SEPTETO SANTIAGUERO Vivela! Salsa Tour 2026",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/38a5f12508d8d77a19aba235ceaa8ddb.jpg",
+      "img": "images/4e148f703603d54b1f54f7efc2442983.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/septeto-santiaguero/",
       "first_seen": "2026-05-31"
     },
@@ -1710,7 +1176,7 @@
     "cotton": {
       "artist": "ULYSSES OWENS JR. & GENERATION Y",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/30a5994df471dd2e22c58be7cd95634d.jpg",
+      "img": "images/0c32471f35fce893b1c740c047c7fb43.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-16"
     }
@@ -1720,7 +1186,7 @@
     "bluenote": {
       "artist": "ULYSSES OWENS JR. & GENERATION Y",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/6e44eb9e8242b6ff82f1f7331c6f7fbe.jpg",
+      "img": "images/b69d22d3c165ee3c07950a93b8ef9e32.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/ulysses-owens-jr/",
       "first_seen": "2026-07-16"
     },
@@ -1738,7 +1204,7 @@
     "bluenote": {
       "artist": "ULYSSES OWENS JR. & GENERATION Y",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/6e44eb9e8242b6ff82f1f7331c6f7fbe.jpg",
+      "img": "images/b69d22d3c165ee3c07950a93b8ef9e32.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/ulysses-owens-jr/",
       "first_seen": "2026-07-16"
     },
@@ -1746,7 +1212,7 @@
     "cotton": {
       "artist": "古謝美佐子 with 文楽人形 (勘緑 & 木偶舎) at COTTON CLUB 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/e9fc1aae4532d9aac531b6d4bc75a7d6.jpg",
+      "img": "images/283adc847ec3161109d61186e006cf78.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-22"
     }
@@ -1756,7 +1222,7 @@
     "bluenote": {
       "artist": "ANDREA MOTIS Guitar Trio \"Intimate\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5c53963e5d554ac42defee9ccb37647c.jpg",
+      "img": "images/a3a2bf11b0908faa31719914985d7815.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/andrea-motis/",
       "first_seen": "2026-05-31"
     },
@@ -1770,7 +1236,7 @@
     "cotton": {
       "artist": "KIYOSHI MAEKAWA LIVE2026BEYOND ～その先へ～",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/205368165bdb63461e0af74da112843c.jpg",
+      "img": "images/d79e5bcf286f986c432555a6ddfdbc1c.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-06-19"
     }
@@ -1780,7 +1246,7 @@
     "bluenote": {
       "artist": "ANDREA MOTIS Guitar Trio \"Intimate\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/5c53963e5d554ac42defee9ccb37647c.jpg",
+      "img": "images/a3a2bf11b0908faa31719914985d7815.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/andrea-motis/",
       "first_seen": "2026-05-31"
     },
@@ -1798,7 +1264,7 @@
     "bluenote": {
       "artist": "JHARIS YOKLEY + BIGYUKI",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/e85254b26299249ca3526c5d089da08c.jpg",
+      "img": "images/eddd7c687aa758c838c73118d49330ac.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/jharis-yokley/",
       "first_seen": "2026-06-18"
     },
@@ -1812,7 +1278,7 @@
     "cotton": {
       "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/5681ded0f9a82d9a92ae19ee29d0899f.jpg",
+      "img": "images/17ce7babc713504866ec35d2b60a9f4d.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
       "first_seen": "2026-07-29"
     }
@@ -1824,7 +1290,7 @@
     "cotton": {
       "artist": "WEST ROAD BLUES BAND",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2fed2b80313e512a5e9a27b86eefcf88.jpg",
+      "img": "images/2a328686e94643a63e4d1ca33f2495d0.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/westroad-bluesband-260930/",
       "first_seen": "2026-07-30"
     }
@@ -1834,7 +1300,7 @@
     "bluenote": {
       "artist": "YELLOWJACKETS",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/01636dbd9fdd16a9508975dd1fd45184.jpg",
+      "img": "images/4d1a008eef3198e73b2f2b26a6e8231d.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
       "first_seen": "2026-07-09"
     },
@@ -1848,7 +1314,7 @@
     "cotton": {
       "artist": "木村充揮 × 奇妙礼太郎 丸の内で大いに歌い、そして叫ぶ",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/665b6893657de698743ee255e3253464.jpg",
+      "img": "images/61d3b12017aad82258694da7f62a86bf.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kimura-strange-261001/",
       "first_seen": "2026-07-30"
     }
@@ -1858,7 +1324,7 @@
     "bluenote": {
       "artist": "YELLOWJACKETS",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/01636dbd9fdd16a9508975dd1fd45184.jpg",
+      "img": "images/4d1a008eef3198e73b2f2b26a6e8231d.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
       "first_seen": "2026-07-09"
     },
@@ -1870,7 +1336,7 @@
     "bluenote": {
       "artist": "YELLOWJACKETS",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/01636dbd9fdd16a9508975dd1fd45184.jpg",
+      "img": "images/4d1a008eef3198e73b2f2b26a6e8231d.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/yellowjackets/",
       "first_seen": "2026-07-09"
     },
@@ -1888,7 +1354,7 @@
     "bluenote": {
       "artist": "RICHARD BONA QUINTET",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/e7d53cb7c10677f3be4fc02dac076e8c.jpg",
+      "img": "images/9d2c064c2f0236bf91938ff2f5f8ab8c.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/richard-bona/",
       "first_seen": "2026-06-30"
     },
@@ -1900,7 +1366,7 @@
     "bluenote": {
       "artist": "RICHARD BONA QUINTET",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/e7d53cb7c10677f3be4fc02dac076e8c.jpg",
+      "img": "images/9d2c064c2f0236bf91938ff2f5f8ab8c.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/richard-bona/",
       "first_seen": "2026-06-30"
     },
@@ -1918,7 +1384,7 @@
     "bluenote": {
       "artist": "RICHARD BONA QUINTET",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/e7d53cb7c10677f3be4fc02dac076e8c.jpg",
+      "img": "images/9d2c064c2f0236bf91938ff2f5f8ab8c.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/richard-bona/",
       "first_seen": "2026-06-30"
     },
@@ -1936,7 +1402,7 @@
     "bluenote": {
       "artist": "NDUDUZO MAKHATHINI",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/868d531e2459a81d8820008f06f4b29a.jpg",
+      "img": "images/f786cfc90c7f15ffbfb1e69fba0fdd26.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/nduduzo-makhathini/",
       "first_seen": "2026-06-30"
     },
@@ -1950,7 +1416,7 @@
     "cotton": {
       "artist": "MAMAS GUN ‘DIG! World tour’",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/bb40266b3b11b97bd36470abbf4df9b8.jpg",
+      "img": "images/87ca2cf43bb8d77d2decd08a66a75e9f.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-06-30"
     }
@@ -1960,7 +1426,7 @@
     "bluenote": {
       "artist": "NDUDUZO MAKHATHINI",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/868d531e2459a81d8820008f06f4b29a.jpg",
+      "img": "images/f786cfc90c7f15ffbfb1e69fba0fdd26.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/nduduzo-makhathini/",
       "first_seen": "2026-06-30"
     },
@@ -1974,7 +1440,7 @@
     "cotton": {
       "artist": "MAMAS GUN ‘DIG! World tour’",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/bb40266b3b11b97bd36470abbf4df9b8.jpg",
+      "img": "images/87ca2cf43bb8d77d2decd08a66a75e9f.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-06-30"
     }
@@ -1984,7 +1450,7 @@
     "bluenote": {
       "artist": "ANOUSHKA SHANKAR",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/2e0d132b938540a322fbd5ce8284b064.jpg",
+      "img": "images/2a2081ad61169821143b057c54884638.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/anoushka-shankar/",
       "first_seen": "2026-06-30"
     },
@@ -2002,7 +1468,7 @@
     "bluenote": {
       "artist": "ANOUSHKA SHANKAR",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/2e0d132b938540a322fbd5ce8284b064.jpg",
+      "img": "images/2a2081ad61169821143b057c54884638.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/anoushka-shankar/",
       "first_seen": "2026-06-30"
     },
@@ -2010,7 +1476,7 @@
     "cotton": {
       "artist": "夏焼 雅 Premium Night 〜Velvet Voice〜",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/7ddc1238975901d80d25f1f1d9f76f0e.jpg",
+      "img": "images/064698b3cfb0d75c51cc562c9d6ba0f0.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miyabi-natsuyaki-261010/",
       "first_seen": "2026-07-23"
     }
@@ -2020,7 +1486,7 @@
     "bluenote": {
       "artist": "ANOUSHKA SHANKAR",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/2e0d132b938540a322fbd5ce8284b064.jpg",
+      "img": "images/2a2081ad61169821143b057c54884638.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/anoushka-shankar/",
       "first_seen": "2026-06-30"
     },
@@ -2028,7 +1494,7 @@
     "cotton": {
       "artist": "大西結花 40周年記念+1 anniversary live「ずっと大好き！！」～40 years of loving YUKA～",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/f868965a1c29c00e506b57d098967ec1.jpg",
+      "img": "images/980f78c9a4e8205276dea33226be651a.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-10"
     }
@@ -2038,7 +1504,7 @@
     "bluenote": {
       "artist": "ALFREDO RODRIGUEZ BAND featuring PEDRITO MARTINEZ",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/4c79d2c16d5c07e6cd4a255c7c294eae.jpg",
+      "img": "images/1b7ab436ccf16febb9d63e9b5cf034fa.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
       "first_seen": "2026-06-30"
     },
@@ -2050,7 +1516,7 @@
     "bluenote": {
       "artist": "ALFREDO RODRIGUEZ BAND featuring PEDRITO MARTINEZ",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/4c79d2c16d5c07e6cd4a255c7c294eae.jpg",
+      "img": "images/1b7ab436ccf16febb9d63e9b5cf034fa.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
       "first_seen": "2026-06-30"
     },
@@ -2058,7 +1524,7 @@
     "cotton": {
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2a3e243b2f9dc56fc8d30771f9230ab4.jpg",
+      "img": "images/d4fc2a6ab3fb8d02b72f8311f05525ae.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
@@ -2068,7 +1534,7 @@
     "bluenote": {
       "artist": "ALFREDO RODRIGUEZ BAND featuring PEDRITO MARTINEZ",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/4c79d2c16d5c07e6cd4a255c7c294eae.jpg",
+      "img": "images/1b7ab436ccf16febb9d63e9b5cf034fa.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
       "first_seen": "2026-06-30"
     },
@@ -2082,7 +1548,7 @@
     "cotton": {
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2a3e243b2f9dc56fc8d30771f9230ab4.jpg",
+      "img": "images/d4fc2a6ab3fb8d02b72f8311f05525ae.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
@@ -2092,7 +1558,7 @@
     "bluenote": {
       "artist": "Celebrating the 25th Anniversary of Chihiro Yamanaka’s Debut CHIHIRO YAMANAKA NEW YORK TRIO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/60b82fc447cf86660e4de7d5c7f05d19.jpg",
+      "img": "images/ff4a5b64a0f7188844ddb1c03cbab5e5.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
       "first_seen": "2026-07-30"
     },
@@ -2106,7 +1572,7 @@
     "cotton": {
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/2a3e243b2f9dc56fc8d30771f9230ab4.jpg",
+      "img": "images/d4fc2a6ab3fb8d02b72f8311f05525ae.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
@@ -2116,7 +1582,7 @@
     "bluenote": {
       "artist": "Celebrating the 25th Anniversary of Chihiro Yamanaka’s Debut CHIHIRO YAMANAKA NEW YORK TRIO",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/60b82fc447cf86660e4de7d5c7f05d19.jpg",
+      "img": "images/ff4a5b64a0f7188844ddb1c03cbab5e5.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
       "first_seen": "2026-07-30"
     },
@@ -2128,7 +1594,7 @@
     "bluenote": {
       "artist": "THE BAD PLUS Farewell Tour",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/f84e15ac1cff37ce2dde82d31eb0f868.jpg",
+      "img": "images/e837cf45f09b1ae69215c2e80f265822.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
       "first_seen": "2026-07-02"
     },
@@ -2146,7 +1612,7 @@
     "bluenote": {
       "artist": "THE BAD PLUS Farewell Tour",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/f84e15ac1cff37ce2dde82d31eb0f868.jpg",
+      "img": "images/e837cf45f09b1ae69215c2e80f265822.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
       "first_seen": "2026-07-02"
     },
@@ -2164,7 +1630,7 @@
     "bluenote": {
       "artist": "THE BAD PLUS Farewell Tour",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/f84e15ac1cff37ce2dde82d31eb0f868.jpg",
+      "img": "images/e837cf45f09b1ae69215c2e80f265822.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/the-bad-plus/",
       "first_seen": "2026-07-02"
     },
@@ -2178,7 +1644,7 @@
     "cotton": {
       "artist": "MIKI YAMANAKA PIANO TRIO JAPAN TOUR 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/1477a836e4dc6fb8d2b787317907d382.jpg",
+      "img": "images/dc95e997acf3e2dd6d5af5ebd30959d5.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-22"
     }
@@ -2188,7 +1654,7 @@
     "bluenote": {
       "artist": "JOSHUA REDMAN \"Words Fall Short\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/0e59e46b59a83ec6c6b3be6ecc6e6936.jpg",
+      "img": "images/5c56539a272900e22212d6ccc873a0ee.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
@@ -2202,7 +1668,7 @@
     "cotton": {
       "artist": "SHAI MAESTRO TRIO : The Guesthouse",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/5f5be1f97cab50404684f0f154484c75.jpg",
+      "img": "images/05fad95aebed6986353c3dea30380b9e.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
       "first_seen": "2026-07-23"
     }
@@ -2212,7 +1678,7 @@
     "bluenote": {
       "artist": "JOSHUA REDMAN \"Words Fall Short\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/0e59e46b59a83ec6c6b3be6ecc6e6936.jpg",
+      "img": "images/5c56539a272900e22212d6ccc873a0ee.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
@@ -2220,7 +1686,7 @@
     "cotton": {
       "artist": "SHAI MAESTRO TRIO : The Guesthouse",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/5f5be1f97cab50404684f0f154484c75.jpg",
+      "img": "images/05fad95aebed6986353c3dea30380b9e.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
       "first_seen": "2026-07-23"
     }
@@ -2230,7 +1696,7 @@
     "bluenote": {
       "artist": "JOSHUA REDMAN \"Words Fall Short\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/0e59e46b59a83ec6c6b3be6ecc6e6936.jpg",
+      "img": "images/5c56539a272900e22212d6ccc873a0ee.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
@@ -2248,7 +1714,7 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/568a2231331a3dc505f5f4b0093d38b6.jpg",
+      "img": "images/071bc6e035eb8c95d207fccf0c250bb9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
@@ -2260,7 +1726,7 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/568a2231331a3dc505f5f4b0093d38b6.jpg",
+      "img": "images/071bc6e035eb8c95d207fccf0c250bb9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
@@ -2278,7 +1744,7 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/568a2231331a3dc505f5f4b0093d38b6.jpg",
+      "img": "images/071bc6e035eb8c95d207fccf0c250bb9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
@@ -2292,7 +1758,7 @@
     "cotton": {
       "artist": "30th anniversary 蘭寿とむ 1st LIVE",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/4312ff2c90bb5d9c0d9872f69dd329d2.jpg",
+      "img": "images/f7c2f2473bc0cb6ba955bb01e3cb1bc4.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-06-30"
     }
@@ -2302,7 +1768,7 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/568a2231331a3dc505f5f4b0093d38b6.jpg",
+      "img": "images/071bc6e035eb8c95d207fccf0c250bb9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
@@ -2316,7 +1782,7 @@
     "cotton": {
       "artist": "30th anniversary 蘭寿とむ 1st LIVE",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/4312ff2c90bb5d9c0d9872f69dd329d2.jpg",
+      "img": "images/f7c2f2473bc0cb6ba955bb01e3cb1bc4.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-06-30"
     }
@@ -2326,7 +1792,7 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/568a2231331a3dc505f5f4b0093d38b6.jpg",
+      "img": "images/071bc6e035eb8c95d207fccf0c250bb9.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
@@ -2356,7 +1822,7 @@
     "bluenote": {
       "artist": "MIKI MAYA Special Live 2026",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/a55dfdb4e37b57d4b22714b6a7bead23.jpg",
+      "img": "images/81b01d7e3e7ee51a8a7f24d00292f239.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/miki-maya/",
       "first_seen": "2026-06-30"
     },
@@ -2368,7 +1834,7 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/1cee17cf9d5093370d8a3aa8c5641800.jpg",
+      "img": "images/e8eaa03d6da0be3efabd0a93a16fe249.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
@@ -2380,11 +1846,383 @@
     "bluenote": {
       "artist": "THE LEGENDARY COUNT BASIE ORCHESTRA directed by SCOTTY BARNHART",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "images/1cee17cf9d5093370d8a3aa8c5641800.jpg",
+      "img": "images/e8eaa03d6da0be3efabd0a93a16fe249.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
     "billboard": null,
     "cotton": null
+  },
+  {
+    "date": "2026-11-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KIEFER",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/8e27120988e499d65192df4b66ca41ca.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "odol ONE-MAN LIVE 2026  at COTTON CLUB",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/b25b2b85d371e1045122dac42b020be4.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-02T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KIEFER",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/8e27120988e499d65192df4b66ca41ca.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "Kazuki Kosakai Sing,Sing,Sing & Talk!!～70years / 70minutes～",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/aeee81b9cc1cc0e2d7f44bc74cc9e3cf.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-03T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KIEFER",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/8e27120988e499d65192df4b66ca41ca.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "Kazuki Kosakai Sing,Sing,Sing & Talk!!～70years / 70minutes～",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/aeee81b9cc1cc0e2d7f44bc74cc9e3cf.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-04T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AZIZA featuring DAVE HOLLAND, CHRIS POTTER, LIONEL LOUEKE & ERIC HARLAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/8381f5f0521e1e8ffb003f76a9502530.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "松崎しげる喜寿77 LIVE ～生涯現役～",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/bd12102c80b0f0373d71bff4154ddb30.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-05T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AZIZA featuring DAVE HOLLAND, CHRIS POTTER, LIONEL LOUEKE & ERIC HARLAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/8381f5f0521e1e8ffb003f76a9502530.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-06T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AZIZA featuring DAVE HOLLAND, CHRIS POTTER, LIONEL LOUEKE & ERIC HARLAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/8381f5f0521e1e8ffb003f76a9502530.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-12T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/7e6de2561126a25d00d65fc6398e9e1c.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-13T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/7e6de2561126a25d00d65fc6398e9e1c.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-14T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/7e6de2561126a25d00d65fc6398e9e1c.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-15T00:00:00.000Z",
+    "bluenote": {
+      "artist": "VENNA",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/25ab24f93db29b52e2be3de208cd99c5.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/venna/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/c519a849bd3b56a0d1a1b367419a3efe.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/c519a849bd3b56a0d1a1b367419a3efe.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/c519a849bd3b56a0d1a1b367419a3efe.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "CARLOS TOSHIKI  40th ANNIVERSARY LIVE TOUR 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/2f4cb889c6391ee29feea2ab11cb27c6.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-19T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "CARLOS TOSHIKI  40th ANNIVERSARY LIVE TOUR 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/2f4cb889c6391ee29feea2ab11cb27c6.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-20T00:00:00.000Z",
+    "bluenote": {
+      "artist": "PACIFIC JAZZ ORCHESTRA directed by CHRIS WALDEN",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/5a880b970d04e7e098326a8ba95ab023.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/038991ad94fb0e7b7a5891df2386653d.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-21T00:00:00.000Z",
+    "bluenote": {
+      "artist": "PACIFIC JAZZ ORCHESTRA directed by CHRIS WALDEN",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/5a880b970d04e7e098326a8ba95ab023.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/038991ad94fb0e7b7a5891df2386653d.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-22T00:00:00.000Z",
+    "bluenote": {
+      "artist": "PACIFIC JAZZ ORCHESTRA directed by CHRIS WALDEN",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/5a880b970d04e7e098326a8ba95ab023.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/038991ad94fb0e7b7a5891df2386653d.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-23T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/5bd147fc652f738000d2f0816563ecc1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/5c369da0241a8774e50ada8b24b5c7ec.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-24T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/5bd147fc652f738000d2f0816563ecc1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/5c369da0241a8774e50ada8b24b5c7ec.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-25T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/5bd147fc652f738000d2f0816563ecc1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/5c369da0241a8774e50ada8b24b5c7ec.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TAKUYA KURODA",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/6a70ee6c5f02da2b7ba29a9b92b003e4.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/takuya-kuroda/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-27T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TAKUYA KURODA",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/6a70ee6c5f02da2b7ba29a9b92b003e4.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/takuya-kuroda/",
+      "first_seen": "2026-07-31"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "YASUDA NARUMI 60th",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/cd2ab10a7469b27415580feac2d4d196.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-28T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "YASUDA NARUMI 60th",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/cd2ab10a7469b27415580feac2d4d196.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-29T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "PLATINA JAZZ",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/a324a0640aacd68dd39cdbdb5324bc0d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "first_seen": "2026-07-31"
+    }
+  },
+  {
+    "date": "2026-11-30T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "PLATINA JAZZ",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/a324a0640aacd68dd39cdbdb5324bc0d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "first_seen": "2026-07-31"
+    }
   }
 ]
