@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-07-26T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "Chara Sweet Soul Sessions ～Mojo Popcorn Returns～",
-      "time": "16:00 / 19:00",
-      "img": "images/c0e6435d60e7d39b64df4c5eb2744f5a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-07-26",
-      "first_seen": "2026-05-08"
-    },
-    "cotton": null
-  },
-  {
-    "date": "2026-07-31T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "稲垣潤一 コンセプトライブ2026 Focus on the endless chain ～back to the 2001〜",
-      "time": "17:00 / 20:00",
-      "img": "images/8de0400b2aeee074d42e0b677e933426.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21307&date=2026-07-31",
-      "first_seen": "2026-04-28"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-08-01T00:00:00.000Z",
     "bluenote": {
       "artist": "MASATO HONDA B.B.STATION   -Big Band Night-",
@@ -553,7 +529,7 @@
       "artist": "丸の内寄席 vol.5 落語×JAZZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/79c344638ac968a8426eb35cba5296bc.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marunouchi-vaudeville-show-260825/",
+      "url": "/reserve/schedule/exec/5727",
       "first_seen": "2026-07-29"
     }
   },
@@ -1826,7 +1802,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/miki-maya/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "植村花菜",
+      "time": "17:30 / 20:30",
+      "img": "images/8e83b4d54084d5b4e4a2fbeb2aa3408c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21578&date=2026-10-29",
+      "first_seen": "2026-08-01"
+    },
     "cotton": null
   },
   {
