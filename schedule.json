@@ -26,13 +26,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/masato-honda/",
       "first_seen": "2026-05-14"
     },
-    "billboard": {
-      "artist": "Chara Sweet Soul Sessions ～Mojo Popcorn Returns～",
-      "time": "16:00 / 19:00",
-      "img": "images/c0e6435d60e7d39b64df4c5eb2744f5a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-08-02",
-      "first_seen": "2026-05-08"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "TOKO FURUUCHI Special Live in Summer Time / Day1 & Day2",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1838,7 +1832,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/count-basie/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "小柳ゆき Billboard Live 2026",
+      "time": "16:00 / 19:00",
+      "img": "images/4e4390742b9bed0f52e59adee13a1f91.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21625&date=2026-10-31",
+      "first_seen": "2026-08-03"
+    },
     "cotton": null
   },
   {
