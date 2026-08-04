@@ -1311,7 +1311,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21243&date=2026-10-03",
       "first_seen": "2026-07-06"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "AKi LIVE 2026 『Acoustic Hideaway』",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/f0dba8e10200f0dfa6695a247358db2b.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
+      "first_seen": "2026-08-04"
+    }
   },
   {
     "date": "2026-10-04T00:00:00.000Z",
@@ -1639,7 +1645,7 @@
       "artist": "SHAI MAESTRO TRIO : The Guesthouse",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/0a8669b9af6c2e7f7b84e32555ffc648.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-23"
     }
   },
@@ -1652,12 +1658,18 @@
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Adi Oasis",
+      "time": "17:30 / 20:30",
+      "img": "images/1cc04ad38831688843dea062634ef2d9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21622&date=2026-10-21",
+      "first_seen": "2026-08-04"
+    },
     "cotton": {
       "artist": "SHAI MAESTRO TRIO : The Guesthouse",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/0a8669b9af6c2e7f7b84e32555ffc648.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-23"
     }
   },
