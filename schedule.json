@@ -1491,7 +1491,13 @@
       "first_seen": "2026-06-30"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "CAMILLE BERTAULT",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/750b6f549d4d52cf83693f387ec49d8b.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/camille-bertault-261012/",
+      "first_seen": "2026-08-06"
+    }
   },
   {
     "date": "2026-10-13T00:00:00.000Z",
@@ -1916,7 +1922,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
       "first_seen": "2026-07-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Cö shu Nie “A cöshutic Nie Vol.6 in Billboard Live TOKYO and OSAKA”",
+      "time": "15:00 / 18:00",
+      "img": "images/58f5c522ba148494f644df574768afe9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21599&date=2026-11-03",
+      "first_seen": "2026-08-06"
+    },
     "cotton": {
       "artist": "Kazuki Kosakai Sing,Sing,Sing & Talk!!～70years / 70minutes～",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1978,6 +1990,30 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shoichi-fukui-261108/",
       "first_seen": "2026-08-05"
     }
+  },
+  {
+    "date": "2026-11-10T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THEO KATZMAN (of VULFPECK) solo",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/d6efcaed57be8b3e02a40a09ff6d9342.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
+      "first_seen": "2026-08-06"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-11T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THEO KATZMAN (of VULFPECK) solo",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/d6efcaed57be8b3e02a40a09ff6d9342.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
+      "first_seen": "2026-08-06"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2026-11-12T00:00:00.000Z",
@@ -2245,7 +2281,13 @@
   },
   {
     "date": "2026-11-30T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "GARY BARTZ & NTU",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/481c0e4eb27cbd06a61cf65a87739a79.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "first_seen": "2026-08-06"
+    },
     "billboard": null,
     "cotton": {
       "artist": "PLATINA JAZZ",
