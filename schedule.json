@@ -1964,7 +1964,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
       "first_seen": "2026-07-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "ZARUKAME Billboard Live with special band \"Echors\"",
+      "time": "17:30 / 20:30",
+      "img": "images/7deb58bd29ef6c6f655e2925851148cf.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21621&date=2026-11-05",
+      "first_seen": "2026-08-08"
+    },
     "cotton": null
   },
   {
