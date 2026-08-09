@@ -1965,11 +1965,11 @@
       "first_seen": "2026-07-31"
     },
     "billboard": {
-      "artist": "ZARUKAME Billboard Live with special band \"Echors\"",
+      "artist": "ZARUKAME Billboard Live with special band \"Echoes\"",
       "time": "17:30 / 20:30",
       "img": "images/7deb58bd29ef6c6f655e2925851148cf.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21621&date=2026-11-05",
-      "first_seen": "2026-08-08"
+      "first_seen": "2026-08-09"
     },
     "cotton": null
   },
@@ -1982,7 +1982,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
       "first_seen": "2026-07-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "大橋トリオ TRIO Sextet Billboard Live Tour 2026",
+      "time": "18:00 / 21:00",
+      "img": "images/dab71f9c5e02f8cfb3689641e5d4fc77.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
+      "first_seen": "2026-08-09"
+    },
     "cotton": null
   },
   {
