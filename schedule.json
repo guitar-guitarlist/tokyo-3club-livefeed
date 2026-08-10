@@ -152,13 +152,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/summer-jazz-camp-all-stars/",
       "first_seen": "2026-04-30"
     },
-    "billboard": {
-      "artist": "BRADIO Billboard Live 2026",
-      "time": "16:00 / 19:00",
-      "img": "images/f1df74477d4e25a472dd7524484711b3.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21428&date=2026-08-09",
-      "first_seen": "2026-05-12"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "岩崎宏美・岩崎良美 ジョイント公演 「IWASAKI SISTERS Live」",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -952,11 +946,11 @@
       "first_seen": "2026-07-03"
     },
     "cotton": {
-      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
+      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/ed16edb0f745eaefac3ee38cbd53929f.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
-      "first_seen": "2026-07-29"
+      "first_seen": "2026-08-10"
     }
   },
   {
@@ -1246,11 +1240,11 @@
       "first_seen": "2026-07-01"
     },
     "cotton": {
-      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
+      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/cf263818cd6a93e9da0fb76a1451923a.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
-      "first_seen": "2026-07-29"
+      "first_seen": "2026-08-10"
     }
   },
   {
@@ -1996,11 +1990,11 @@
     "bluenote": null,
     "billboard": null,
     "cotton": {
-      "artist": "福井晶一 デビュー30周年記念コンサート〜Curtain Never Falls〜",
+      "artist": "福井晶一 デビュー30周年記念コンサート?Curtain Never Falls?",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/43e0810759e744fc38cb0daf7c3f165e.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shoichi-fukui-261108/",
-      "first_seen": "2026-08-05"
+      "first_seen": "2026-08-10"
     }
   },
   {
