@@ -170,13 +170,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jazzanova/",
       "first_seen": "2026-04-30"
     },
-    "billboard": {
-      "artist": "CLAUDIO SIMONETTI'S GOBLIN",
-      "time": "17:30 / 20:30",
-      "img": "images/706edb64fa560ee8ab2bc4d4b9acaea5.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21412&date=2026-08-10",
-      "first_seen": "2026-05-13"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ACO 30th ANNIVERSARY LIVE 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1988,7 +1982,13 @@
   {
     "date": "2026-11-08T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "渡辺満里奈 40th Anniversary LIVE “Still Ringing Bells”",
+      "time": "16:00 / 19:00",
+      "img": "images/1a84247cfbbdcdecbf3067b04c9c460b.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
+      "first_seen": "2026-08-11"
+    },
     "cotton": {
       "artist": "福井晶一 デビュー30周年記念コンサート?Curtain Never Falls?",
       "time": "1st: 18:00 / 2nd: 20:30",
