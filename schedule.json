@@ -188,13 +188,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/jazzanova/",
       "first_seen": "2026-04-30"
     },
-    "billboard": {
-      "artist": "paris match",
-      "time": "16:00 / 19:00",
-      "img": "images/99ba265412a3be84662a67c2050d9586.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21415&date=2026-08-11",
-      "first_seen": "2026-05-14"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -919,7 +913,7 @@
       "artist": "NAOKO TERAI QUARTET \"The Precious Night 2026\" at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/2b8bec0e7c62bc829130e75c84fd987e.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/naoko-terai-260914/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-29"
     }
   },
@@ -940,11 +934,11 @@
       "first_seen": "2026-07-03"
     },
     "cotton": {
-      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
+      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ～COTTON CLUB～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/bd88fea6420ac27630b3c962af782e32.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
-      "first_seen": "2026-08-10"
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
+      "first_seen": "2026-08-12"
     }
   },
   {
@@ -1095,7 +1089,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21512&date=2026-09-22",
       "first_seen": "2026-06-25"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "RACHAEL YAMAGATA Starlit Alchemy Tour",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/5081b8ba95ea30614f6c632a5169891e.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
+      "first_seen": "2026-08-12"
+    }
   },
   {
     "date": "2026-09-23T00:00:00.000Z",
@@ -1113,7 +1113,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21467&date=2026-09-23",
       "first_seen": "2026-06-26"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "RACHAEL YAMAGATA Starlit Alchemy Tour",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/5081b8ba95ea30614f6c632a5169891e.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
+      "first_seen": "2026-08-12"
+    }
   },
   {
     "date": "2026-09-24T00:00:00.000Z",
@@ -1234,11 +1240,11 @@
       "first_seen": "2026-07-01"
     },
     "cotton": {
-      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
+      "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ～COTTON CLUB～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/4026802ad18a95c78f995ad717fc120c.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
-      "first_seen": "2026-08-10"
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
+      "first_seen": "2026-08-12"
     }
   },
   {
@@ -1977,7 +1983,25 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "first_seen": "2026-08-09"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "ANATOLE MUSTER",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/3a673d504c90e3e36f46b9da7a6a401b.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "first_seen": "2026-08-12"
+    }
+  },
+  {
+    "date": "2026-11-07T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "ANATOLE MUSTER",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/3a673d504c90e3e36f46b9da7a6a401b.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "first_seen": "2026-08-12"
+    }
   },
   {
     "date": "2026-11-08T00:00:00.000Z",
@@ -2281,7 +2305,7 @@
       "artist": "PLATINA JAZZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/788120d0449ad48beb3457fe9b9544b2.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-07-31"
     }
   },
@@ -2299,7 +2323,7 @@
       "artist": "PLATINA JAZZ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/788120d0449ad48beb3457fe9b9544b2.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-07-31"
     }
   }
