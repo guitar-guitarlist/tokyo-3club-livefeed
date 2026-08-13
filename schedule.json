@@ -206,13 +206,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/toshiki-kadomatsu/",
       "first_seen": "2026-07-02"
     },
-    "billboard": {
-      "artist": "KISHOW from GRANRODEO Billboard Live",
-      "time": "17:00 / 20:00",
-      "img": "images/9e6a4f6f86b2462c5c084dd1e2799964.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21469&date=2026-08-12",
-      "first_seen": "2026-05-23"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "MARTIN TAYLOR \"Standards\"",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -979,7 +973,7 @@
       "artist": "古舘と客人と vol.39 古舘伊知郎 山田洋次",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/f5044ad31a8fbb5478fb3ed7fd9df747.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-260917/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-30"
     }
   },
@@ -1255,7 +1249,7 @@
       "artist": "WEST ROAD BLUES BAND",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/975722f0036ef6b4dfee8392f05800bb.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/westroad-bluesband-260930/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-30"
     }
   },
@@ -1279,7 +1273,7 @@
       "artist": "木村充揮 × 奇妙礼太郎 丸の内で大いに歌い、そして叫ぶ",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/8d5455ddbde73f316c39c412a3d00f88.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kimura-strange-261001/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-07-30"
     }
   },
@@ -1502,7 +1496,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
       "first_seen": "2026-06-30"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "PYRAMID Gracenotes Vol.3 〜New Album Release Live〜",
+      "time": "17:30 / 20:30",
+      "img": "images/be9d6ed4d950f091c5b59cf4e6672712.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21643&date=2026-10-13",
+      "first_seen": "2026-08-13"
+    },
     "cotton": {
       "artist": "MICHAEL MAYO",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1797,7 +1797,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-27",
       "first_seen": "2026-07-29"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "WOLFGANG HAFFNER TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/061dcc536a0ad54f0bebfa2dbece2597.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/wolfgang-haffner-trio-261027/",
+      "first_seen": "2026-08-13"
+    }
   },
   {
     "date": "2026-10-28T00:00:00.000Z",
@@ -2055,7 +2061,13 @@
       "first_seen": "2026-07-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "BENNY GREEN - piano solo -",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/d3d8caa93e3764479ee4e4e0b850daea.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-261112/",
+      "first_seen": "2026-08-13"
+    }
   },
   {
     "date": "2026-11-13T00:00:00.000Z",
@@ -2067,7 +2079,13 @@
       "first_seen": "2026-07-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "BENNY GREEN TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/58bf765db9b517d645b6756656a46709.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "first_seen": "2026-08-13"
+    }
   },
   {
     "date": "2026-11-14T00:00:00.000Z",
@@ -2079,7 +2097,13 @@
       "first_seen": "2026-07-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "BENNY GREEN TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/58bf765db9b517d645b6756656a46709.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "first_seen": "2026-08-13"
+    }
   },
   {
     "date": "2026-11-15T00:00:00.000Z",
@@ -2091,7 +2115,13 @@
       "first_seen": "2026-07-31"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "BENNY GREEN TRIO",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/58bf765db9b517d645b6756656a46709.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "first_seen": "2026-08-13"
+    }
   },
   {
     "date": "2026-11-16T00:00:00.000Z",
