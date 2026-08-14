@@ -224,13 +224,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/toshiki-kadomatsu/",
       "first_seen": "2026-07-02"
     },
-    "billboard": {
-      "artist": "The RH Factor reunion tribute to Roy Hargrove",
-      "time": "17:30 / 20:30",
-      "img": "images/4f295cd8ff5d7285d7425aee5dec91bd.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21462&date=2026-08-13",
-      "first_seen": "2026-06-01"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "PETER ERSKINE \"Dr. Um\" -Steps Into The Weather- featuring MIKE MAINIERI with JOHN BEASLEY, BOB SHEPPARD & MATTHEW GARRISON",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -304,11 +298,11 @@
       "first_seen": "2026-05-19"
     },
     "cotton": {
-      "artist": "LAKECIA BENJAMIN",
+      "artist": "RYO KONISHI and the LIMITED EXPRESS",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/18c77a8be4bd4c3851d30301a26ba949.jpg",
-      "url": "/reserve/schedule/exec/5676",
-      "first_seen": "2026-05-13"
+      "img": "images/39423d233fb9d2cfb7ac4964dffcc625.jpg",
+      "url": "/reserve/schedule/exec/5746",
+      "first_seen": "2026-08-14"
     }
   },
   {
@@ -322,11 +316,11 @@
     },
     "billboard": null,
     "cotton": {
-      "artist": "LAKECIA BENJAMIN",
+      "artist": "TOKO FURUUCHISPECIAL SOLO NIGHT",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "images/18c77a8be4bd4c3851d30301a26ba949.jpg",
-      "url": "/reserve/schedule/exec/5676",
-      "first_seen": "2026-05-13"
+      "img": "images/530a6a195e01c1c66c48a27d46946b58.jpg",
+      "url": "/reserve/schedule/exec/5747",
+      "first_seen": "2026-08-14"
     }
   },
   {
@@ -1363,7 +1357,7 @@
       "artist": "KURENA ISHIKAWA \"Garden\" Release Tour",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/dc799b2210318c06eff4e535eaa93d46.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kurena-ishikawa-261006/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-08-05"
     }
   },
@@ -2023,7 +2017,7 @@
       "artist": "福井晶一 デビュー30周年記念コンサート?Curtain Never Falls?",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/1f0de1c40161d0799f20f7a36ad5aa99.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shoichi-fukui-261108/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-10"
     }
   },
