@@ -308,13 +308,7 @@
   {
     "date": "2026-08-18T00:00:00.000Z",
     "bluenote": null,
-    "billboard": {
-      "artist": "Omarion",
-      "time": "17:30 / 20:30",
-      "img": "images/7a4b088111cfce34ca2cc10811f01ba5.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21536&date=2026-08-18",
-      "first_seen": "2026-06-26"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "平倉初音 4th Album \"The Silent Mask\" 発売記念ライヴ",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1110,7 +1104,7 @@
     "cotton": {
       "artist": "ULYSSES OWENS JR. & GENERATION Y",
       "time": "1st: 18:00 / 2nd: 20:30",
-      "img": "",
+      "img": "images/6899f2790c1f161d232ba6e948106c4f.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-07-16"
     }
@@ -1131,7 +1125,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-25",
       "first_seen": "2026-06-27"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "KONISHI RYOSEI Autumn Live 2026 「色なき風と、月待言結び。」",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/ab84275046ce4098abde7d23368e65e8.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/konishi-ryosei-260925/",
+      "first_seen": "2026-08-19"
+    }
   },
   {
     "date": "2026-09-26T00:00:00.000Z",
@@ -1471,7 +1471,7 @@
       "artist": "CAMILLE BERTAULT",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/89ff11b9bbd18863ec2217b90b887c1d.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/camille-bertault-261012/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-08-06"
     }
   },
@@ -1563,7 +1563,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21616&date=2026-10-16",
       "first_seen": "2026-08-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/9bc93e074ad02c7c245a51ae199d05fb.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
+      "first_seen": "2026-08-19"
+    }
   },
   {
     "date": "2026-10-17T00:00:00.000Z",
@@ -1581,7 +1587,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21451&date=2026-10-17",
       "first_seen": "2026-07-20"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/9bc93e074ad02c7c245a51ae199d05fb.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
+      "first_seen": "2026-08-19"
+    }
   },
   {
     "date": "2026-10-18T00:00:00.000Z",
@@ -1599,7 +1611,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21488&date=2026-10-18",
       "first_seen": "2026-07-21"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/9bc93e074ad02c7c245a51ae199d05fb.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
+      "first_seen": "2026-08-19"
+    }
   },
   {
     "date": "2026-10-19T00:00:00.000Z",
@@ -1981,7 +1999,7 @@
       "artist": "ANATOLE MUSTER",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/8681c485e98848cdf2c7b78c942a582c.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-12"
     }
   },
@@ -1993,7 +2011,7 @@
       "artist": "ANATOLE MUSTER",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/8681c485e98848cdf2c7b78c942a582c.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-12"
     }
   },
