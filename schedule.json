@@ -1057,7 +1057,7 @@
       "artist": "RACHAEL YAMAGATA Starlit Alchemy Tour",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/99bdab2f9d8e402cf064b336b17e7319.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-08-12"
     }
   },
@@ -1081,7 +1081,7 @@
       "artist": "RACHAEL YAMAGATA Starlit Alchemy Tour",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/99bdab2f9d8e402cf064b336b17e7319.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
       "first_seen": "2026-08-12"
     }
   },
@@ -1648,7 +1648,7 @@
     "bluenote": {
       "artist": "JOSHUA REDMAN \"Words Fall Short\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "",
+      "img": "images/deba3c7cd5cccad810aee5174ac3c0c0.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
@@ -1672,7 +1672,7 @@
     "bluenote": {
       "artist": "JOSHUA REDMAN \"Words Fall Short\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "",
+      "img": "images/deba3c7cd5cccad810aee5174ac3c0c0.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
@@ -1696,7 +1696,7 @@
     "bluenote": {
       "artist": "JOSHUA REDMAN \"Words Fall Short\"",
       "time": "1st: 17:00 / 2nd: 20:00",
-      "img": "",
+      "img": "images/deba3c7cd5cccad810aee5174ac3c0c0.jpg",
       "url": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
       "first_seen": "2026-06-30"
     },
@@ -2032,6 +2032,18 @@
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-17"
     }
+  },
+  {
+    "date": "2026-11-09T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KEIKO LEE BAND",
+      "time": "1st: 17:00 / 2nd: 20:00",
+      "img": "images/a9f4ad2e241b4355155bf60f3131598c.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/keiko-lee/",
+      "first_seen": "2026-08-20"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2026-11-10T00:00:00.000Z",
