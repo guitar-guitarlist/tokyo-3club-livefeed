@@ -416,13 +416,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/chris-parker/",
       "first_seen": "2026-04-30"
     },
-    "billboard": {
-      "artist": "ONE PARK Special Band  〜 Billboard Live Exclusive Session 〜",
-      "time": "18:00 / 21:00",
-      "img": "images/2d3b4429909b5411e432f75e0d72fab5.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21554&date=2026-08-24",
-      "first_seen": "2026-06-24"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "AI FURUSATO meets MASATO HONDA",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -865,7 +859,7 @@
       "artist": "NAOKO TERAI QUARTET \"The Precious Night 2026\" at COTTON CLUB",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/604f0e219ff1561dbce7f5a7ae0955c4.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/naoko-terai-260914/",
       "first_seen": "2026-07-29"
     }
   },
@@ -889,7 +883,7 @@
       "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ～COTTON CLUB～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/c80c086a83dc6677b170346dae365600.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
       "first_seen": "2026-08-12"
     }
   },
@@ -1201,7 +1195,7 @@
       "artist": "AYA HIRANO  ANNIVERSARY LIVE 2026 ～COTTON CLUB～",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/5db70951e213b442d572a209e82ba920.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202609",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
       "first_seen": "2026-08-12"
     }
   },
