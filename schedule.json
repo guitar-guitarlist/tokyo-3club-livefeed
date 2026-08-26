@@ -434,13 +434,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/monday-michiru/",
       "first_seen": "2026-05-21"
     },
-    "billboard": {
-      "artist": "ALI JUNGLE LOVE 2026 at Billboard Live TOKYO",
-      "time": "18:00 / 21:00",
-      "img": "images/4c283ba6868f7a7d00032b6437510e11.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21524&date=2026-08-25",
-      "first_seen": "2026-06-14"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "丸の内寄席 vol.5 落語×JAZZ",
       "time": "1st: 18:00 / 2nd: 20:30",
@@ -1173,7 +1167,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-28",
       "first_seen": "2026-07-01"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "マーティ・フリードマン JAPAN LIVE 2026",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/e7e3cfeb2d52ba3b6838c67281cc1781.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-friedman-260928/",
+      "first_seen": "2026-08-26"
+    }
   },
   {
     "date": "2026-09-29T00:00:00.000Z",
@@ -1789,7 +1789,7 @@
       "artist": "WOLFGANG HAFFNER TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/32e3f16c9ed0359037015e6f6bffbfc5.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/wolfgang-haffner-trio-261027/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202610",
       "first_seen": "2026-08-13"
     }
   },
@@ -1839,7 +1839,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21584&date=2026-10-30",
       "first_seen": "2026-08-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "古舘と客人と vol.40 古舘伊知郎 バカリズム",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/503c344f9bf281f716f67b80c4f10c53.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-261030/",
+      "first_seen": "2026-08-26"
+    }
   },
   {
     "date": "2026-10-31T00:00:00.000Z",
@@ -2049,7 +2055,13 @@
       "first_seen": "2026-08-06"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "LA RESERVE ASIA TOUR 2026 : MARIA KIM, LUCY YEGHIAZARYAN & CAITY GYORGY",
+      "time": "1st: 18:00 / 2nd: 20:30",
+      "img": "images/13346dc16c37d97a10d539d64e2d3d22.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/la-reserve-asiatour-20261111/",
+      "first_seen": "2026-08-26"
+    }
   },
   {
     "date": "2026-11-12T00:00:00.000Z",
@@ -2065,7 +2077,7 @@
       "artist": "BENNY GREEN - piano solo -",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/03977953974a4743ea0a3e8c0bb15af1.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-261112/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-13"
     }
   },
@@ -2083,7 +2095,7 @@
       "artist": "BENNY GREEN TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/822e37d644132c1daddb042ca8a73503.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-13"
     }
   },
@@ -2107,7 +2119,7 @@
       "artist": "BENNY GREEN TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/822e37d644132c1daddb042ca8a73503.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-13"
     }
   },
@@ -2131,7 +2143,7 @@
       "artist": "BENNY GREEN TRIO",
       "time": "1st: 18:00 / 2nd: 20:30",
       "img": "images/822e37d644132c1daddb042ca8a73503.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/move/202611",
       "first_seen": "2026-08-13"
     }
   },
