@@ -2324,7 +2324,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
       "first_seen": "2026-07-31"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "佐藤竹善 Your Christmas Night 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/6785a0459d60b50b1d687e3f22adc534.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21587&date=2026-11-25",
+      "first_seen": "2026-08-28"
+    },
     "cotton": {
       "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
       "time": "1st: 18:00 / 2nd: 20:30",
