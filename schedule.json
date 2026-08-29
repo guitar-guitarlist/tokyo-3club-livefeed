@@ -488,13 +488,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ayatake-ezaki/",
       "first_seen": "2026-06-20"
     },
-    "billboard": {
-      "artist": "矢井田 瞳 Acoustic Live Tour 『DOOR to DOORS』 Billboard Live Special",
-      "time": "17:30 / 20:30",
-      "img": "images/ae1290fa7b10849e9088317ad7f0bdc9.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21436&date=2026-08-28",
-      "first_seen": "2026-05-31"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "小比類巻かほる Kohhy6",
       "time": "1st: 18:00 / 2nd: 20:30",
