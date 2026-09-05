@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-09-03T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "Billboard Live presents THE ROOTS Japan Tour 2026",
-      "time": "17:30 / 21:00",
-      "img": "images/0e19b1b7d7168791ae2086537af6bbaa.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-03",
-      "first_seen": "2026-06-06"
-    },
-    "cotton": null
-  },
-  {
-    "date": "2026-09-04T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "Billboard Live presents THE ROOTS Japan Tour 2026",
-      "time": "17:30 / 21:00",
-      "img": "images/0e19b1b7d7168791ae2086537af6bbaa.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-04",
-      "first_seen": "2026-06-06"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-05T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
