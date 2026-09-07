@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-09-06T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "伊東歌詞太郎 Billboard Live Tour 2026 「JPOP」",
-      "time": "15:00 / 18:00",
-      "img": "images/b2d30e1029f6a9116588a3855e260c87.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21440&date=2026-09-06",
-      "first_seen": "2026-06-09"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-07T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -740,6 +728,18 @@
       "img": "images/478a0e004374b42863b557c2d307911c.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21592&date=2026-11-29",
       "first_seen": "2026-09-01"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-05T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Jeremy Quartus (Nulbarich) Been a Minute",
+      "time": "16:00 / 19:00",
+      "img": "images/96e2223d4906e63d7326253a350e641a.jpeg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
+      "first_seen": "2026-09-07"
     },
     "cotton": null
   }
