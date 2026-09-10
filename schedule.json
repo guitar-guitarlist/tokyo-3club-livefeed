@@ -720,6 +720,18 @@
     "cotton": null
   },
   {
+    "date": "2026-12-04T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "斉藤由貴 Xmas live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/ad284406a87a67d23435fa68085068c3.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
+      "first_seen": "2026-09-10"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-12-05T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
