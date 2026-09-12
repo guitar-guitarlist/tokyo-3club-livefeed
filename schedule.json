@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-09-11T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "PES Billboard Live “A LA CARTE”",
-      "time": "17:30 / 20:30",
-      "img": "images/ebb6ec01048e41304733a60b7d9966c5.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21570&date=2026-09-11",
-      "first_seen": "2026-07-07"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-12T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
