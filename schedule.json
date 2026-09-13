@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-09-12T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "由紀さおり at Billboard Live 「Once Upon a Melody」",
-      "time": "16:00 / 19:00",
-      "img": "images/09dc82a5dc81d8789fba51b717e8217d.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
-      "first_seen": "2026-07-13"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-13T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -728,6 +716,18 @@
       "img": "images/be6c057ba18a6418865b6ba5c002d397.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21673&date=2026-12-06",
       "first_seen": "2026-09-08"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-11T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "BENI \"THE SHOW\" 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/3a8c879531b33922761945da6a73b774.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21546&date=2026-12-11",
+      "first_seen": "2026-09-13"
     },
     "cotton": null
   }
