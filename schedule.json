@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-09-14T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "小室哲哉 Tetsuya Komuro \"Short circuit eats long story\"",
-      "time": "17:30 / 20:30",
-      "img": "images/06e9d84c5c31aea027a3f15be5847dc5.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21560&date=2026-09-14",
-      "first_seen": "2026-07-03"
-    },
-    "cotton": null
-  },
-  {
-    "date": "2026-09-15T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "小室哲哉 Tetsuya Komuro \"Short circuit eats long story\"",
-      "time": "17:30 / 20:30",
-      "img": "images/06e9d84c5c31aea027a3f15be5847dc5.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21560&date=2026-09-15",
-      "first_seen": "2026-07-03"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-16T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -716,6 +692,18 @@
       "img": "images/3a8c879531b33922761945da6a73b774.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21546&date=2026-12-11",
       "first_seen": "2026-09-13"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-14T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Marihiko Hara Trio",
+      "time": "17:30 / 20:30",
+      "img": "images/87afda5eeae3d31bcc26bacf4ddd736d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21688&date=2026-12-14",
+      "first_seen": "2026-09-16"
     },
     "cotton": null
   }
