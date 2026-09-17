@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-09-16T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "ROCKIN’ QUARTET 第8章 ROY（THE BAWDIES） & NAOTO QUARTET",
-      "time": "17:30 / 20:30",
-      "img": "images/65e29e1f2c73717094288373dcaf1614.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21484&date=2026-09-16",
-      "first_seen": "2026-06-19"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-18T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -161,7 +149,7 @@
     "billboard": {
       "artist": "川畑要 Billboard Live Tour 2026\"JUST SING\"",
       "time": "16:00 / 19:00",
-      "img": "images/5e34246994a4d2481b0fbde6b7c10423.jpg",
+      "img": "images/071c5c1e9a4d71ec6a461a677fea88d0.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21243&date=2026-10-03",
       "first_seen": "2026-07-06"
     },
@@ -704,6 +692,18 @@
       "img": "images/87afda5eeae3d31bcc26bacf4ddd736d.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21688&date=2026-12-14",
       "first_seen": "2026-09-16"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-15T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "BBHF “Atom to Atom”",
+      "time": "18:00 / 21:00",
+      "img": "images/b2b03858f600011ccc5a88919397aa3b.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21540&date=2026-12-15",
+      "first_seen": "2026-09-17"
     },
     "cotton": null
   }
