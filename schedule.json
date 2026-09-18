@@ -684,6 +684,18 @@
     "cotton": null
   },
   {
+    "date": "2026-12-13T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "今井美樹 Billboard Live 2026",
+      "time": "16:00 / 19:00",
+      "img": "images/9cc00544e97f54e832bc9f43ebf1c12c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21692&date=2026-12-13",
+      "first_seen": "2026-09-18"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-12-14T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -704,6 +716,18 @@
       "img": "images/b2b03858f600011ccc5a88919397aa3b.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21540&date=2026-12-15",
       "first_seen": "2026-09-17"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-16T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "藤井尚之 TOUR 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/72bd8c58695068c30fe3bee0c250a262.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
+      "first_seen": "2026-09-18"
     },
     "cotton": null
   }
