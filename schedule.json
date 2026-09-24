@@ -456,6 +456,18 @@
     "cotton": null
   },
   {
+    "date": "2026-11-13T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Billboard Live presents Piano Duo Session #12 稲垣潤一×武部聡志",
+      "time": "17:30 / 20:30",
+      "img": "images/30ce4758c89d285ad1bc91ef67a582f8.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21710&date=2026-11-13",
+      "first_seen": "2026-09-24"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-11-14T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
