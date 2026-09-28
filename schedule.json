@@ -468,6 +468,18 @@
     "cotton": null
   },
   {
+    "date": "2026-11-19T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Chris Dave, MonoNeon and Justus West",
+      "time": "17:30 / 20:30",
+      "img": "images/741715aa774d7092d69eab78b73ceb9e.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21707&date=2026-11-19",
+      "first_seen": "2026-09-28"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-11-24T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
