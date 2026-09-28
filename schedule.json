@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-09-27T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "在日ファンク at Billboard Live TOKYO 2026",
-      "time": "15:00 / 18:00",
-      "img": "images/4b0bc2539d49d90d0ce8b26c431ec96a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21580&date=2026-09-27",
-      "first_seen": "2026-07-06"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-09-28T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -680,6 +668,30 @@
       "img": "images/795163169424ee9c18873eb9e9554505.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-22",
       "first_seen": "2026-09-21"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-26T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "s**t kingz",
+      "time": "16:00 / 19:00",
+      "img": "images/b96105843c10c6ffe060640c17b78f1d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-26",
+      "first_seen": "2026-09-28"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-27T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "s**t kingz",
+      "time": "16:00 / 19:00",
+      "img": "images/b96105843c10c6ffe060640c17b78f1d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-27",
+      "first_seen": "2026-09-28"
     },
     "cotton": null
   }
