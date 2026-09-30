@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-09-28T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "LE VELVETS",
-      "time": "15:00 / 18:00",
-      "img": "images/262d88053fd8102e38224156cc3ff472.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-28",
-      "first_seen": "2026-07-01"
-    },
-    "cotton": null
-  },
-  {
-    "date": "2026-09-29T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "LE VELVETS",
-      "time": "15:00 / 18:00",
-      "img": "images/262d88053fd8102e38224156cc3ff472.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-29",
-      "first_seen": "2026-07-01"
-    },
-    "cotton": null
-  },
-  {
     "date": "2026-10-01T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
