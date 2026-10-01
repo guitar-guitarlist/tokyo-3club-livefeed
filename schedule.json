@@ -682,5 +682,17 @@
       "first_seen": "2026-09-28"
     },
     "cotton": null
+  },
+  {
+    "date": "2026-12-29T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Do As Infinity Billboard Live Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/0b686f899af35f9af53bffe2268bea37.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21679&date=2026-12-29",
+      "first_seen": "2026-10-01"
+    },
+    "cotton": null
   }
 ]
