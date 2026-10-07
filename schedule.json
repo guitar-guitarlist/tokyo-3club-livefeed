@@ -588,6 +588,18 @@
     "cotton": null
   },
   {
+    "date": "2026-12-10T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "トータス松本 ライブ2026 Good Times",
+      "time": "16:30 / 20:00",
+      "img": "images/07e66e645e1f17acb753b4cba89f29d9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21725&date=2026-12-10",
+      "first_seen": "2026-10-07"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-12-11T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
