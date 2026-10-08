@@ -528,6 +528,18 @@
     "cotton": null
   },
   {
+    "date": "2026-12-02T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "【追加公演】ブギ連 ブギる心〜外伝",
+      "time": "17:30 / 20:30",
+      "img": "images/92b585c6d799ca8579db974b7aefb9d4.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21738&date=2026-12-02",
+      "first_seen": "2026-10-08"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-12-04T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
