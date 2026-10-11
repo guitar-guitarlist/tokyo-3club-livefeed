@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-01-08T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "岸谷香 KAORI PARADISE 2027 新春スペシャル",
+      "time": "17:00 / 20:00",
+      "img": "images/b4153667057564703ecebed490bd23eb.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21717&date=2026-01-08",
+      "first_seen": "2026-10-11"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-10-11T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
