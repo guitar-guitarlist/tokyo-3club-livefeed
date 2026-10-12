@@ -12,6 +12,18 @@
     "cotton": null
   },
   {
+    "date": "2026-01-09T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "吾妻光良 & The Swinging Boppers",
+      "time": "15:00 / 18:00",
+      "img": "images/c67ed31cba131a65865b30b10396144e.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21715&date=2026-01-09",
+      "first_seen": "2026-10-12"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-10-11T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
