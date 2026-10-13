@@ -24,26 +24,14 @@
     "cotton": null
   },
   {
-    "date": "2026-10-11T00:00:00.000Z",
+    "date": "2026-01-10T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
-      "artist": "中村佳穂 NAKAMURA KAHO Billboard Live TOUR",
-      "time": "16:00 / 19:00",
-      "img": "images/47cdccc107856182a6d68ffdd62dd27a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21648&date=2026-10-11",
-      "first_seen": "2026-08-14"
-    },
-    "cotton": null
-  },
-  {
-    "date": "2026-10-12T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "中村佳穂 NAKAMURA KAHO Billboard Live TOUR",
-      "time": "16:00 / 19:00",
-      "img": "images/47cdccc107856182a6d68ffdd62dd27a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21648&date=2026-10-12",
-      "first_seen": "2026-08-14"
+      "artist": "Chage Billboard Live 68 to 69",
+      "time": "17:00 / 20:00",
+      "img": "images/88cd9c245eef986e1962b91130d98270.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21747&date=2026-01-10",
+      "first_seen": "2026-10-13"
     },
     "cotton": null
   },
