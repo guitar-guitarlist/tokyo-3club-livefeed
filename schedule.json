@@ -672,6 +672,18 @@
     "cotton": null
   },
   {
+    "date": "2026-12-23T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "生田絵梨花 Erika Ikuta Premium Billboard Live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/a13b92dbf312de39bebaa009cbc646d5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21755&date=2026-12-23",
+      "first_seen": "2026-10-14"
+    },
+    "cotton": null
+  },
+  {
     "date": "2026-12-26T00:00:00.000Z",
     "bluenote": null,
     "billboard": {
@@ -692,6 +704,18 @@
       "img": "images/b96105843c10c6ffe060640c17b78f1d.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-27",
       "first_seen": "2026-09-28"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-12-28T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "PUSHIM YEAR END PREMIUM LIVE 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/68a5de6fb24bea54f5b57e87844dc773.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21741&date=2026-12-28",
+      "first_seen": "2026-10-14"
     },
     "cotton": null
   },
