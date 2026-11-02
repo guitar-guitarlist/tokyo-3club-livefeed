@@ -1,1 +1,1904 @@
-[]
+[
+  {
+    "date": "2026-11-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KIEFER",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/2e855d1ff59a32d453ef8732a8ee1ea6.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "odol ONE-MAN LIVE 2026 at COTTON CLUB",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/8174f480cf9636f4e4be994c1a97a415.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/odol-261101/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-02T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KIEFER",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2e855d1ff59a32d453ef8732a8ee1ea6.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "Kazuki Kosakai Sing,Sing,Sing & Talk!! ～70years / 70minutes～",
+      "time": "1st: 5:00pm / 2nd: 8:00pm",
+      "img": "images/b87be1f0b397f9542e6f8ab3929b6546.jpg",
+      "url": "https://cottonclubjapan.co.jp/jp/sp/artists/kosakaikazuki-261102/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-03T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KIEFER",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/2e855d1ff59a32d453ef8732a8ee1ea6.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Cö shu Nie “A cöshutic Nie Vol.6 in Billboard Live TOKYO and OSAKA”",
+      "time": "15:00 / 18:00",
+      "img": "images/58f5c522ba148494f644df574768afe9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21599&date=2026-11-03",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Kazuki Kosakai Sing,Sing,Sing & Talk!! ～70years / 70minutes～",
+      "time": "1st: 2:00pm / 2nd: 5:00pm",
+      "img": "images/b87be1f0b397f9542e6f8ab3929b6546.jpg",
+      "url": "https://cottonclubjapan.co.jp/jp/sp/artists/kosakaikazuki-261102/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-04T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AZIZA featuring DAVE HOLLAND, CHRIS POTTER, LIONEL LOUEKE & ERIC HARLAND",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/65bb27d405f2de618610b8989a36f994.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "松崎しげる 喜寿77 LIVE ～生涯現役～",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f484e75563158844c154ad0e8e5be844.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shigeru-matsuzaki-261104/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-05T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AZIZA featuring DAVE HOLLAND, CHRIS POTTER, LIONEL LOUEKE & ERIC HARLAND",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/65bb27d405f2de618610b8989a36f994.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "ZARUKAME Billboard Live with special band \"Echoes\" Guest：上野耕平",
+      "time": "17:30 / 20:30",
+      "img": "images/7deb58bd29ef6c6f655e2925851148cf.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21621&date=2026-11-05",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-11-06T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AZIZA featuring DAVE HOLLAND, CHRIS POTTER, LIONEL LOUEKE & ERIC HARLAND",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/65bb27d405f2de618610b8989a36f994.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "大橋トリオ TRIO Sextet Billboard Live Tour 2026",
+      "time": "18:00 / 21:00",
+      "img": "images/dab71f9c5e02f8cfb3689641e5d4fc77.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "ANATOLE MUSTER",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/cad54f478c0e34a06b13247af8136dca.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-07T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MIKA NAKASHIMA LIVE at BLUE NOTE TOKYO 2026",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/daca55054deadc4305eef83ba2f17f53.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/mika-nakashima/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "ANATOLE MUSTER",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/cad54f478c0e34a06b13247af8136dca.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-08T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MIKA NAKASHIMA LIVE at BLUE NOTE TOKYO 2026",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/daca55054deadc4305eef83ba2f17f53.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/mika-nakashima/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "渡辺満里奈 40th Anniversary LIVE “Still Ringing Bells”",
+      "time": "16:00 / 19:00",
+      "img": "images/1a84247cfbbdcdecbf3067b04c9c460b.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "福井晶一 デビュー30周年記念コンサート～Curtain Never Falls～",
+      "time": "1st: 3:30pm / 2nd: 7:00pm",
+      "img": "images/466cb3f794922965a2d5dbb0ca4cc5f4.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shoichi-fukui-261108/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-09T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KEIKO LEE BAND",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/c89dd34f8c55af08b2590cb405a24d2c.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/keiko-lee/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Fender x Billboard Live TOKYO presents THE NIGHT OF TELE® & P-BASS® 〜The 75th ANNIVERSARY〜",
+      "time": "17:30 / 20:30",
+      "img": "images/b30cef9a0a27ff15ac38ce57fd93feb3.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-09",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2026-11-10T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THEO KATZMAN (of VULFPECK) solo",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/5670e2b4577f88ab528d4d78f966e8bb.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Fender x Billboard Live TOKYO presents THE NIGHT OF TELE® & P-BASS® 〜The 75th ANNIVERSARY〜",
+      "time": "17:30 / 20:30",
+      "img": "images/b30cef9a0a27ff15ac38ce57fd93feb3.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-10",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "古舘と客人と vol.41 古舘伊知郎 有働由美子",
+      "time": "1st: 8:00pm",
+      "img": "images/7fefd3788f0ae29ee95015356854b23c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-261110/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-11T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THEO KATZMAN (of VULFPECK) solo",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/5670e2b4577f88ab528d4d78f966e8bb.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "LA RESERVE ASIA TOUR 2026 : MARIA KIM, LUCY YEGHIAZARYAN & CAITY GYORGY",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/ba23341bbc613c59e7a75dfd1699ed4f.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/la-reserve-asiatour-20261111/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-12T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/cb728a92509295103dcf53c30d5a5199.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "大黒摩季 アルバム「55 RED」発売記念ライブ Vol.1  「ビルボードライブ東京から✨世界旅行にいこうよ Baby❤️」",
+      "time": "17:30 / 20:30",
+      "img": "images/478f32a17b3bd8b030090c5e5ff2e2be.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21670&date=2026-11-12",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "BENNY GREEN - piano solo -",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/acb8f967795c278e9420c661c4e8129d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-261112/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-13T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/cb728a92509295103dcf53c30d5a5199.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Billboard Live presents Piano Duo Session #12 稲垣潤一×武部聡志",
+      "time": "17:30 / 20:30",
+      "img": "images/30ce4758c89d285ad1bc91ef67a582f8.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21710&date=2026-11-13",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "BENNY GREEN TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/722411d3ee184b4cbc2b05badaf120c6.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-14T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/cb728a92509295103dcf53c30d5a5199.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "miwa Billboard Live Tour 2026 “miwa CLASSIC Ⅵ”",
+      "time": "16:00 / 19:00",
+      "img": "images/5f544043003513ecfbd4a4222f4d0cc2.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21637&date=2026-11-14",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "BENNY GREEN TRIO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/722411d3ee184b4cbc2b05badaf120c6.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-15T00:00:00.000Z",
+    "bluenote": {
+      "artist": "VENNA",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/a784bbb8d584df0190f414400d7c09e9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/venna/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Grooving Night Premium in Billboard Live TOKYO SIRUP×AAAMYYY",
+      "time": "16:00 / 19:30",
+      "img": "images/b651e44c68afe083745dc03e6f778abf.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "BENNY GREEN TRIO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/722411d3ee184b4cbc2b05badaf120c6.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/cff9f6c43bf0c2292bd428b64731aaff.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "ブギ連 ブギる心〜外伝",
+      "time": "17:30 / 20:30",
+      "img": "images/006b8acc22720f9b349dd92e91ba69ac.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "RICHARD GALLIANO NEW VIAGGIO TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/902bcb5f081fed3d9d5739ceec5e1372.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/richard-galliano-261116/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/cff9f6c43bf0c2292bd428b64731aaff.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "RICHARD GALLIANO NEW VIAGGIO TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/902bcb5f081fed3d9d5739ceec5e1372.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/richard-galliano-261116/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JUJU JAZZ LIVE 2026 EVERYTHING IS DELICIOUS IN AUTUMN!!",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/cff9f6c43bf0c2292bd428b64731aaff.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "CARLOS TOSHIKI 40th ANNIVERSARY LIVE TOUR 2026",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/223633c713fe678aad5103694aae1dc9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/carlos-toshiki-261118/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-19T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Chris Dave, MonoNeon and Justus West",
+      "time": "17:30 / 20:30",
+      "img": "images/741715aa774d7092d69eab78b73ceb9e.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21707&date=2026-11-19",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "CARLOS TOSHIKI 40th ANNIVERSARY LIVE TOUR 2026",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/223633c713fe678aad5103694aae1dc9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/carlos-toshiki-261118/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-20T00:00:00.000Z",
+    "bluenote": {
+      "artist": "PACIFIC JAZZ ORCHESTRA directed by CHRIS WALDEN",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/6388c765523cf303ab3186175d786afe.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/41a388abf51a217d6c59223183df58b0.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenny-barron-trio-261120/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-21T00:00:00.000Z",
+    "bluenote": {
+      "artist": "PACIFIC JAZZ ORCHESTRA directed by CHRIS WALDEN",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/6388c765523cf303ab3186175d786afe.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/41a388abf51a217d6c59223183df58b0.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenny-barron-trio-261120/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-22T00:00:00.000Z",
+    "bluenote": {
+      "artist": "PACIFIC JAZZ ORCHESTRA directed by CHRIS WALDEN",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/6388c765523cf303ab3186175d786afe.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/41a388abf51a217d6c59223183df58b0.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenny-barron-trio-261120/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-23T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/2ff7b104dc100f40ca82e1ada924dc64.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
+      "time": "1st: 4:00pm / 2nd: 7:00pm",
+      "img": "images/f73b81da1d70cfe51a5739f1be32a80c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tsubasa-makoto-261123/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-24T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2ff7b104dc100f40ca82e1ada924dc64.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Che'Nelle Billboard Live Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/556b0a58e54188fd2ec2f5f56b9b861a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21659&date=2026-11-24",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
+      "time": "1st: 4:00pm",
+      "img": "images/f73b81da1d70cfe51a5739f1be32a80c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tsubasa-makoto-261123/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-25T00:00:00.000Z",
+    "bluenote": {
+      "artist": "KENNY BARRON TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2ff7b104dc100f40ca82e1ada924dc64.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "佐藤竹善 Your Christmas Night 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/6785a0459d60b50b1d687e3f22adc534.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21587&date=2026-11-25",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
+      "time": "1st: 4:00pm / 2nd: 7:00pm",
+      "img": "images/f73b81da1d70cfe51a5739f1be32a80c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tsubasa-makoto-261123/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TAKUYA KURODA",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/dd7fc27de918c8e03ec282e5cdd8fd53.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/takuya-kuroda/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2026-11-27T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TAKUYA KURODA",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/dd7fc27de918c8e03ec282e5cdd8fd53.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/takuya-kuroda/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "ハナレグミ faraway so close 2026 〜ハナレグミ with sweet thing♡ fall in Autumn〜",
+      "time": "18:00 / 21:00",
+      "img": "images/4d04ffe4f15b6532a432c54e69ed0bf4.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21635&date=2026-11-27",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "YASUDA NARUMI 60th",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/a1c89e6e4a455055eead1e6542ca2435.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yasuda-narumi-261127/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-28T00:00:00.000Z",
+    "bluenote": {
+      "artist": "RHYMESTER AND THE BOOM BAPS \"King of Stage at Blue Note Tokyo 2026\"",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/6c848409a3de1279dab8589ba8581d14.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/rhymester/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "鈴木茂「LAGOON」発売50周年記念ライブ",
+      "time": "16:00 / 19:00",
+      "img": "images/6e3c7913860e66001f3011e6c07c9c85.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21563&date=2026-11-28",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "YASUDA NARUMI 60th",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/a1c89e6e4a455055eead1e6542ca2435.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yasuda-narumi-261127/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-29T00:00:00.000Z",
+    "bluenote": {
+      "artist": "RHYMESTER AND THE BOOM BAPS \"King of Stage at Blue Note Tokyo 2026\"",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/6c848409a3de1279dab8589ba8581d14.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/rhymester/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "二階堂和美 アルバム ”潮汐” 発売記念ワンマンライブ at Billboard Live",
+      "time": "16:00 / 19:00",
+      "img": "images/478a0e004374b42863b557c2d307911c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21592&date=2026-11-29",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "PLATINA JAZZ",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/851f49adc36d0afa702ebb22984d4cae.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-11-30T00:00:00.000Z",
+    "bluenote": {
+      "artist": "GARY BARTZ & NTU",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/951f2e60fa106139853c5724f0ac6834.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": ".ENDRECHERI. Billboard Live Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/66b0c569deaf7fcdf3963ddcd002e9c6.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21676&date=2026-11-30",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "PLATINA JAZZ",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/851f49adc36d0afa702ebb22984d4cae.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "GARY BARTZ & NTU",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/951f2e60fa106139853c5724f0ac6834.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "浜田雅功 at Billboard Live TOKYO〜LIVE DEBUT〜",
+      "time": "17:00 / 20:00",
+      "img": "images/d47cb8496d3df5baef602b8cc035eedd.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21790&date=2026-12-01",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "PLATINA JAZZ",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/851f49adc36d0afa702ebb22984d4cae.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-02T00:00:00.000Z",
+    "bluenote": {
+      "artist": "GARY BARTZ & NTU",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/951f2e60fa106139853c5724f0ac6834.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "【追加公演】ブギ連 ブギる心〜外伝",
+      "time": "17:30 / 20:30",
+      "img": "images/92b585c6d799ca8579db974b7aefb9d4.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21738&date=2026-12-02",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "PLATINA JAZZ",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/851f49adc36d0afa702ebb22984d4cae.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-03T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SAI \"FLOW TONES 26\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/3e111ba425f15a96748abe39e6648233.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/sai/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "NOA Billboard Live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/43334147d9c3d9707b054248293bbfd7.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21752&date=2026-12-03",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "高岡早紀 Birthday Premium Live 2026",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/ac1104428d52a1bf21c717c8e206b23e.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/saki-takaoka-261203/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-04T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SOIL&\"PIMP\"SESSIONS YEAR-END SPECIAL LIVE 2026 IN TOKYO「SO il WHAT」",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f68a215e80d46585d232e152aeb8b225.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/soilandpimp-sessions/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "斉藤由貴 Xmas live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/ad284406a87a67d23435fa68085068c3.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Music and Bullet Ⅱ",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/4f350ae07f6d336d507f5e98cb854b01.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/music-and-bullet-261204/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-05T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SOIL&\"PIMP\"SESSIONS YEAR-END SPECIAL LIVE 2026 IN TOKYO「SO il WHAT」",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/f68a215e80d46585d232e152aeb8b225.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/soilandpimp-sessions/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Jeremy Quartus (Nulbarich) Been a Minute",
+      "time": "16:00 / 19:00",
+      "img": "images/96e2223d4906e63d7326253a350e641a.jpeg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Music and Bullet Ⅱ",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/4f350ae07f6d336d507f5e98cb854b01.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/music-and-bullet-261204/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-06T00:00:00.000Z",
+    "bluenote": {
+      "artist": "LEE RITENOUR",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/deaff6ae6851d8a7cd3b484aea414667.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/lee-ritenour/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "BONNIE PINK Billboard Live 2026 アルバム再現ツアー Vol.3 「Even So」",
+      "time": "15:00 / 18:00",
+      "img": "images/be6c057ba18a6418865b6ba5c002d397.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21673&date=2026-12-06",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Music and Bullet Ⅱ",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/4f350ae07f6d336d507f5e98cb854b01.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/music-and-bullet-261204/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-07T00:00:00.000Z",
+    "bluenote": {
+      "artist": "LEE RITENOUR",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/deaff6ae6851d8a7cd3b484aea414667.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/lee-ritenour/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "Music and Bullet Ⅱ",
+      "time": "1st: 7:30pm",
+      "img": "images/4f350ae07f6d336d507f5e98cb854b01.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/music-and-bullet-261204/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-08T00:00:00.000Z",
+    "bluenote": {
+      "artist": "LEE RITENOUR",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/deaff6ae6851d8a7cd3b484aea414667.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/lee-ritenour/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "ISSA Premium Live at Billboard Live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/a85e91fef18006c1f05017bf05c872eb.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21727&date=2026-12-08",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "\"CINEMA SONGBOOK\" directed by SHU KANEMATSU",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/75f0a9c6a4740a5d18d50746c12a5ef5.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/cinema-songbook-261208/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-09T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Rei presents \"JAM! JAM! JAM!\" 2026",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/e1bd62f1f042c1e27836d3e7585e8997.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/rei/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "ISSA Premium Live at Billboard Live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/a85e91fef18006c1f05017bf05c872eb.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21727&date=2026-12-09",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "TADATAKA UNNO TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/db2a51052a5e56ecead35fe4171e16ec.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tadataka-unno-261209/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-10T00:00:00.000Z",
+    "bluenote": {
+      "artist": "NAOKO TERAI QUARTET Christmas Special \"The Precious Night 2026\" at Blue Note Tokyo",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/3feb3644edcfbb24993dd0c4c9831010.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/naoko-terai/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "トータス松本 ライブ2026 Good Times",
+      "time": "16:30 / 20:00",
+      "img": "images/07e66e645e1f17acb753b4cba89f29d9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21725&date=2026-12-10",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "KAZUKI KATO TREASURE BOX 2026 - MAN TO MAN3 -",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/926668e6db596f1f7ac686f50a727c06.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kazuki-kato-261210/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-11T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TANK AND THE BANGAS：The Last Balloon Tour",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/d1834cb315d135fe1cbf54b7a81fc7d9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "BENI \"THE SHOW\" 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/3a8c879531b33922761945da6a73b774.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21546&date=2026-12-11",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "KAZUKI KATO TREASURE BOX 2026 - MAN TO MAN3 -",
+      "time": "1st: 3:30pm / 2nd: 6:30pm",
+      "img": "images/926668e6db596f1f7ac686f50a727c06.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kazuki-kato-261210/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-12T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TANK AND THE BANGAS：The Last Balloon Tour",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/d1834cb315d135fe1cbf54b7a81fc7d9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "NOA Billboard Live 2026",
+      "time": "16:00 / 19:00",
+      "img": "images/43334147d9c3d9707b054248293bbfd7.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21752&date=2026-12-12",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "松本伊代 早見優 SWEET WINTER ～Yesterday Once More～",
+      "time": "1st: 3:00pm / 2nd: 6:00pm",
+      "img": "images/da60506d546faa3411523e4f98e381ad.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/iyo-yu-261212/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-13T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TANK AND THE BANGAS：The Last Balloon Tour",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/d1834cb315d135fe1cbf54b7a81fc7d9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "今井美樹 Billboard Live 2026",
+      "time": "16:00 / 19:00",
+      "img": "images/9cc00544e97f54e832bc9f43ebf1c12c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21692&date=2026-12-13",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "THREE VISITORS featuring EDWARD SIMON, SCOTT COLLEY & BRIAN BLADE",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/b567f807aa1678a81be34ae690506a12.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/three-visitors-261213/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-14T00:00:00.000Z",
+    "bluenote": {
+      "artist": "DOMi & JD BECK",
+      "time": "1st: 6:00pm / 2nd: 9:00pm",
+      "img": "images/207f2315d129062736887fcf0543600b.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/domi-jd-beck/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Marihiko Hara Trio",
+      "time": "17:30 / 20:30",
+      "img": "images/87afda5eeae3d31bcc26bacf4ddd736d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21688&date=2026-12-14",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "THREE VISITORS featuring EDWARD SIMON, SCOTT COLLEY & BRIAN BLADE",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/b567f807aa1678a81be34ae690506a12.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/three-visitors-261213/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-15T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THREE VISITORS featuring Edward Simon, Scott Colley & Brian Blade",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/e78269b89a3dfa4d1dc50b55f7187fa6.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/three-visitors/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "BBHF “Atom to Atom”",
+      "time": "18:00 / 21:00",
+      "img": "images/b2b03858f600011ccc5a88919397aa3b.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21540&date=2026-12-15",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "古舘と客人と vol.42 古舘伊知郎 蒼井優",
+      "time": "1st: 8:00pm",
+      "img": "images/dcebfae2e0aee6bf2bbadc15c57320eb.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-261215/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TROPICAL JAZZ BIG BAND",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f054d1e85c36f2cdf88a5653e3e4a34f.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/nettai-jazz-gakudan/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "藤井尚之 TOUR 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/72bd8c58695068c30fe3bee0c250a262.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "松原健之 クリスマスディナーショー2026",
+      "time": "1st: 2:30pm / 2nd: 5:45pm",
+      "img": "images/343f5d2fb8097f38f28bf02e7c91f73d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takeshi-matsubara-261216/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TROPICAL JAZZ BIG BAND",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f054d1e85c36f2cdf88a5653e3e4a34f.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/nettai-jazz-gakudan/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "CRAZY KEN BAND Billboard Live TOUR 2026 ビルボードライブ東京のクレイジーケンバンド",
+      "time": "17:30 / 20:30",
+      "img": "images/86185480326499cff552e70efc33d025.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21748&date=2026-12-17",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "MARLENE - Timeless Elegance - featuring THREESOME & Strings",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/055c903a7c62c5d4a8d3e2a76453422b.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marlene-261217/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AKIKO WADA -SOUL POWER-",
+      "time": "1st: 7:00pm",
+      "img": "images/63bb1ddf4b775e95fa6da298d620707b.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/akiko-wada/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "CRAZY KEN BAND Billboard Live TOUR 2026 ビルボードライブ東京のクレイジーケンバンド",
+      "time": "17:30 / 20:30",
+      "img": "images/86185480326499cff552e70efc33d025.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21748&date=2026-12-18",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "JASON MORAN plays DUKE ELLINGTON",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/d68cbf530c103f9c6fb92626b9309032.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jason-moran-261218/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-19T00:00:00.000Z",
+    "bluenote": {
+      "artist": "AKIKO WADA -SOUL POWER-",
+      "time": "1st: 6:00pm",
+      "img": "images/63bb1ddf4b775e95fa6da298d620707b.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/akiko-wada/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Billboard Live presents The Stylistics Japan Tour 2026",
+      "time": "16:00 / 19:00",
+      "img": "images/795163169424ee9c18873eb9e9554505.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-19",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "JASON MORAN plays DUKE ELLINGTON",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/d68cbf530c103f9c6fb92626b9309032.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jason-moran-261218/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-20T00:00:00.000Z",
+    "bluenote": {
+      "artist": "kanekoayanoと荒地のエリカたち live",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/a01b53fcb96f6d617ab88aad87a47fae.jpg",
+      "url": "http://www.bluenote.co.jp/jp/artists/kaneko-ayano/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "iri 10th Anniversary LIVE “after party” AT BILLBOARD LIVE TOKYO",
+      "time": "16:30 / 19:30",
+      "img": "images/4711c299e0d89f9179401ccaf5bafca5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21762&date=2026-12-20",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Salyu × Strings A Christmas Evening of Light",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/77ca7a2a4a0312d6ded243ef121e2c5f.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/salyu-261220/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-21T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HOLLY COLE : Swinging Christmas with Strings",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/da3da9278522f677c1962b8e9564ec91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/holly-cole/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Billboard Live presents The Stylistics Japan Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/795163169424ee9c18873eb9e9554505.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-21",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "COREY KING \"Change the Wind\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2aa70a44603dacd978f3e5e42b5c12f0.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/corey-king-261221/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-22T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HOLLY COLE : Swinging Christmas with Strings",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/da3da9278522f677c1962b8e9564ec91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/holly-cole/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Billboard Live presents The Stylistics Japan Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/795163169424ee9c18873eb9e9554505.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-22",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "GLAY TAKURO Christmas Live \"Journey without a map 2026\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/e2195a3668b17334b0bdb0d747025f9e.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/glay-takuro-261222/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-23T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HOLLY COLE : Swinging Christmas with Strings",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/da3da9278522f677c1962b8e9564ec91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/holly-cole/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "生田絵梨花 Erika Ikuta Premium Billboard Live 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/a13b92dbf312de39bebaa009cbc646d5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21755&date=2026-12-23",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Special Christmas Evening with LAURA ANGLADE",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2b176c6008ae3d32ec2bffa8bc11ecd3.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/laura-anglade-261223/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-24T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Christmas Evening with EMMET COHEN",
+      "time": "1st: 6:00pm / 2nd: 9:00pm",
+      "img": "images/b31e3d407b48527ef023eb564a266922.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/emmet-cohen/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "Special Christmas Evening with LAURA ANGLADE",
+      "time": "1st: 6:00pm / 2nd: 9:00pm",
+      "img": "images/2b176c6008ae3d32ec2bffa8bc11ecd3.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/laura-anglade-261223/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-25T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Christmas Evening with EMMET COHEN",
+      "time": "1st: 6:00pm / 2nd: 9:00pm",
+      "img": "images/b31e3d407b48527ef023eb564a266922.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/emmet-cohen/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "Special Christmas Evening with LAURA ANGLADE",
+      "time": "1st: 6:00pm / 2nd: 9:00pm",
+      "img": "images/2b176c6008ae3d32ec2bffa8bc11ecd3.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/laura-anglade-261223/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Christmas Evening with EMMET COHEN",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/b31e3d407b48527ef023eb564a266922.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/emmet-cohen/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "s**t kingz",
+      "time": "16:00 / 19:00",
+      "img": "images/b96105843c10c6ffe060640c17b78f1d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-26",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "山中千尋トリオ バースデイ・スペシャル・ライヴ 2026",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/8aa52d2a8c95975d942721edb1490df9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/chihiro-yamanaka-261226/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-27T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Christmas Evening with EMMET COHEN",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/b31e3d407b48527ef023eb564a266922.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/emmet-cohen/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "s**t kingz",
+      "time": "16:00 / 19:00",
+      "img": "images/b96105843c10c6ffe060640c17b78f1d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-27",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "SCOOBIE DO チャンプレコード20周年！デラックスワンマンショー！",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/27618ba111871c0f3d076ee0f076fec3.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/scoobie-do-261227/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-28T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "PUSHIM YEAR END PREMIUM LIVE 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/68a5de6fb24bea54f5b57e87844dc773.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21741&date=2026-12-28",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "MATT BIANCO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/3489735c5121442596172e6871e1c8de.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/matt-bianco-261228/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-29T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Do As Infinity Billboard Live Tour 2026",
+      "time": "17:30 / 20:30",
+      "img": "images/0b686f899af35f9af53bffe2268bea37.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21679&date=2026-12-29",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "MATT BIANCO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/3489735c5121442596172e6871e1c8de.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/matt-bianco-261228/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-30T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 4:00pm / 2nd: 7:00pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "MATT BIANCO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/3489735c5121442596172e6871e1c8de.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/matt-bianco-261228/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2026-12-31T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 7:30pm / 2nd: 11:00pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "MATT BIANCO",
+      "time": "1st: 7:30pm / 2nd: 10:45pm",
+      "img": "images/3489735c5121442596172e6871e1c8de.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/matt-bianco-261228/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 4:00pm / 2nd: 7:00pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-02T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 4:00pm / 2nd: 7:00pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "民謡クルセイダーズ 迎春！MINYO IS BACK IN TOWN 2027 NEW YEAR AT COTTON CLUB 〜フレディ塚本Birthday Special!!〜",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/3531493bd5c4d2a472536f107b3786a6.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/minyo-crusaders-270102/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-03T00:00:00.000Z",
+    "bluenote": {
+      "artist": "HIROMI THE TRIO PROJECT featuring James Genus & Simon Phillips",
+      "time": "1st: 4:00pm / 2nd: 7:00pm",
+      "img": "images/f0d2491904a2ed329612809659fea811.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/hiromi-uehara/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "民謡クルセイダーズ 迎春！MINYO IS BACK IN TOWN 2027 NEW YEAR AT COTTON CLUB 〜フレディ塚本Birthday Special!!〜",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/3531493bd5c4d2a472536f107b3786a6.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/minyo-crusaders-270102/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-04T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "STEAM ENGINE featuring Hiro Kimura, Tomoaki Baba, Yusuke Sase, Shota Watanabe & Keisuke Furuki",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/1d41e3a4889189b470ebf7c71de27c6e.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/steam-engine-270104/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-05T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TOSHIKI SOEJIMA 8th Anniversary Live",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/476d6ad5ee2e918f7824f0cad0dbd479.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/toshiki-soejima/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-06T00:00:00.000Z",
+    "bluenote": {
+      "artist": "TOSHIKI SOEJIMA 8th Anniversary Live",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/476d6ad5ee2e918f7824f0cad0dbd479.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/toshiki-soejima/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-07T00:00:00.000Z",
+    "bluenote": {
+      "artist": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guest JOSE JAMES",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/cf49f6c89fd7ac1d1d6f08db01975d55.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jose-james-bnt-all-star-jazz-orchestra/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-08T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JOSE JAMES presents Facing East: The Music of John Coltrane with special guest RON BLAKE",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/090fe9e8a6b8ea25c32767c8ab607d69.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jose-james/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "岸谷香 KAORI PARADISE 2027 新春スペシャル",
+      "time": "17:00 / 20:00",
+      "img": "images/b4153667057564703ecebed490bd23eb.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21717&date=2027-01-08",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-09T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JOSE JAMES presents Facing East: The Music of John Coltrane with special guest RON BLAKE",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/090fe9e8a6b8ea25c32767c8ab607d69.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jose-james/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "吾妻光良 & The Swinging Boppers",
+      "time": "15:00 / 18:00",
+      "img": "images/c67ed31cba131a65865b30b10396144e.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21715&date=2027-01-09",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "大西順子 - ジャズ・ピアノ・ソロ リサイタル - American Classics",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/294cdbb3de15afa4eb395c10d2247077.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/junko-onishi-270109/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-10T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JOSE JAMES presents Facing East: The Music of John Coltrane with special guest RON BLAKE",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/090fe9e8a6b8ea25c32767c8ab607d69.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jose-james/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Chage Billboard Live 68 to 69",
+      "time": "17:00 / 20:00",
+      "img": "images/b4778dcbd3db565a79bc8c5ab08b9e65.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21747&date=2027-01-10",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Jazz Momentum 2027",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/b02a5ca3c51752dc459efd9f64c5347c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jazz-momentum-270110/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-11T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JEFF PARKER ETA IVtet",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/ac92dc20ac003001d0b43378010b74c1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jeff-parker/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Jazztronik New Year Live 2027",
+      "time": "16:00 / 19:00",
+      "img": "images/3757085ef45d63a1003f3905309e0826.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21763&date=2027-01-11",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Jazz Momentum 2027",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/b02a5ca3c51752dc459efd9f64c5347c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/jazz-momentum-270110/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-12T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JEFF PARKER ETA IVtet",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/ac92dc20ac003001d0b43378010b74c1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jeff-parker/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-13T00:00:00.000Z",
+    "bluenote": {
+      "artist": "JEFF PARKER ETA IVtet",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/ac92dc20ac003001d0b43378010b74c1.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/jeff-parker/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Charlie Hunter Trio",
+      "time": "17:30 / 20:30",
+      "img": "images/c605de1ae779cfaa9415c76a7f59129c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-13",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Fujikochans produced by YUJI OHNO introducing Fujikochans 2027",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/bda38e3df9d5c40f71cf1531fd450a34.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/fujikochans-270113/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-14T00:00:00.000Z",
+    "bluenote": {
+      "artist": "isles",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/ea50587d53ecb572d80ee5562f41555c.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/isles/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Charlie Hunter Trio",
+      "time": "17:30 / 20:30",
+      "img": "images/c605de1ae779cfaa9415c76a7f59129c.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-14",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "Fujikochans produced by YUJI OHNO introducing Fujikochans 2027",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/bda38e3df9d5c40f71cf1531fd450a34.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/fujikochans-270113/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-15T00:00:00.000Z",
+    "bluenote": {
+      "artist": "INCOGNITO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/c0625d15b8a0233edd3daa68b35dae10.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "marasy, Shota Horie, Yumao at Billboard Live まらしぃ／堀江晶太(kemu)／ゆーまお［ヒトリエ］",
+      "time": "17:30 / 20:30",
+      "img": "images/f16ecdfca2d78967fef92b47ac6860d0.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21712&date=2027-01-15",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-16T00:00:00.000Z",
+    "bluenote": {
+      "artist": "INCOGNITO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/c0625d15b8a0233edd3daa68b35dae10.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-17T00:00:00.000Z",
+    "bluenote": {
+      "artist": "INCOGNITO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/c0625d15b8a0233edd3daa68b35dae10.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Sonar Pocket",
+      "time": "16:00 / 19:00",
+      "img": "images/31a451fd25a3ad8e97a2d59cde50c8c1.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21731&date=2027-01-17",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-18T00:00:00.000Z",
+    "bluenote": {
+      "artist": "INCOGNITO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/c0625d15b8a0233edd3daa68b35dae10.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "KAZ Billboard Live 2026-2027“SLOW AFTERGLOW”",
+      "time": "17:30 / 20:30",
+      "img": "images/2c5a4c228e586e3ea1a2886b8cee3dbd.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-18",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-19T00:00:00.000Z",
+    "bluenote": {
+      "artist": "INCOGNITO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/c0625d15b8a0233edd3daa68b35dae10.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "KAZ Billboard Live 2026-2027“SLOW AFTERGLOW”",
+      "time": "17:30 / 20:30",
+      "img": "images/2c5a4c228e586e3ea1a2886b8cee3dbd.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-19",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-20T00:00:00.000Z",
+    "bluenote": {
+      "artist": "INCOGNITO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/c0625d15b8a0233edd3daa68b35dae10.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "Cityy 寺地美穂（Sax,Fl,Vo）/ 中園亜美（Sax,Vo）/ 竹田麻里絵（Key,Vo）/ Juna Serita（Ba,Vo）featuring 則竹裕之（Dr）",
+      "time": "17:30 / 20:30",
+      "img": "images/8366d637b6dbcd5ca477c144cd90238b.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21711&date=2027-01-20",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-21T00:00:00.000Z",
+    "bluenote": {
+      "artist": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/c5fdeb5d9c68736518ce34be7dd0463f.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/the-messthetics/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "玉井詩織 Billboard Live Tour 2027 「With the music」",
+      "time": "18:00 / 21:00",
+      "img": "images/7240edf7363c2bb2c2fc63c6cc7eb929.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-21",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-01-22T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "玉井詩織 Billboard Live Tour 2027 「With the music」",
+      "time": "18:00 / 21:00",
+      "img": "images/7240edf7363c2bb2c2fc63c6cc7eb929.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-22",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/cd4194bcb75328b7fccf2e674efe751c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/the-messthetics-270122/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-23T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "EPO エンドレスバレンタイン　With 清水信之＋佐橋佳幸＋GOOD BYE APRIL",
+      "time": "15:00 / 18:00",
+      "img": "images/12720df69d08f7e6dc5643efbb1839d3.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21693&date=2027-01-23",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/cd4194bcb75328b7fccf2e674efe751c.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/the-messthetics-270122/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-24T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "EPO エンドレスバレンタイン　With 清水信之＋佐橋佳幸＋GOOD BYE APRIL",
+      "time": "15:00 / 18:00",
+      "img": "images/12720df69d08f7e6dc5643efbb1839d3.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21693&date=2027-01-24",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "木住野佳子トリオ New Year Live 2027",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/3ae3871a1e9103e3d2a66d221dcfa7db.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yoshiko-kishino-trio-270124/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "Kroi featuring INCOGNITO horns",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/5ab75c6aa55a552c5e9e26ce7042a540.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/kroi-incognito/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "BLICHER HEMMER GADD",
+      "time": "17:30 / 20:30",
+      "img": "images/8a3cdb3c4312478f645ce62629455a5a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21768&date=2027-01-26",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "KEI AKAGI TRIO 「BACKFLOATING & MIDNIGHT SIDEWALK」",
+      "time": "1st: 7:00pm",
+      "img": "images/c4e271728d70a77dbd8960829a4d4b77.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kei-akagi-270126/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-27T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SENRI OE TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/4be5845234ae0208a0b9449700bb8168.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "柴田淳",
+      "time": "17:30 / 20:30",
+      "img": "images/aae71efe3440643e5dbe79485382152a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21777&date=2027-01-27",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "NATHAN EAST \"Ultimate Songbook Tour\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/7969ec18a4dee99e76c18f623f0bfc34.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nathan-east270127/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-28T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SENRI OE TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/4be5845234ae0208a0b9449700bb8168.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": {
+      "artist": "LOSALIOS with 田中邦和、タブゾンビ、LEO",
+      "time": "17:30 / 20:30",
+      "img": "images/cc3ed840643a161d79432b2fc978218d.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21698&date=2027-01-28",
+      "first_seen": "2026-11-02"
+    },
+    "cotton": {
+      "artist": "NATHAN EAST \"Ultimate Songbook Tour\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/7969ec18a4dee99e76c18f623f0bfc34.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/nathan-east270127/",
+      "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-01-29T00:00:00.000Z",
+    "bluenote": {
+      "artist": "SENRI OE TRIO",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/4be5845234ae0208a0b9449700bb8168.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-30T00:00:00.000Z",
+    "bluenote": {
+      "artist": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guest GRETCHEN PARLATO",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/7bce74be74cf515d68bbf1900de09ab2.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato-bnt-all-star-jazz-orchestra/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-01-31T00:00:00.000Z",
+    "bluenote": {
+      "artist": "GRETCHEN PARLATO \"The Wise Ones\"",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/5d5ca1d9a26c62a9d9414698375ca04a.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "GRETCHEN PARLATO \"The Wise Ones\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/5d5ca1d9a26c62a9d9414698375ca04a.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-02T00:00:00.000Z",
+    "bluenote": {
+      "artist": "GRETCHEN PARLATO \"The Wise Ones\"",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/5d5ca1d9a26c62a9d9414698375ca04a.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
+      "first_seen": "2026-11-02"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-05T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "広瀬未来ジャズオーケストラ",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/8075f658c5f36b39c48b98463a04fbf6.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miki-hirose-270205/",
+      "first_seen": "2026-11-02"
+    }
+  }
+]
