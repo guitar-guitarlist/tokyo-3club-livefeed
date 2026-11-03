@@ -1862,7 +1862,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "Semana da Música Brasileira e Latina! 2027 宮沢和史 & JABATIDA ～ジャバチーダ新春コンサート！～",
+      "time": "16:00 / 19:00",
+      "img": "images/f4cb89400bc4c6d084cc6616f16ca0b5.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21722&date=2027-01-31",
+      "first_seen": "2026-11-03"
+    },
     "cotton": null
   },
   {
