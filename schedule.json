@@ -1605,7 +1605,13 @@
       "first_seen": "2026-11-02"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "NEW YORK VOICES Farewell Tour 2027",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/7e95dd07aa9d2cd9771980845c6265e9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/new-york-voices-270116/",
+      "first_seen": "2026-11-04"
+    }
   },
   {
     "date": "2027-01-17T00:00:00.000Z",
@@ -1623,7 +1629,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21731&date=2027-01-17",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "NEW YORK VOICES Farewell Tour 2027",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/7e95dd07aa9d2cd9771980845c6265e9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/new-york-voices-270116/",
+      "first_seen": "2026-11-04"
+    }
   },
   {
     "date": "2027-01-18T00:00:00.000Z",
@@ -1641,7 +1653,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-18",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "NEW YORK VOICES Farewell Tour 2027",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/7e95dd07aa9d2cd9771980845c6265e9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/new-york-voices-270116/",
+      "first_seen": "2026-11-04"
+    }
   },
   {
     "date": "2027-01-19T00:00:00.000Z",
@@ -1659,7 +1677,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-19",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "NEW YORK VOICES Farewell Tour 2027",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/7e95dd07aa9d2cd9771980845c6265e9.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/new-york-voices-270116/",
+      "first_seen": "2026-11-04"
+    }
   },
   {
     "date": "2027-01-20T00:00:00.000Z",
@@ -1905,6 +1929,54 @@
       "img": "images/8075f658c5f36b39c48b98463a04fbf6.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miki-hirose-270205/",
       "first_seen": "2026-11-02"
+    }
+  },
+  {
+    "date": "2027-02-06T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "伊東たけし メロウ・マッドネス・セプテット \"Luxury Night 2027\"",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/de73675433862c532ee3e66a5cda0c80.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takeshi-ito-270206/",
+      "first_seen": "2026-11-04"
+    }
+  },
+  {
+    "date": "2027-02-07T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "伊東たけし メロウ・マッドネス・セプテット \"Luxury Night 2027\"",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/de73675433862c532ee3e66a5cda0c80.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takeshi-ito-270206/",
+      "first_seen": "2026-11-04"
+    }
+  },
+  {
+    "date": "2027-02-17T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
+      "time": "1st: 5:30pm / 2nd: 8:30pm",
+      "img": "images/7646e780576adbf92b4a078f6b4e192d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toshinori-yonekura-270217/",
+      "first_seen": "2026-11-04"
+    }
+  },
+  {
+    "date": "2027-02-23T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
+      "time": "1st: 3:30pm / 2nd: 6:30pm",
+      "img": "images/229d9b1a273c3e60dfd1ed0f54b3252b.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toshinori-yonekura-270217/",
+      "first_seen": "2026-11-04"
     }
   }
 ]
