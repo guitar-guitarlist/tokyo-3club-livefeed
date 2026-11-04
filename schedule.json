@@ -44,13 +44,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "Cö shu Nie “A cöshutic Nie Vol.6 in Billboard Live TOKYO and OSAKA”",
-      "time": "15:00 / 18:00",
-      "img": "images/58f5c522ba148494f644df574768afe9.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21599&date=2026-11-03",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "Kazuki Kosakai Sing,Sing,Sing & Talk!! ～70years / 70minutes～",
       "time": "1st: 2:00pm / 2nd: 5:00pm",
@@ -1880,7 +1874,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "大塚 愛 AIO BRASSIC vol.2",
+      "time": "17:00 / 20:00",
+      "img": "images/863c8c0ec425b2d8dbb0cbaadc115333.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21699&date=2027-02-01",
+      "first_seen": "2026-11-04"
+    },
     "cotton": null
   },
   {
