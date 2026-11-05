@@ -1856,7 +1856,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "夏川りみ Billboard Live 2027 『Volume 〜Color〜』",
+      "time": "17:30 / 20:30",
+      "img": "images/9276f923811226c9d13777c05342b4d0.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21803&date=2027-01-29",
+      "first_seen": "2026-11-05"
+    },
     "cotton": null
   },
   {
@@ -1954,6 +1960,30 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takeshi-ito-270206/",
       "first_seen": "2026-11-04"
     }
+  },
+  {
+    "date": "2027-02-11T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MOLLY TUTTLE + KETCH SECOR (of Old Crow Medicine Show)",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/fd6b1611bb770afe5dad592b5d06d58e.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/molly-tuttle/",
+      "first_seen": "2026-11-05"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-12T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MOLLY TUTTLE + KETCH SECOR (of Old Crow Medicine Show)",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/fd6b1611bb770afe5dad592b5d06d58e.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/molly-tuttle/",
+      "first_seen": "2026-11-05"
+    },
+    "billboard": null,
+    "cotton": null
   },
   {
     "date": "2027-02-17T00:00:00.000Z",
