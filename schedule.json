@@ -80,13 +80,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "ZARUKAME Billboard Live with special band \"Echoes\" Guest：上野耕平",
-      "time": "17:30 / 20:30",
-      "img": "images/7deb58bd29ef6c6f655e2925851148cf.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21621&date=2026-11-05",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": null
   },
   {
@@ -1923,6 +1917,30 @@
       "first_seen": "2026-11-02"
     },
     "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-03T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Jo Jelly First Japan Live at Billboard Live",
+      "time": "17:30 / 20:30",
+      "img": "images/dacc5f9b6398d8b1f9fc4bfe09006337.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-03",
+      "first_seen": "2026-11-06"
+    },
+    "cotton": null
+  },
+  {
+    "date": "2027-02-04T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": {
+      "artist": "Jo Jelly First Japan Live at Billboard Live",
+      "time": "17:30 / 20:30",
+      "img": "images/dacc5f9b6398d8b1f9fc4bfe09006337.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-04",
+      "first_seen": "2026-11-06"
+    },
     "cotton": null
   },
   {
