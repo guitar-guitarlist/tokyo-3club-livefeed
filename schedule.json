@@ -92,13 +92,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/dave-holland/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "大橋トリオ TRIO Sextet Billboard Live Tour 2026",
-      "time": "18:00 / 21:00",
-      "img": "images/dab71f9c5e02f8cfb3689641e5d4fc77.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "ANATOLE MUSTER",
       "time": "1st: 6:00pm / 2nd: 8:30pm",
