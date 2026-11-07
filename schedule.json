@@ -1160,7 +1160,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/emmet-cohen/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "WONK LIVE for LAB",
+      "time": "18:00 / 21:00",
+      "img": "images/936284410357adb09a5bdd75541665eb.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21817&date=2026-12-24",
+      "first_seen": "2026-11-07"
+    },
     "cotton": {
       "artist": "Special Christmas Evening with LAURA ANGLADE",
       "time": "1st: 6:00pm / 2nd: 9:00pm",
