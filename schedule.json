@@ -1946,7 +1946,13 @@
   {
     "date": "2027-02-05T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "Stick Men Tony Levin, Pat Mastelotto and Markus Reuter",
+      "time": "17:30 / 20:30",
+      "img": "images/a751b8d405ce71ebddb951fa8038e8b1.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21771&date=2027-02-05",
+      "first_seen": "2026-11-08"
+    },
     "cotton": {
       "artist": "広瀬未来ジャズオーケストラ",
       "time": "1st: 6:00pm / 2nd: 8:30pm",
