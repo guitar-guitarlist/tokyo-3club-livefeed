@@ -128,13 +128,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/mika-nakashima/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "渡辺満里奈 40th Anniversary LIVE “Still Ringing Bells”",
-      "time": "16:00 / 19:00",
-      "img": "images/1a84247cfbbdcdecbf3067b04c9c460b.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "福井晶一 デビュー30周年記念コンサート～Curtain Never Falls～",
       "time": "1st: 3:30pm / 2nd: 7:00pm",
@@ -1964,7 +1958,13 @@
   {
     "date": "2027-02-06T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "寺岡呼人 BIRTHDAY LIVE 2027",
+      "time": "16:00 / 19:00",
+      "img": "images/6a982940e6d8a97a28e3086649a61cfd.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21758&date=2027-02-06",
+      "first_seen": "2026-11-09"
+    },
     "cotton": {
       "artist": "伊東たけし メロウ・マッドネス・セプテット \"Luxury Night 2027\"",
       "time": "1st: 4:30pm / 2nd: 7:30pm",
