@@ -158,13 +158,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "Fender x Billboard Live TOKYO presents THE NIGHT OF TELE® & P-BASS® 〜The 75th ANNIVERSARY〜",
-      "time": "17:30 / 20:30",
-      "img": "images/b30cef9a0a27ff15ac38ce57fd93feb3.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-10",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "古舘と客人と vol.41 古舘伊知郎 有働由美子",
       "time": "1st: 8:00pm",
@@ -2038,17 +2032,5 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toshinori-yonekura-270217/",
       "first_seen": "2026-11-04"
     }
-  },
-  {
-    "date": "2027-11-09T00:00:00.000Z",
-    "bluenote": null,
-    "billboard": {
-      "artist": "Fender x Billboard Live TOKYO presents THE NIGHT OF TELE® & P-BASS® 〜The 75th ANNIVERSARY〜",
-      "time": "17:30 / 20:30",
-      "img": "images/b30cef9a0a27ff15ac38ce57fd93feb3.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2027-11-09",
-      "first_seen": "2026-11-10"
-    },
-    "cotton": null
   }
 ]
