@@ -1419,7 +1419,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21717&date=2027-01-08",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "KOZZY IWAKAWA 素晴らしき音楽世界旅行 新春スペシャル〜大人の新年会",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2daacec6b78a9b63a4e8b86cf569eeda.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kozzy-Iwakawa-270108/",
+      "first_seen": "2026-11-11"
+    }
   },
   {
     "date": "2027-01-09T00:00:00.000Z",
@@ -1986,6 +1992,30 @@
     }
   },
   {
+    "date": "2027-02-09T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "DOLPHIN HYPERSPACE featuring LUKE TITUS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/b1f68bab97f689289e3f28cae1cb5e84.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/dolphin-hyperspace-270209/",
+      "first_seen": "2026-11-11"
+    }
+  },
+  {
+    "date": "2027-02-10T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "DOLPHIN HYPERSPACE featuring LUKE TITUS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/b1f68bab97f689289e3f28cae1cb5e84.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/dolphin-hyperspace-270209/",
+      "first_seen": "2026-11-11"
+    }
+  },
+  {
     "date": "2027-02-11T00:00:00.000Z",
     "bluenote": {
       "artist": "MOLLY TUTTLE + KETCH SECOR (of Old Crow Medicine Show)",
@@ -2010,6 +2040,18 @@
     "cotton": null
   },
   {
+    "date": "2027-02-16T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "bohemianvoodoo Live at COTTON CLUB",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/d15c1b25eeb55cf7a1f248d11f9f221d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/bohemianvoodoo-270216/",
+      "first_seen": "2026-11-11"
+    }
+  },
+  {
     "date": "2027-02-17T00:00:00.000Z",
     "bluenote": null,
     "billboard": null,
@@ -2031,6 +2073,30 @@
       "img": "images/229d9b1a273c3e60dfd1ed0f54b3252b.jpg",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toshinori-yonekura-270217/",
       "first_seen": "2026-11-04"
+    }
+  },
+  {
+    "date": "2027-02-27T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "KENICHI TSUNODA BIG BAND LIVE at COTTON CLUB 2027",
+      "time": "1st: 3:30pm / 2nd: 6:30pm",
+      "img": "images/65478252fae51399012c6687c265a529.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenichi-tsunoda-270227/",
+      "first_seen": "2026-11-11"
+    }
+  },
+  {
+    "date": "2027-02-28T00:00:00.000Z",
+    "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "KENICHI TSUNODA BIG BAND LIVE at COTTON CLUB 2027",
+      "time": "1st: 3:30pm / 2nd: 6:30pm",
+      "img": "images/65478252fae51399012c6687c265a529.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenichi-tsunoda-270227/",
+      "first_seen": "2026-11-11"
     }
   }
 ]
