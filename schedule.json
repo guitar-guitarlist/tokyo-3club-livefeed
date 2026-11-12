@@ -1921,7 +1921,13 @@
   },
   {
     "date": "2027-02-03T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TOKU \"TRIBUTES\" Release Live 2027",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/be049f8d1aaa95d56db2be5e711005d9.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/toku/",
+      "first_seen": "2026-11-12"
+    },
     "billboard": {
       "artist": "Jo Jelly First Japan Live at Billboard Live",
       "time": "17:30 / 20:30",
