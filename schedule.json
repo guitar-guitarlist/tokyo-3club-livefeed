@@ -1856,7 +1856,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato-bnt-all-star-jazz-orchestra/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "麗蘭 2027 at Billboard Live [Pride And Joy]",
+      "time": "16:00 / 19:00",
+      "img": "images/0be2d2317bf242925a68c2e1d0087d72.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21833&date=2027-01-30",
+      "first_seen": "2026-11-14"
+    },
     "cotton": null
   },
   {
