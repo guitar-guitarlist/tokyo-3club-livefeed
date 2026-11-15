@@ -230,13 +230,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/juju/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "miwa Billboard Live Tour 2026 “miwa CLASSIC Ⅵ”",
-      "time": "16:00 / 19:00",
-      "img": "images/5f544043003513ecfbd4a4222f4d0cc2.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21637&date=2026-11-14",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "BENNY GREEN TRIO",
       "time": "1st: 4:30pm / 2nd: 7:30pm",
@@ -2036,7 +2030,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/molly-tuttle/",
       "first_seen": "2026-11-05"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "N.S. DANCEMBLE Billboard Live Tour",
+      "time": "18:00 / 21:00",
+      "img": "images/01cdbfdfb01431dc420b7745ed7b3d60.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21829&date=2027-02-12",
+      "first_seen": "2026-11-15"
+    },
     "cotton": null
   },
   {
