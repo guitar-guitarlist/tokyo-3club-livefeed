@@ -248,13 +248,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/venna/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "Grooving Night Premium in Billboard Live TOKYO SIRUP×AAAMYYY",
-      "time": "16:00 / 19:30",
-      "img": "images/b651e44c68afe083745dc03e6f778abf.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "BENNY GREEN TRIO",
       "time": "1st: 4:30pm / 2nd: 7:30pm",
