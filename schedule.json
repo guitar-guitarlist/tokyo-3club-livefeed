@@ -1479,7 +1479,13 @@
       "first_seen": "2026-11-02"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "古舘と客人と vol.43 古舘伊知郎 西加奈子",
+      "time": "1st: 8:00pm",
+      "img": "images/a0dddc20011d0c054739359681cf1c19.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-270112/",
+      "first_seen": "2026-11-18"
+    }
   },
   {
     "date": "2027-01-13T00:00:00.000Z",
@@ -1545,7 +1551,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21712&date=2027-01-15",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "The TRAVELLERS with NAOYUKI FUJII & TATSUYA NAKAMURA",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/43ab6b2c5cd64f25908c0fc3868acbb7.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/the-travellers-270115/",
+      "first_seen": "2026-11-18"
+    }
   },
   {
     "date": "2027-01-16T00:00:00.000Z",
@@ -1671,7 +1683,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-21",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "井草聖ニ Crossover Guitar",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/e61e90e3bdb116fdd59a80d837ba34c0.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/seiji-igusa-270121/",
+      "first_seen": "2026-11-18"
+    }
   },
   {
     "date": "2027-01-22T00:00:00.000Z",
@@ -1827,7 +1845,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21803&date=2027-01-29",
       "first_seen": "2026-11-05"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "若井優也 TRIO featuring 楠井五月 & 石若駿 The Next Movement 11th Anniversary Concert",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/3dd4bd39f94b492a852cff4eaeddf416.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/yuya-wakai-270129/",
+      "first_seen": "2026-11-18"
+    }
   },
   {
     "date": "2027-01-30T00:00:00.000Z",
