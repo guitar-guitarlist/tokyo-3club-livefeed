@@ -1916,7 +1916,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "MOBETTA & FRIENDS – THE AFTERPARTY Maurice MOBETTA Brown and more",
+      "time": "17:30 / 21:00",
+      "img": "images/bc80355df55c454ae4aae3404cb902a4.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21830&date=2027-02-02",
+      "first_seen": "2026-11-19"
+    },
     "cotton": null
   },
   {
@@ -2052,8 +2058,50 @@
     "cotton": null
   },
   {
+    "date": "2027-02-13T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MARI NATSUKI \"MARI de MODE 9\"",
+      "time": "1st: 7:00pm",
+      "img": "images/620679506343fc1664cc2254dfa87229.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki-soixante-blues/",
+      "first_seen": "2026-11-19"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "\"Be My Valentine\" An Evening of Love Songs with BRENNA WHITAKER",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/981101fdac4db172718329b8bafd1d87.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/brenna-whitaker-270213/",
+      "first_seen": "2026-11-19"
+    }
+  },
+  {
+    "date": "2027-02-14T00:00:00.000Z",
+    "bluenote": {
+      "artist": "MARI NATSUKI \"MARI de MODE 9\"",
+      "time": "1st: 7:00pm",
+      "img": "images/620679506343fc1664cc2254dfa87229.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki-soixante-blues/",
+      "first_seen": "2026-11-19"
+    },
+    "billboard": null,
+    "cotton": {
+      "artist": "\"Be My Valentine\" An Evening of Love Songs with BRENNA WHITAKER",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/981101fdac4db172718329b8bafd1d87.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/brenna-whitaker-270213/",
+      "first_seen": "2026-11-19"
+    }
+  },
+  {
     "date": "2027-02-15T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "MARI NATSUKI \"MARI de MODE 9\"",
+      "time": "1st: 7:00pm",
+      "img": "images/620679506343fc1664cc2254dfa87229.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/mari-natsuki-soixante-blues/",
+      "first_seen": "2026-11-19"
+    },
     "billboard": {
       "artist": "「The Night Flight 2027」 八神純子＆後藤次利 featuring 今剛、林立夫、佐藤準",
       "time": "17:30 / 20:30",
@@ -2061,7 +2109,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-15",
       "first_seen": "2026-11-18"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "\"Be My Valentine\" An Evening of Love Songs with BRENNA WHITAKER",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/981101fdac4db172718329b8bafd1d87.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/brenna-whitaker-270213/",
+      "first_seen": "2026-11-19"
+    }
   },
   {
     "date": "2027-02-16T00:00:00.000Z",
@@ -2083,7 +2137,13 @@
   },
   {
     "date": "2027-02-17T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "IVAN LINS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2344c2ecb9a9922ae1d73dc68b54cb91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/ivan-lins/",
+      "first_seen": "2026-11-19"
+    },
     "billboard": null,
     "cotton": {
       "artist": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
@@ -2095,7 +2155,13 @@
   },
   {
     "date": "2027-02-18T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "IVAN LINS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2344c2ecb9a9922ae1d73dc68b54cb91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/ivan-lins/",
+      "first_seen": "2026-11-19"
+    },
     "billboard": {
       "artist": "「The Night Flight 2027」 八神純子＆後藤次利 featuring 今剛、林立夫、佐藤準",
       "time": "17:30 / 20:30",
@@ -2106,8 +2172,38 @@
     "cotton": null
   },
   {
+    "date": "2027-02-19T00:00:00.000Z",
+    "bluenote": {
+      "artist": "IVAN LINS",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/2344c2ecb9a9922ae1d73dc68b54cb91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/ivan-lins/",
+      "first_seen": "2026-11-19"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-20T00:00:00.000Z",
+    "bluenote": {
+      "artist": "IVAN LINS",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/2344c2ecb9a9922ae1d73dc68b54cb91.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/ivan-lins/",
+      "first_seen": "2026-11-19"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
     "date": "2027-02-23T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "YOICHI MURATA BIG BAND featuring IVAN LINS",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/d70bfd827f06c17f4b95a736a0eeb367.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/yoichi-murata/",
+      "first_seen": "2026-11-19"
+    },
     "billboard": null,
     "cotton": {
       "artist": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
