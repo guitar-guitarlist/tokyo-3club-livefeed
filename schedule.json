@@ -2066,7 +2066,13 @@
   {
     "date": "2027-02-16T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "相川七瀬 Billboard Live Tour 2027 ～MOON DANCE～",
+      "time": "17:30 / 20:30",
+      "img": "images/343b4457662989db067e6e3b2c177899.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21824&date=2027-02-16",
+      "first_seen": "2026-11-19"
+    },
     "cotton": {
       "artist": "bohemianvoodoo Live at COTTON CLUB",
       "time": "1st: 6:00pm / 2nd: 8:30pm",
