@@ -1130,7 +1130,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/emmet-cohen/",
       "first_seen": "2026-11-02"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "【追加公演】s**t kingz",
+      "time": "17:30 / 20:30",
+      "img": "images/aa858c6605d91bfa1051037b329576f9.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21857&date=2026-12-25",
+      "first_seen": "2026-11-20"
+    },
     "cotton": {
       "artist": "Special Christmas Evening with LAURA ANGLADE",
       "time": "1st: 6:00pm / 2nd: 9:00pm",
