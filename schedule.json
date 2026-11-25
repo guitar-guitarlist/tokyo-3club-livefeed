@@ -1365,7 +1365,13 @@
       "first_seen": "2026-11-02"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "KOYUKIと魔女の物語 vol.0",
+      "time": "1st: 7:00pm",
+      "img": "images/f8c4d4056697a7d068335a32175ef46e.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/",
+      "first_seen": "2026-11-25"
+    }
   },
   {
     "date": "2027-01-08T00:00:00.000Z",
@@ -1659,7 +1665,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21711&date=2027-01-20",
       "first_seen": "2026-11-02"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "名渡山遼 Birthday Live 〜Dear Ohana 2027〜",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/f758a02289ad9800611f28984fd6933d.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryo-natoyama-270120/",
+      "first_seen": "2026-11-25"
+    }
   },
   {
     "date": "2027-01-21T00:00:00.000Z",
@@ -2031,7 +2043,13 @@
       "first_seen": "2026-11-05"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "和田唱 SOLO COVERS vol.4 -Songs I Gave Away-",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/cd8fb8af1f759f3a908eee5c7b136e41.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/sho-wada-270211/",
+      "first_seen": "2026-11-25"
+    }
   },
   {
     "date": "2027-02-12T00:00:00.000Z",
@@ -2138,7 +2156,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/ivan-lins/",
       "first_seen": "2026-11-19"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "DEZOLVE Best Album「DEZOLVEST」Release Live 2027",
+      "time": "17:30 / 20:30",
+      "img": "images/5570ee59ce9f6ef52a0ad2d6a55c2a7a.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21860&date=2027-02-17",
+      "first_seen": "2026-11-25"
+    },
     "cotton": {
       "artist": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
       "time": "1st: 5:30pm / 2nd: 8:30pm",
@@ -2199,7 +2223,13 @@
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-22",
       "first_seen": "2026-11-20"
     },
-    "cotton": null
+    "cotton": {
+      "artist": "浅葉裕文 \"Plays Standards\" vol.3",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/5318983eeb858c2e6119b053a9fe47e3.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/hirofumi-asaba-270222/",
+      "first_seen": "2026-11-25"
+    }
   },
   {
     "date": "2027-02-23T00:00:00.000Z",
