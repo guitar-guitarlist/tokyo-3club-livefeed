@@ -404,13 +404,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "Che'Nelle Billboard Live Tour 2026",
-      "time": "17:30 / 20:30",
-      "img": "images/556b0a58e54188fd2ec2f5f56b9b861a.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21659&date=2026-11-24",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
       "time": "1st: 4:00pm",
