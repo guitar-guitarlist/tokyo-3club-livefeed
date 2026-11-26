@@ -1347,7 +1347,13 @@
       "first_seen": "2026-11-02"
     },
     "billboard": null,
-    "cotton": null
+    "cotton": {
+      "artist": "MARTHA KATO Trio with Strings",
+      "time": "1st: 7:30pm",
+      "img": "images/46dcbc4de1608b443454ee3133cb2526.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/martha-kato-270106/",
+      "first_seen": "2026-11-26"
+    }
   },
   {
     "date": "2027-01-07T00:00:00.000Z",
@@ -1945,7 +1951,13 @@
   },
   {
     "date": "2027-02-04T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TYREEK McDOLE",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/451b1bf1d575e14dce2aea02ecac0bac.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/tyreek-mcdole/",
+      "first_seen": "2026-11-26"
+    },
     "billboard": {
       "artist": "Jo Jelly First Japan Live at Billboard Live",
       "time": "17:30 / 20:30",
@@ -1957,7 +1969,13 @@
   },
   {
     "date": "2027-02-05T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TYREEK McDOLE",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/451b1bf1d575e14dce2aea02ecac0bac.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/tyreek-mcdole/",
+      "first_seen": "2026-11-26"
+    },
     "billboard": {
       "artist": "Stick Men Tony Levin, Pat Mastelotto and Markus Reuter",
       "time": "17:30 / 20:30",
@@ -1975,7 +1993,13 @@
   },
   {
     "date": "2027-02-06T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "TYREEK McDOLE",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/451b1bf1d575e14dce2aea02ecac0bac.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/tyreek-mcdole/",
+      "first_seen": "2026-11-26"
+    },
     "billboard": {
       "artist": "寺岡呼人 BIRTHDAY LIVE 2027",
       "time": "16:00 / 19:00",
@@ -2250,8 +2274,38 @@
     }
   },
   {
-    "date": "2027-02-27T00:00:00.000Z",
+    "date": "2027-02-25T00:00:00.000Z",
     "bluenote": null,
+    "billboard": null,
+    "cotton": {
+      "artist": "東山光明×藤岡正明 『DoM』Special Live at COTTON CLUB",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/82164493141423eafe0a31bea6c9da62.jpg",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/mitsuaki-higashiyama-masaaki-fujioka-270225/",
+      "first_seen": "2026-11-26"
+    }
+  },
+  {
+    "date": "2027-02-26T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CHICO & THE GYPSIES",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/0b5c48c7fe069b39169d4d76ef875b0d.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chico/",
+      "first_seen": "2026-11-26"
+    },
+    "billboard": null,
+    "cotton": null
+  },
+  {
+    "date": "2027-02-27T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CHICO & THE GYPSIES",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/0b5c48c7fe069b39169d4d76ef875b0d.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chico/",
+      "first_seen": "2026-11-26"
+    },
     "billboard": null,
     "cotton": {
       "artist": "KENICHI TSUNODA BIG BAND LIVE at COTTON CLUB 2027",
@@ -2263,7 +2317,13 @@
   },
   {
     "date": "2027-02-28T00:00:00.000Z",
-    "bluenote": null,
+    "bluenote": {
+      "artist": "CHICO & THE GYPSIES",
+      "time": "1st: 4:30pm / 2nd: 7:30pm",
+      "img": "images/0b5c48c7fe069b39169d4d76ef875b0d.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chico/",
+      "first_seen": "2026-11-26"
+    },
     "billboard": null,
     "cotton": {
       "artist": "KENICHI TSUNODA BIG BAND LIVE at COTTON CLUB 2027",
@@ -2272,5 +2332,17 @@
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenichi-tsunoda-270227/",
       "first_seen": "2026-11-11"
     }
+  },
+  {
+    "date": "2027-03-01T00:00:00.000Z",
+    "bluenote": {
+      "artist": "CHICO & THE GYPSIES",
+      "time": "1st: 6:00pm / 2nd: 8:30pm",
+      "img": "images/0b5c48c7fe069b39169d4d76ef875b0d.jpg",
+      "url": "https://www.bluenote.co.jp/jp/artists/chico/",
+      "first_seen": "2026-11-26"
+    },
+    "billboard": null,
+    "cotton": null
   }
 ]
