@@ -422,13 +422,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "佐藤竹善 Your Christmas Night 2026",
-      "time": "17:30 / 20:30",
-      "img": "images/6785a0459d60b50b1d687e3f22adc534.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21587&date=2026-11-25",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "MAKOTO TSUBASA BIRTHDAY LIVE 2026",
       "time": "1st: 4:00pm / 2nd: 7:00pm",
@@ -1369,7 +1363,7 @@
       "artist": "KOYUKIと魔女の物語 vol.0",
       "time": "1st: 7:00pm",
       "img": "images/f8c4d4056697a7d068335a32175ef46e.jpg",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/koyuki-270107/",
       "first_seen": "2026-11-25"
     }
   },
@@ -2240,7 +2234,13 @@
       "url": "https://www.bluenote.co.jp/jp/artists/yoichi-murata/",
       "first_seen": "2026-11-19"
     },
-    "billboard": null,
+    "billboard": {
+      "artist": "THE BIG STAR QUINTET  Jody Stephens（BIG STAR）, Mike Mills（R.E.M.）, Jon Auer（THE POSIES）, Pat Sansone（WILCO）and Chris Stamey（The dB's）",
+      "time": "16:00 / 19:00",
+      "img": "images/ea0288f6a5be1694b39cc0b516c130cc.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21765&date=2027-02-23",
+      "first_seen": "2026-11-26"
+    },
     "cotton": {
       "artist": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
       "time": "1st: 3:30pm / 2nd: 6:30pm",
