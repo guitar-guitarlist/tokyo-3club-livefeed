@@ -476,13 +476,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/rhymester/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "鈴木茂「LAGOON」発売50周年記念ライブ",
-      "time": "16:00 / 19:00",
-      "img": "images/6e3c7913860e66001f3011e6c07c9c85.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21563&date=2026-11-28",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "YASUDA NARUMI 60th",
       "time": "1st: 4:30pm / 2nd: 7:30pm",
@@ -597,11 +591,11 @@
       "first_seen": "2026-11-02"
     },
     "billboard": {
-      "artist": "NOA Billboard Live 2026",
+      "artist": "NOA Billboard Live 2026 \"GLOW & NOISE \"",
       "time": "17:30 / 20:30",
       "img": "images/43334147d9c3d9707b054248293bbfd7.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21752&date=2026-12-03",
-      "first_seen": "2026-11-02"
+      "first_seen": "2026-11-27"
     },
     "cotton": {
       "artist": "高岡早紀 Birthday Premium Live 2026",
@@ -807,11 +801,11 @@
       "first_seen": "2026-11-02"
     },
     "billboard": {
-      "artist": "NOA Billboard Live 2026",
+      "artist": "NOA Billboard Live 2026 \"GLOW & NOISE \"",
       "time": "16:00 / 19:00",
       "img": "images/43334147d9c3d9707b054248293bbfd7.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21752&date=2026-12-12",
-      "first_seen": "2026-11-02"
+      "first_seen": "2026-11-27"
     },
     "cotton": {
       "artist": "松本伊代 早見優 SWEET WINTER ～Yesterday Once More～",
