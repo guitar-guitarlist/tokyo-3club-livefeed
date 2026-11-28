@@ -452,13 +452,7 @@
       "url": "https://www.bluenote.co.jp/jp/artists/takuya-kuroda/",
       "first_seen": "2026-11-02"
     },
-    "billboard": {
-      "artist": "ハナレグミ faraway so close 2026 〜ハナレグミ with sweet thing♡ fall in Autumn〜",
-      "time": "18:00 / 21:00",
-      "img": "images/4d04ffe4f15b6532a432c54e69ed0bf4.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21635&date=2026-11-27",
-      "first_seen": "2026-11-02"
-    },
+    "billboard": null,
     "cotton": {
       "artist": "YASUDA NARUMI 60th",
       "time": "1st: 6:00pm / 2nd: 8:30pm",
@@ -2270,7 +2264,13 @@
   {
     "date": "2027-02-25T00:00:00.000Z",
     "bluenote": null,
-    "billboard": null,
+    "billboard": {
+      "artist": "SLOW SHANK TOUR 2027",
+      "time": "17:30 / 20:30",
+      "img": "images/933ad06cd5ae5ef08a42b9ccb798e3cd.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21820&date=2027-02-25",
+      "first_seen": "2026-11-28"
+    },
     "cotton": {
       "artist": "東山光明×藤岡正明 『DoM』Special Live at COTTON CLUB",
       "time": "1st: 4:30pm / 2nd: 7:30pm",
